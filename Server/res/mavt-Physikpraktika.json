@@ -1,0 +1,370 @@
+{
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Kevin Schneider",
+            "links": [
+                [
+                    "Kreisel.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Kreisel.zip"
+                ]
+            ],
+            "title": "Kreisel Fehlerrechnung und Matlab file",
+            "year": "2016"
+        },
+        {
+            "author": "Jonas Londschien",
+            "links": [
+                [
+                    "Praktika_innere_Reibung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Praktika_innere_Reibung.pdf"
+                ]
+            ],
+            "title": "Innere Reibung - Matlabskript (just copy & past in Matlab)",
+            "year": "FS 13"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "F. T.",
+            "links": [
+                [
+                    "Datenblatt_Spezifische_Waerme.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Datenblatt_Spezifische_Waerme.pdf"
+                ]
+            ],
+            "title": "Datenblatt - Spezifische W\u00e4rme",
+            "year": "17 FS"
+        },
+        {
+            "author": "Florian Teuscher",
+            "links": [
+                [
+                    "Elastische Konstanten.xlsx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elastische%20Konstanten.xlsx"
+                ]
+            ],
+            "title": "Elastische Konstanten",
+            "year": "17 FS"
+        },
+        {
+            "author": "Peter Ganovsky, Jan Schubert",
+            "links": [
+                [
+                    "Metabolism Excel",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Metabolism.xlsx"
+                ]
+            ],
+            "title": "Metabolism",
+            "year": "17 HS"
+        },
+        {
+            "author": "Peter Ganovsky",
+            "links": [
+                [
+                    "Wechselstr\u00f6me Datenblatt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wechselstrom.xlsx"
+                ]
+            ],
+            "title": "Wechselstr\u00f6me - Datenblatt mit Funktionsplot",
+            "year": "17 HS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Faraday - Skript.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Faraday%20-%20Skript.pdf"
+                ],
+                [
+                    "Faraday - Zusammenfassung.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Faraday%20-%20Zusammenfassung.docx"
+                ]
+            ],
+            "title": "Faraday-Konstante",
+            "year": "2013"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Mikrowellen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mikrowellen.zip"
+                ]
+            ],
+            "title": "Mikrowellen",
+            "year": "2013"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Radioaktivit\u00e4t.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Radioaktivit%C3%A4t_1.zip"
+                ]
+            ],
+            "title": "Radioaktivit\u00e4t",
+            "year": "2013"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Transversalschwingung einer Saite.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Transversalschwingung%20einer%20Saite.zip"
+                ]
+            ],
+            "title": "Transversalschwingung einer Saite",
+            "year": "2013"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Universelle Gaskonstante.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Universelle%20Gaskonstante.zip"
+                ]
+            ],
+            "title": "Universelle Gaskonstante",
+            "year": "2013"
+        },
+        {
+            "author": "Nicolas Fumeaux, Nicolas El Hayek",
+            "links": [
+                [
+                    "Absoluter Nullpunkt.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Absoluter%20Nullpunkt.txt"
+                ]
+            ],
+            "title": "Matlab file",
+            "year": "2013"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "<Benedikt Seitz",
+            "links": [
+                [
+                    "Brechung.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Brechung.docx"
+                ]
+            ],
+            "title": "Brechung",
+            "year": "2012"
+        },
+        {
+            "author": "Benedikt Seitz",
+            "links": [
+                [
+                    "Hall Effekt.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Hall%20Effekt.docx"
+                ]
+            ],
+            "title": "Halleffekt",
+            "year": "2012"
+        },
+        {
+            "author": "Benedikt Seitz",
+            "links": [
+                [
+                    "Halbleiter.doc",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Halbleiter.doc"
+                ]
+            ],
+            "title": "Halbleiter",
+            "year": "2012"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "Radioaktivit\u00e4t.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Radioaktivit%C3%A4t.zip"
+                ]
+            ],
+            "title": "Radioaktivit\u00e4t",
+            "year": "12 FS"
+        },
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/absoluter%20Nullpunkt.pdf"
+                ]
+            ],
+            "title": "absoluter Nullpunkt",
+            "year": "12 FS"
+        },
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Brechungsindex%20eines%20Prismas.pdf"
+                ]
+            ],
+            "title": "Brechungsindex eines Prismas",
+            "year": "12 FS"
+        },
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wechselstrom.pdf"
+                ]
+            ],
+            "title": "Wechselstrom",
+            "year": "12 FS"
+        },
+        {
+            "author": "Oliver Brinkmann & Andr\u00e9 Stoll",
+            "links": [
+                [
+                    "Elastische Konstanten.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elastische%20Konstanten.pdf"
+                ]
+            ],
+            "title": "Praktikumsbericht Elastische Konstanten",
+            "year": "16 FS"
+        },
+        {
+            "author": "Lukas Schlagenhauf",
+            "links": [
+                [
+                    "READ ME!",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/READ%20ME%21.pdf"
+                ],
+                [
+                    "4. Saite",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/4.%20Saite.zip"
+                ],
+                [
+                    "7. Reibung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/7.%20innere%20Reibung.zip"
+                ],
+                [
+                    "10. Gaskonst.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/10.%20Gaskonstante.zip"
+                ],
+                [
+                    "32. Magn. Felder",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/32.%20Magn.%20Felder.zip"
+                ],
+                [
+                    "39. Halleffekt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/39.%20Halleffekt.zip"
+                ],
+                [
+                    "40. Radioakiv.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/40.%20Radioaktivit%C3%A4t.zip"
+                ]
+            ],
+            "title": "Diverse Physikpraktikas (Zusammenfassung und Excel-Tabelle)",
+            "year": "17"
+        },
+        {
+            "author": "LP",
+            "links": [
+                [
+                    "EnergieverteilungimSpektrum.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EnergieverteilungimSpektrum.zip"
+                ]
+            ],
+            "title": "Energieverteilung im Spektrum",
+            "year": "17 FS"
+        },
+        {
+            "author": "LP",
+            "links": [
+                [
+                    "Pyrometrie.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pyrometrie.zip"
+                ]
+            ],
+            "title": "Pyrometrie",
+            "year": "17 FS"
+        },
+        {
+            "author": "Lukas Codispoti",
+            "links": [
+                [
+                    "PyroZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pyrometrie%20-%20Meine%20ZF.docx"
+                ]
+            ],
+            "title": "Pyrometrie",
+            "year": "17 FS"
+        },
+        {
+            "author": "LP",
+            "links": [
+                [
+                    "ElastischeKonstanten.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ElastischeKonstanten.zip"
+                ]
+            ],
+            "title": "Elastische Konstanten",
+            "year": "17 FS"
+        },
+        {
+            "author": "LP",
+            "links": [
+                [
+                    "Elastizit\u00e4t.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elastizit%C3%A4t.zip"
+                ]
+            ],
+            "title": "Elastizit\u00e4t",
+            "year": "17 FS"
+        },
+        {
+            "author": "Ole M\u00fcller",
+            "links": [
+                [
+                    "pyro_zf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pyrometrie.odt"
+                ]
+            ],
+            "title": "Pyrometrie zusammenfassung",
+            "year": "17FS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Messung magnet. Felder.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Messung%20magnet.%20Felder.zip"
+                ]
+            ],
+            "title": "Messung magnetischer Felder",
+            "year": "2013"
+        },
+        {
+            "author": "Philipp Sch\u00f6ni",
+            "links": [
+                [
+                    "26 Bestimmung der Faradayschen Konstante.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/26%20Bestimmung%20der%20Faradayschen%20Konstante.pdf"
+                ],
+                [
+                    "26 Bestimmung der Faradayschen Konstante.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/26%20Bestimmung%20der%20Faradayschen%20Konstante.docx"
+                ]
+            ],
+            "title": "Faradaysche Konstante",
+            "year": "2017"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "59",
+        "name": "Physikpraktika",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

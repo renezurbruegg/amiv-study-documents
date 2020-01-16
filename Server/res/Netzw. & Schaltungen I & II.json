@@ -1,0 +1,994 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. Dr. J. W. Kolar",
+            "links": [
+                [
+                    "Katalog",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfungskatalog%20NuS.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungskatalog ETH",
+            "year": "06"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "Sammlung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_SammlungPruefungsbeispiele_0.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_SammlungPruefungsbeispiele_Muloe_0.pdf"
+                ]
+            ],
+            "title": "NuS II - Sammlung Pr\u00fcfungsbeispiele",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. M. Albach",
+            "links": [
+                [
+                    "Klausuren",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Probeklausuren%20NuS.zip"
+                ]
+            ],
+            "title": "Probeklausuren Buch",
+            "year": "08-10"
+        },
+        {
+            "author": "Prof J. W. Kolar",
+            "links": [
+                [
+                    "NUS_II_Pruefungsbeispiele.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUS_II_Pruefungsbeispiele.pdf"
+                ]
+            ],
+            "title": "NUS 2 Pr\u00fcfungskatalog",
+            "year": "2017"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII_FinalScriptum_03.pdf.zip"
+                ]
+            ],
+            "title": "NuS II - Finales Script",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Emitterschaltung_180607_corrected_03.pdf"
+                ]
+            ],
+            "title": "NuS II - Emitterschaltung",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FourierReihe_160507_noanim_02.pdf"
+                ]
+            ],
+            "title": "NuS II - Fourierreihen",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_II_neu_geschrieben_02.pdf"
+                ]
+            ],
+            "title": "NuS II - Skript (neu geschrieben)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Vorlesungsunterlagen_0.zip"
+                ]
+            ],
+            "title": "Vorlesungspr\u00e4sentation",
+            "year": "10 FS"
+        },
+        {
+            "author": "Manuel Meier",
+            "links": [
+                [
+                    "PVK_NuS1_2017.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_NuS1_2017.zip"
+                ]
+            ],
+            "title": "PVK Unterlagen NuS1 2017",
+            "year": "16 HS"
+        },
+        {
+            "author": "Christian Langenbacher",
+            "links": [
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ml_v1_1.pdf"
+                ]
+            ],
+            "title": "Musterl\u00f6sungen PVK Pr\u00fcfungskatalog NUS 1",
+            "year": "18 FS"
+        },
+        {
+            "author": "Ren\u00e9 Zurbr\u00fcgg",
+            "links": [
+                [
+                    "Aufgabenblatt PVK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/aufgaben-pvk.pdf"
+                ],
+                [
+                    "PVK Skript",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nus1_pvk_skript_v1.2.0.pdf.pdf"
+                ],
+                [
+                    "Formelsammlung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nus1-zsmfsg-v2.0.pdf"
+                ],
+                [
+                    "Formelsammlung (Quellcode)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zusammenfassung-v2.0.zip"
+                ],
+                [
+                    "Slides - Teil 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/v2_pvk_slides_teil_1_mit_lsg.pdf"
+                ],
+                [
+                    "Slides - Teil 2 (Magnetfeld)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pvk_slides_teil_2_v2_1.pdf"
+                ],
+                [
+                    "L\u00f6sungen zu PVK Aufgaben (ohne Aufgaben vom Katalog)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/aufgaben-pvk-lsg%28Ohne_Katalog%29.pdf"
+                ],
+                [
+                    "Pr\u00fcfungen Prof. Albach (NuS 1 - Teile)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uni_nurnberg_nus_1.zip"
+                ],
+                [
+                    "Teile des Pr\u00fcfungskatalogs (Kolar) mit L\u00f6sungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Katalog_mit_lsg_v2.5.pdf"
+                ]
+            ],
+            "title": "NuS-1 PVK Material",
+            "year": "18 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Bortis",
+            "links": [
+                [
+                    "Grundzweipole",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Rechenbeispiele_RLC_VB1_02.pdf"
+                ],
+                [
+                    "Komplexe Leistung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Rechenbeispiele_RLC_VB1_23_Bortis_02.pdf"
+                ]
+            ],
+            "title": "NuS II Rechenbeispiele",
+            "year": "08 FS"
+        },
+        {
+            "author": "Boris Vukovic",
+            "links": [
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Musterl%C3%B6sungen_NUS2_Pr%C3%BCfungskatalog2017.zip"
+                ]
+            ],
+            "title": "Musterl\u00f6sungen NUS2 Pr\u00fcfungskatalog 2017",
+            "year": "17 FS"
+        },
+        {
+            "author": "Gwendolin Rohner",
+            "links": [
+                [
+                    "MuL\u00f6 PVK Pr\u00fcfungskatalog NUS 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/L%C3%B6sungen_Pr%C3%BCfungskatalog_NUS_2.zip"
+                ]
+            ],
+            "title": "Musterl\u00f6sungen Pr\u00fcfungskatalog NUS2 PVK",
+            "year": "18 FS"
+        },
+        {
+            "author": "Alessandro Scozzafava",
+            "links": [
+                [
+                    "L\u00f6sungen Pr\u00fcfungskatalog NuS2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/L%C3%B6sungen%20Pr%C3%BCfungskatalog%20NuS2.zip"
+                ]
+            ],
+            "title": "L\u00f6sungen Pr\u00fcfungskatalog NuS2",
+            "year": "2017"
+        },
+        {
+            "author": "Nicolas Adam",
+            "links": [
+                [
+                    "NuS L\u00f6sungen.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20L%C3%B6sungen.pdf"
+                ],
+                [
+                    "NuS Aufgaben Nummeriert.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20Aufgaben%20Nummeriert.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungen Pr\u00fcfungskatalog NuS2",
+            "year": "2018"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Jannik Sch\u00e4fer",
+            "links": [
+                [
+                    "NuS_I_Pr\u00fcfungskatalog.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_I_Pr%C3%BCfungskatalog.pdf"
+                ]
+            ],
+            "title": "NUS I Pr\u00fcfungskatalog",
+            "year": "17 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Dario Caraci",
+            "links": [
+                [
+                    "Formelsammlung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_1.pdf"
+                ]
+            ],
+            "title": "Formelsammlung NUS I",
+            "year": "08 HS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Netzwerke%20und%20Schaltungen%20ITET%20Lukas%20Cavigelli.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 FS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "Netzwerke und Schaltungen I+II.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Netzwerke%20und%20Schaltungen%20I%2BII.pdf"
+                ]
+            ],
+            "title": "Zsfg NUS I+II",
+            "year": "09/10"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Netzwerke%20und%20Schaltungen%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09/10"
+        },
+        {
+            "author": "Cfougner",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_Zusammenfassung_Cfougner.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Lukas Schrittwieser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_NUS1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NUS 1",
+            "year": "10 HS"
+        },
+        {
+            "author": "Silvio Bischof",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20NuS%20I%20%28Silvio%20Bischof%29.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NuS I",
+            "year": "10 HS"
+        },
+        {
+            "author": "ABT",
+            "links": [
+                [
+                    "nus zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nus%20zusammenfassung.pdf"
+                ],
+                [
+                    "nus latex source.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nus%20latex%20source.zip"
+                ]
+            ],
+            "title": "Zusamenfassung NuS I + II",
+            "year": "11 FS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Netzwerke%20und%20Schaltungen%202%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NuS 2 (vor allem Kompl. AC-Rechnung)",
+            "year": "11 FS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "NuS1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/20120530_NuS1_Zsmf.pdf"
+                ],
+                [
+                    "NuS2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/20120530_NuS2_Zsmf.pdf"
+                ]
+            ],
+            "title": "NuS I&II Zusammenfassung",
+            "year": "11/12"
+        },
+        {
+            "author": "Hermann Blum",
+            "links": [
+                [
+                    "Zusammenfassung NUS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20NUS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Netzwerke und Schaltungen",
+            "year": "12/13"
+        },
+        {
+            "author": "Manuel Eggimann",
+            "links": [
+                [
+                    "Formelsammlung NuS 1 PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%201.pdf"
+                ],
+                [
+                    "Formelsammlung NuS 1 Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%201.docx"
+                ],
+                [
+                    "Formelsammlung NuS 2 PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%202.pdf"
+                ],
+                [
+                    "Formelsammlung NuS 2 Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%202.docx"
+                ]
+            ],
+            "title": "Formelsammlung NuS 1 und 2",
+            "year": "13/14"
+        },
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "DOCX (v1.1)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20I%26II%2013HS-14FS%20%28J.%20Kolar%29%20Zfsg%20-%20Stefan%20Rickli.docx"
+                ],
+                [
+                    "PDF (v1.1)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20I%26II%2013HS-14FS%20%28J.%20Kolar%29%20Zfsg%20-%20Stefan%20Rickli.pdf"
+                ]
+            ],
+            "title": "NuS I&II (J. Kollar)",
+            "year": "13/14"
+        },
+        {
+            "author": "Robin Rump",
+            "links": [
+                [
+                    "NUS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NUS I&II",
+            "year": "14/15"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "latex files incl PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20NuS%20Lang%20Raphael%20Fischer.zip"
+                ]
+            ],
+            "title": "ZF NuS 1 & 2 ausf\u00fchrlich",
+            "year": "14/15"
+        },
+        {
+            "author": "Manuel Fritsche",
+            "links": [
+                [
+                    "Netzwerke und Schaltungen Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Netzwerke%20und%20Schaltungen%20Zusammenfassung.pdf"
+                ],
+                [
+                    "Netzwerke und Schaltungen Zusammenfassung.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Netzwerke%20und%20Schaltungen%20Zusammenfassung.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14/15"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "latex files incl PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20NuS%20Kurz%20Raphael%20Fischer.zip"
+                ]
+            ],
+            "title": "ZF NuS 1 & 2 kompakt",
+            "year": "14/15"
+        },
+        {
+            "author": "Sandro Baumgartner",
+            "links": [
+                [
+                    "NUS_ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-final.pdf"
+                ]
+            ],
+            "title": "NUS 1&2 Zusammenfassung",
+            "year": "15/16"
+        },
+        {
+            "author": "Simon Erne",
+            "links": [
+                [
+                    "ZF_NuS_Simon_Erne_15.7.16.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_NuS_Simon_Erne_15.7.16.pdf"
+                ],
+                [
+                    "ZF_NuS_Simon_Erne_15.7.16.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_NuS_Simon_Erne_15.7.16.docx"
+                ],
+                [
+                    "Grafiken NuS.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Grafiken%20NuS.zip"
+                ]
+            ],
+            "title": "ZF | NuS I & II | HS15/FS16 | W.Kolar",
+            "year": "15/16"
+        },
+        {
+            "author": "Sayan Ali Khan",
+            "links": [
+                [
+                    "Aktualisierte NuS I & II Formelsammlung HS 2015-FS 2016 17.01.2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20Formelblatt%20HS16_1.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "15/16"
+        },
+        {
+            "author": "Nikolaus Vertovec",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%201_1.pdf"
+                ],
+                [
+                    "Word-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%201_1.docx"
+                ]
+            ],
+            "title": "Formelsammlung NuS 1, J. W. Kolar",
+            "year": "16 HS"
+        },
+        {
+            "author": "Silvano Cortesi",
+            "links": [
+                [
+                    "Formelsammlung_NuSI_Silvano_Cortesi.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_NuSI_Silvano_Cortesi.pdf"
+                ],
+                [
+                    "Latex_Files.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex_Files_5.zip"
+                ]
+            ],
+            "title": "Zusammenfassung/Formelsammlung NuS I",
+            "year": "16 HS"
+        },
+        {
+            "author": "Silvano Cortesi",
+            "links": [
+                [
+                    "Formelsammlung_NuSII_Silvano_Cortesi.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_NuSII_Silvano_Cortesi.pdf"
+                ],
+                [
+                    "Latex_Files.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex_Files_3.zip"
+                ]
+            ],
+            "title": "Zusammenfassung/Formelsammlung NuS II",
+            "year": "17 FS"
+        },
+        {
+            "author": "Nikolaus Vertovec",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%202_0.pdf"
+                ],
+                [
+                    "Word-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20NuS%202_0.docx"
+                ]
+            ],
+            "title": "Formelsammlung NuS 2, J. W. Kolar",
+            "year": "17 FS"
+        },
+        {
+            "author": "Lars Horvath",
+            "links": [
+                [
+                    "NuS_HS2017_Lars_Horvath.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_HS2017_Lars_Horvath.pdf"
+                ],
+                [
+                    "TEX_NUS1.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TEX_NUS1.zip"
+                ]
+            ],
+            "title": "Zusammenfassung - NUS I",
+            "year": "17 HS"
+        },
+        {
+            "author": "Thomas Dubach",
+            "links": [
+                [
+                    "Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_12.pdf"
+                ],
+                [
+                    "latex.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/latex.zip"
+                ]
+            ],
+            "title": "Zusammenfassung NuS I",
+            "year": "17 HS"
+        },
+        {
+            "author": "Maxwell Guerne-Kieferndorf",
+            "links": [
+                [
+                    "NUS1_Zsf_MGK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSI_Zusammenfassung.pdf"
+                ],
+                [
+                    "NUS1_Zsf_MGK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUS_Zusammenfassung.docx"
+                ]
+            ],
+            "title": "Netzwerke und Schaltungen I - Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Maxwell Guerne-Kieferndorf",
+            "links": [
+                [
+                    "NUS2_Zsf_MGK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII_Zusammenfassung.docx"
+                ],
+                [
+                    "NUS2_Zsf_MGK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "NUS II Zusammenfassung",
+            "year": "18 FS"
+        },
+        {
+            "author": "Lars Horvath",
+            "links": [
+                [
+                    "NuS_II_FS18_Lars_Horvath.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_II_FS18_Lars_Horvath.pdf"
+                ],
+                [
+                    "TEX_NUS2.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TEX_NUS2.zip"
+                ]
+            ],
+            "title": "Zusammenfassung - NUS II",
+            "year": "18 FS"
+        },
+        {
+            "author": "Thomas Dubach",
+            "links": [
+                [
+                    "Zusammenfassung NuS II.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20NuS%20II.pdf"
+                ],
+                [
+                    "latex.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/latex_1.zip"
+                ]
+            ],
+            "title": "Zusammenfassung NuS II",
+            "year": "18 FS"
+        },
+        {
+            "author": "Jonathan M\u00fcller",
+            "links": [
+                [
+                    "NuS I ZF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20I%20ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NuS I",
+            "year": "2012"
+        },
+        {
+            "author": "Martin K\u00e4lin",
+            "links": [
+                [
+                    "NUS.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUS.zip"
+                ],
+                [
+                    "NUS_I_II_mkaelintex.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUS_I_II_mkaelintex.pdf"
+                ]
+            ],
+            "title": "Formelsammlung NUS",
+            "year": "2013"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung_NuSI_Dominik_Werner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_NuSI_Dominik_Werner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung NuS I",
+            "year": "2014"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung_NuSII_Dominik_Werner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_NuSII_Dominik_Werner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung NuS II",
+            "year": "2014"
+        },
+        {
+            "author": "Spadafora Francesco",
+            "links": [
+                [
+                    "NuS_2_ZF_Spadafora.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_2_ZF_Spadafora.pdf"
+                ],
+                [
+                    "NuS_2_ZF_Spadafora.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_2_ZF_Spadafora.zip"
+                ]
+            ],
+            "title": "NuS_2_Zusammenfassung_mit_Code",
+            "year": "2015"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "nus.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nus.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NuS 1/2",
+            "year": "2015"
+        },
+        {
+            "author": "Spadafora Francesco",
+            "links": [
+                [
+                    "NuS_1_ZF_Spadafora.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_1_ZF_Spadafora.zip"
+                ],
+                [
+                    "NuS_1_ZF_Spadafora.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_1_ZF_Spadafora.pdf"
+                ]
+            ],
+            "title": "NuS_1_Zusammenfassung_mit_Code",
+            "year": "2015"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "Bodeplots.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bodeplots.pdf"
+                ]
+            ],
+            "title": "Bodeplot-Anleitung",
+            "year": "2016"
+        },
+        {
+            "author": "Sayan Ali Khan",
+            "links": [
+                [
+                    "NuS I+II Formelsammlung Jan. 2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20Formelblatt%20HS16_2.pdf"
+                ],
+                [
+                    "NuS I+II Formeln Zusammenfassung Jan. 2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20Zusammenfassung%20HS16_1.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "2016"
+        },
+        {
+            "author": "David Carminati",
+            "links": [
+                [
+                    "NuS_2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_2.pdf"
+                ]
+            ],
+            "title": "NuS II Zusammenfassung",
+            "year": "FS 17"
+        },
+        {
+            "author": "Gian Marti",
+            "links": [
+                [
+                    "NuS II Zsfg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuSII-Skript.zip"
+                ]
+            ],
+            "title": "NuS II Zsfg",
+            "year": "FS16"
+        },
+        {
+            "author": "David Carminati",
+            "links": [
+                [
+                    "NuS_1.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_1.pdf"
+                ]
+            ],
+            "title": "NuS I Zusammenfassung",
+            "year": "HE 16"
+        },
+        {
+            "author": "Manuel Meier",
+            "links": [
+                [
+                    "NuS_1_Zfsg_latex.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS_1_Zfsg_latex.zip"
+                ],
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung NuS1",
+            "year": "HS 15"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "24",
+        "name": "Netzwerke und Schaltungen I",
+        "sem": [
+            "1",
+            "2"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Kurzaufgaben.pdf"
+                ]
+            ],
+            "title": "NuS II - Kurzaufgaben",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W. Kolar",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20II%20Ue%2008%20FS.zip"
+                ]
+            ],
+            "title": "NuS II Serien, Tipps & MuL\u00f6",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20II%20Pr%C3%BCfungskatalog.zip"
+                ]
+            ],
+            "title": "NuS II - Offizieller Pr\u00fcfungskatalog mit L\u00f6sungen",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W.Kolar",
+            "links": [
+                [
+                    "Schnelltests",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Schnelltests.zip"
+                ],
+                [
+                    "Serien 1-4",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%2C%20Besprechungen%20%26%20Musterl%C3%B6sungen%20Serien%201-4.zip"
+                ],
+                [
+                    "Serien 5-8",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%2C%20Besprechungen%20%26%20Musterl%C3%B6sungen%20Serien%205-8.zip"
+                ],
+                [
+                    "Serien 9-13",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%2C%20Besprechungen%20%26%20Musterl%C3%B6sungen%20Serien%209%20-13.zip"
+                ],
+                [
+                    "Zusatzaufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusatzaufgaben.zip"
+                ],
+                [
+                    "Alle Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%2C%20Besprechungen%20%26%20Musterl%C3%B6sungen%20Serien.zip"
+                ]
+            ],
+            "title": "NUS I - Serien, Besprechungen & L\u00f6ungen",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof. Dr. J.W. Kolar",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20II%20Serien%20Tipps%20MuLoe%2009%20FS.zip"
+                ]
+            ],
+            "title": "NuS II Serien, Tipps & MuL\u00f6",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof. Dr. J.W. Kolar",
+            "links": [
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSI%20-%20Serien%20HS09.rar"
+                ],
+                [
+                    "Besprechungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSI%20-%20Serien%20Besprechung%20HS09.rar"
+                ],
+                [
+                    "MuL\u00f6 Teil 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSI%20-%20Loesungen%20HS09%20Teil1.rar"
+                ],
+                [
+                    "MuL\u00f6 Teil 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSI%20-%20Loesungen%20HS09%20Teil2.rar"
+                ],
+                [
+                    "MuL\u00f6 Teil 3",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSI%20-%20Loesungen%20HS09%20Teil3.rar"
+                ]
+            ],
+            "title": "NUS I - Serien, Besprechungen & L\u00f6ungen",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof. Dr. J.W. Kolar",
+            "links": [
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII%20-%20Serien%20FS10.rar"
+                ],
+                [
+                    "Besprechungen 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII%20-%20Serien%20Besprechung%20FS10%20Teil1.rar"
+                ],
+                [
+                    "Besprechungen 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII%20-%20Serien%20Besprechung%20FS10%20Teil2.rar"
+                ],
+                [
+                    "MuL\u00f6 Teil 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII%20-%20Loesungen%20FS10%20Teil1.rar"
+                ],
+                [
+                    "MuL\u00f6 Teil 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NUSII%20-%20Loesungen%20FS10%20Teil2.rar"
+                ]
+            ],
+            "title": "NUS II - Serien, Besprechung & L\u00f6sungen",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof. J. W. Kolar",
+            "links": [
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien_11.zip"
+                ],
+                [
+                    "Tipps",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Besprechung.zip"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Loesungen.zip"
+                ]
+            ],
+            "title": "NUS I - Serien, Besprechungen & L\u00f6ungen",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. J. W. Kolar",
+            "links": [
+                [
+                    "NuS II Serien FS12.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NuS%20II%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung und Tipps",
+            "year": "12FS"
+        }
+    ]
+}

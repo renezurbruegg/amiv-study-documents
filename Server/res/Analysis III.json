@@ -1,0 +1,592 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. Iozzi",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfungen.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen",
+            "year": "07 HS"
+        },
+        {
+            "author": "Prof. Iozzi",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfungen08.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof. H. Kn\u00f6rrer",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pruefung-itet-2010_0.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung - Analysis III",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof. A. Cannas da Silva",
+            "links": [
+                [
+                    "1. Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Practice1_1.pdf"
+                ],
+                [
+                    "2. Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Practice2_1.pdf"
+                ],
+                [
+                    "1. ML",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PracticeSol1_1.pdf"
+                ],
+                [
+                    "2. ML",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PracticeSol2_1.pdf"
+                ]
+            ],
+            "title": "Beispielpr\u00fcfungen mit Musterl\u00f6sung - Analysis III",
+            "year": "11HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pruefung_20Aug2015L.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pruefung_20Aug2015L.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "15 S"
+        },
+        {
+            "author": "Prof. P. Jossen",
+            "links": [
+                [
+                    "Pruefung_28Jan2014L.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pruefung_28Jan2014L.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "15 W"
+        },
+        {
+            "author": "Prof. Dr. P. S. Jossen",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20-%20Pr%C3%BCfung%20Sommer%202016.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "16 S"
+        },
+        {
+            "author": "Prof. E. Kowalski",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIIPrufung.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIIPrufungLosung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "17 F"
+        },
+        {
+            "author": "Prof D. Stoffer",
+            "links": [
+                [
+                    "Pr\u00fcfung FS13",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfung%202013.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung FS13",
+            "year": "FS 13"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Fabian Schleiss, Jonathan M\u00fcller",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnaIII_mitschrift_1.pdf"
+                ]
+            ],
+            "title": "Mitschrift",
+            "year": "12 HS"
+        },
+        {
+            "author": "Fr\u00e9d\u00e9ric Odermatt",
+            "links": [
+                [
+                    "PVK 18 1 on 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_Analysis3_HS18_1_on_1.pdf"
+                ],
+                [
+                    "PVK 18 4 on 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_Analysis3_HS18_4_on_1.pdf"
+                ]
+            ],
+            "title": "PVK Analysis 3",
+            "year": "18 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Daniel Craven",
+            "links": [
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sol_FS13.pdf"
+                ],
+                [
+                    "Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sol_FS13.tex"
+                ]
+            ],
+            "title": "L\u00f6sungFS13",
+            "year": "13 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_3.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3 HS04",
+            "year": "04 HS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III%20ITET%20Lukas%20Cavigelli.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III.pdf"
+                ]
+            ],
+            "title": "Zsfg Analysis III",
+            "year": "10 HS"
+        },
+        {
+            "author": "ABT",
+            "links": [
+                [
+                    "Analysis III Zusf.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20Zusf.pdf"
+                ],
+                [
+                    "analysis3 latex source.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3%20latex%20source.zip"
+                ]
+            ],
+            "title": "Zusfg Analysis 3",
+            "year": "11 HS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Analysis III 2011-glaserf.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%202011-glaserf.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Fabian Schleiss",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnaIII_summary_fs.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Raphael Keusch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III_keuschr.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis III",
+            "year": "12 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "Ana3",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Ana3.pdf"
+                ]
+            ],
+            "title": "Analysis III Zusammenfassung",
+            "year": "12/13"
+        },
+        {
+            "author": "Pascal Stark",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20AMIV.pdf"
+                ],
+                [
+                    "LaTeX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis%20III%20LaTex.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Annik Jeiziner",
+            "links": [
+                [
+                    "Zusammenfassung Analysis III Annik Jeiziner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III%20Annik%20Jeiziner.pdf"
+                ],
+                [
+                    "Zusammenfassung Analysis III Annik Jeiziner.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III%20Annik%20Jeiziner.docx"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis III",
+            "year": "15 HS"
+        },
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "TI-89, Nspire",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PDG-Trafo%20Analysis%20III%20-%20Stefan%20Rickli.zip"
+                ]
+            ],
+            "title": "2nd Ord. PDE Trafo Program",
+            "year": "15 HS"
+        },
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%2015HS%20%28P.%20Jossen%29%20Zfsg%20-%20Stefan%20Rickli.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%2015HS%20%28P.%20Jossen%29%20Zfsg%20-%20Stefan%20Rickli.pdf"
+                ]
+            ],
+            "title": "Analysis III (P. Jossen)",
+            "year": "15 HS"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "ZF Analysis 3 Raphael Fischer.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Analysis%203%20Raphael%20Fischer.zip"
+                ]
+            ],
+            "title": "ZF Analysis 3",
+            "year": "15 HS"
+        },
+        {
+            "author": "Ja\u00ebl Keller & Thomas Birchler",
+            "links": [
+                [
+                    "Analysis3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3.pdf"
+                ]
+            ],
+            "title": "ZF Analysis III, Prof. Dr. Jossen",
+            "year": "15 HS"
+        },
+        {
+            "author": "Bigna H\u00e4rdi",
+            "links": [
+                [
+                    "Analysis III ZS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20ZS.pdf"
+                ],
+                [
+                    "Analysis III ZS Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20ZS.zip"
+                ]
+            ],
+            "title": "Analysis III Zusammenfassung",
+            "year": "15HS"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "analysis3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3",
+            "year": "16 F"
+        },
+        {
+            "author": "Simon Erne",
+            "links": [
+                [
+                    "ZF_Analysis III_Simon Erne.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Analysis%20III_Simon%20Erne.pdf"
+                ],
+                [
+                    "ZF_Analysis3_Simon Erne.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Analysis3_Simon%20Erne.zip"
+                ]
+            ],
+            "title": "ZF | Analysis3 | E.Kowalski",
+            "year": "16 HS"
+        },
+        {
+            "author": "Sandro Lutz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%203%20ZF.pdf"
+                ],
+                [
+                    "LaTeX-Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%203.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3 (Kowalski)",
+            "year": "16 HS"
+        },
+        {
+            "author": "Sandro Baumgartner",
+            "links": [
+                [
+                    "Analysis_3_ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3-ZF-final.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3",
+            "year": "16 HS"
+        },
+        {
+            "author": "Cedric Tompkin",
+            "links": [
+                [
+                    "Analysis3ZF.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3ZF.zip"
+                ],
+                [
+                    "Analysis3ZF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3",
+            "year": "16 HS"
+        },
+        {
+            "author": "Silvano Cortesi, Felix Crazzolara, Nikolaus Vertov",
+            "links": [
+                [
+                    "Formelsammlung_AnalysisIII_Silvano_Cortesi.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_AnalysisIII_Silvano_Cortesi.pdf"
+                ],
+                [
+                    "Latex_Files.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex_Files_6.zip"
+                ]
+            ],
+            "title": "Zusammenfassung/Formelsammlung Analysis III",
+            "year": "17 HS"
+        },
+        {
+            "author": "Colin Dirren",
+            "links": [
+                [
+                    "PDF_file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_3_2.pdf"
+                ],
+                [
+                    "Tex_file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_3.tex"
+                ]
+            ],
+            "title": "Analysis III ZF",
+            "year": "18 HS"
+        },
+        {
+            "author": "Adrian Hartmann",
+            "links": [
+                [
+                    "WORD-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III%20HS%202018%20AH.docx"
+                ],
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/V3_Zusammenfassung%20Analysis%20III%20HS%202018%20AH.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3",
+            "year": "18 HS"
+        },
+        {
+            "author": "Noah H\u00fctter",
+            "links": [
+                [
+                    "analysis3pde.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3pde.pdf"
+                ]
+            ],
+            "title": "Formulary Analysis III (Prof. A. Figalli)",
+            "year": "18 HS"
+        },
+        {
+            "author": "Damian Scherrer",
+            "links": [
+                [
+                    "FormelnAnal3Scherrer",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20Analysis%20III.pdf"
+                ]
+            ],
+            "title": "Formelsammlung Analysis III (Prof. Ana Cannas da Silva)",
+            "year": "2011"
+        },
+        {
+            "author": "Martin K\u00e4lin",
+            "links": [
+                [
+                    "Analysis_III.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III.zip"
+                ],
+                [
+                    "Analysis_III_mkaelin.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III_mkaelin.pdf"
+                ]
+            ],
+            "title": "Formelsammlung Analysis III",
+            "year": "2014"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung_AnalysisIII_dowerner",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_AnalysisIII_dowerner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung_AnalysisIII_dowerner",
+            "year": "2014"
+        },
+        {
+            "author": "Elias Pareth",
+            "links": [
+                [
+                    "Zusammenfassung Analysis III",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Analysis%20III%20%28PDF%29.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis III",
+            "year": "2017"
+        },
+        {
+            "author": "Fabian M\u00fcller",
+            "links": [
+                [
+                    "Analysis III - Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20-%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Analysis III ZF",
+            "year": "HS12"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "93",
+        "name": "Analysis III",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Iozzi",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien_3.zip"
+                ]
+            ],
+            "title": "Serien, Musterl\u00f6sungen und Online-Tests",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof. H Kn\u00f6rrer",
+            "links": [
+                [
+                    "Serien mit ML",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serien%20mit%20ML%20HS10%20Ana%20III.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung - Analysis III",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof. A. Cannas da Silva",
+            "links": [
+                [
+                    "Serien mit ML",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serien%20mit%20ML%20HS%2011%20Ana%20III.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung - Analysis III",
+            "year": "11HS"
+        },
+        {
+            "author": "Prof. D. Stoffer",
+            "links": [
+                [
+                    "Uebungen Analysis III HS12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungen%20Analysis%20III%20HS12.pdf"
+                ]
+            ],
+            "title": "Uebungen mit Musterl\u00f6sungen",
+            "year": "12 HS"
+        }
+    ]
+}

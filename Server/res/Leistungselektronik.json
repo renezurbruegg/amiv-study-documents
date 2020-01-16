@@ -1,0 +1,119 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. J. Kolar",
+            "links": [
+                [
+                    "Zip-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfungskatalog%20Leistungselektronik.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungskatalog",
+            "year": "?"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "J\u00fcrg K\u00e4ser",
+            "links": [
+                [
+                    "pruefung_17.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pruefung_17.pdf"
+                ],
+                [
+                    "pruefung_18.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pruefung_18.pdf"
+                ]
+            ],
+            "title": "MUSTERPR\u00dcFUNGSAUFGABEN 17&18",
+            "year": "2015"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Jesko Mueller",
+            "links": [
+                [
+                    "Zsfg Leistungselektronik - Jesko M. & Daniel E.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg%20Leistungselektronik%20-%20Jesko%20M.%20%26%20Daniel%20E.zip"
+                ]
+            ],
+            "title": "Zsfg Leistungselektronik",
+            "year": "12 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "LE",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_LE.pdf"
+                ]
+            ],
+            "title": "Power Electronics Zusammenfassung",
+            "year": "13/14"
+        },
+        {
+            "author": "Simon Erne",
+            "links": [
+                [
+                    "Leistungselektronik_ZF_SimonErne_21.02.2018.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leistungselektronik_ZF_SimonErne_21.02.2018.pdf"
+                ],
+                [
+                    "Leistungselektronik_ZF_SimonErne.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leistungselektronik_ZF_SimonErne.rar"
+                ],
+                [
+                    "Leistungselektronik_ZF_SimonErne2.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leistungselektronik_ZF_SimonErne2.rar"
+                ]
+            ],
+            "title": "LE | Kolar | ZF | Simon Erne",
+            "year": "17 HS"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_7.pdf"
+                ]
+            ],
+            "title": "Kurzzusammenfassung",
+            "year": "F 17"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "113",
+        "name": "Leistungselektronik",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof Kolar",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungen08_5.zip"
+                ]
+            ],
+            "title": "Leistungselektronik - \u00dcbungen mit Musterl\u00f6sungen",
+            "year": "08"
+        },
+        {
+            "author": "Prof. J. Kolar",
+            "links": [
+                [
+                    "Zip-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leistungselektronik%20%C3%9Cbungen.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien inkl. Musterl\u00f6sungen",
+            "year": "10HS"
+        }
+    ]
+}

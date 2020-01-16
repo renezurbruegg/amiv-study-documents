@@ -1,0 +1,91 @@
+{
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript%20Mechatronik%20FS12_1.zip"
+                ]
+            ],
+            "title": "Vorlesungsskript - Mechatronik",
+            "year": "12FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechatronik.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Mechatronik 06",
+            "year": "06 FS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "Mech",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_Mech.pdf"
+                ]
+            ],
+            "title": "Mechatronik Zusammenfassung",
+            "year": "13/14"
+        },
+        {
+            "author": "Simon Erne",
+            "links": [
+                [
+                    "ZF-Mechatronik-Simon Erne-4_9_18.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Mechatronik-Simon%20Erne-4_9_18.pdf"
+                ],
+                [
+                    "ZF-Mechatronik-Simon Erne.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Mechatronik-Simon%20Erne.docx"
+                ],
+                [
+                    "Medien.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Medien_1.rar"
+                ]
+            ],
+            "title": "ZF | Mechatronik | Thomas Gempp",
+            "year": "18 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "129",
+        "name": "Mechatronik",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Serien mi ML",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serien%20mit%20ML%20FS12%20Mechatronik.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien mi ML - Mechatronik",
+            "year": "12FS"
+        },
+        {
+            "author": "Prof T. Gempp",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%20mit%20ML%20FS12%20Mechatronik.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung und Tipps",
+            "year": "12FS"
+        }
+    ]
+}

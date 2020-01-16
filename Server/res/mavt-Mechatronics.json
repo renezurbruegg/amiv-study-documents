@@ -1,0 +1,589 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Gerhard Stolz",
+            "links": [
+                [
+                    "Tech.Dyn_. - MuL\u00f6 Vorschlag.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tech.Dyn_.%20-%20MuL%C3%B6%20Vorschlag.pdf"
+                ]
+            ],
+            "title": "Tech. Dyn. (Pr\u00fcfung + MuL\u00f6 Vorschlag)",
+            "year": "05/06"
+        },
+        {
+            "author": "Prof Kolar",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/P_Beispiele.zip"
+                ]
+            ],
+            "title": "Leistungselektronik Pr\u00fcfungsbeispiele",
+            "year": "08"
+        },
+        {
+            "author": "Joel Roos et. al.",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Questions%20answered%20Compilation.pdf"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots - Exam Questions answered (compilation)",
+            "year": "14 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "TRM_exam_winter17.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_winter17.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "17 HS"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Johann Diep",
+            "links": [
+                [
+                    "Nanorobotics Stichwortverzeichnis",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Inhaltsverzeichnis%20Nanorobotics%202015.pdf"
+                ]
+            ],
+            "title": "Nanorobotics Stichwortverzeichnis",
+            "year": "15 FS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Prof Guzella",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/slides_09.zip"
+                ]
+            ],
+            "title": "Digitale Regelsysteme - Slides",
+            "year": "09 HS"
+        },
+        {
+            "author": "Isaac Deutsch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/stichwortliste%20nanorobotics.pdf"
+                ]
+            ],
+            "title": "Nanorobotics Stichwortverzeichnis/index",
+            "year": "2013"
+        },
+        {
+            "author": "Isaac Deutsch",
+            "links": [
+                [
+                    "xlsx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/stichwortliste%20nanorobotics.xlsx"
+                ]
+            ],
+            "title": "Nanorobotics Stichwortverzeichnis/index",
+            "year": "2013"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechnDyn_zf_Juchler.pdf"
+                ]
+            ],
+            "title": "Technische Dynamik",
+            "year": "06"
+        },
+        {
+            "author": "Christof Bucher",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zf_LE_cbucher.pdf"
+                ]
+            ],
+            "title": "Leistungselektronik",
+            "year": "06"
+        },
+        {
+            "author": "Meier Heinrich",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/techdynmitschrift.pdf"
+                ]
+            ],
+            "title": "Technische Dynamik - Mitschrift",
+            "year": "07"
+        },
+        {
+            "author": "Michael Inglin",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/im_ITRM.zip"
+                ]
+            ],
+            "title": "Introduction Robotics & Mechatronics",
+            "year": "08"
+        },
+        {
+            "author": "Francesco Ferrara",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/IRM_ff.pdf"
+                ]
+            ],
+            "title": "Introduction Robotics & Mechatronics",
+            "year": "08"
+        },
+        {
+            "author": "Marcel Schoch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mschoch_DigiCon.pdf"
+                ]
+            ],
+            "title": "Digitale Regelsysteme",
+            "year": "08"
+        },
+        {
+            "author": "Maweber & Andin",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/autonom_mob_rob_andin_09.zip"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots",
+            "year": "09"
+        },
+        {
+            "author": "Christian Forster",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cforster_robotics_1_zsf.zip"
+                ]
+            ],
+            "title": "Introduction Robotics & Mechatronics",
+            "year": "09"
+        },
+        {
+            "author": "maweber & andin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem8_virtual-reality1_andin.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem8_virtual-reality1_andin.odt"
+                ]
+            ],
+            "title": "Virtual Reality",
+            "year": "09"
+        },
+        {
+            "author": "Michael Inglin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_inglinm_08_digreg.pdf"
+                ]
+            ],
+            "title": "Digitale Regelsysteme",
+            "year": "09"
+        },
+        {
+            "author": "Andr\u00e9 Hillers, Christoph Gammeter",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elektrische_Antriebssysteme_I_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Elektrische Antriebssyteme I",
+            "year": "09"
+        },
+        {
+            "author": "P. Omlin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zusammenfassung_pomlin.pdf"
+                ]
+            ],
+            "title": "Leistungselektronik",
+            "year": "09"
+        },
+        {
+            "author": "F. Pestalozzi, R. Gaudenzi",
+            "links": [
+                [
+                    "Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-Energy-Systems-and-Power-Engineering.pdf"
+                ]
+            ],
+            "title": "Energy Systems and Power Engineering",
+            "year": "11 FS"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_ZF_layouted.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_ZF_new.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics & Mechatronics",
+            "year": "11 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "Technische Dynamik.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Dynamik.pdf"
+                ]
+            ],
+            "title": "Technische Dynamik",
+            "year": "11 HS"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/microrobotics_zsf_2012.pdf"
+                ]
+            ],
+            "title": "Microrobotics ZF",
+            "year": "12 HS"
+        },
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_MST_davidgs.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung MST",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Technische%20Dynamik%20Ext2.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Technische%20Dynamik%20Ext2.odt"
+                ]
+            ],
+            "title": "Technische Dynamik",
+            "year": "12 HS"
+        },
+        {
+            "author": "Jan Okle",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zus_TechDyn_JanOkle.pdf"
+                ]
+            ],
+            "title": "Technische Dynamik",
+            "year": "12 HS"
+        },
+        {
+            "author": "Mathias Gehrig",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/digreg.pdf"
+                ],
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/digreg.zip"
+                ]
+            ],
+            "title": "Digital Control",
+            "year": "13 FS"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NR_ZF_FS13_mbloch.pdf"
+                ]
+            ],
+            "title": "Nanorobotics ZF",
+            "year": "13 FS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF + ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_EAS1.zip"
+                ]
+            ],
+            "title": "Elektrische Antriebssysteme I ZF",
+            "year": "13 FS"
+        },
+        {
+            "author": "Jonas Londschien & Raphael Glaesener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Microrobotics_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Microrobotics",
+            "year": "13 HS"
+        },
+        {
+            "author": "Jonas Londschien & Raphael Glaesener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Microrobotics_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Microrobotics",
+            "year": "13 HS"
+        },
+        {
+            "author": "Florian Tschopp",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Micro_SUM.pdf"
+                ]
+            ],
+            "title": "MicroRobotics Cheat Sheet",
+            "year": "13 HS"
+        },
+        {
+            "author": "Tobias Stegemann",
+            "links": [
+                [
+                    "MST - \u00dcberblick/Zusammenfassung - Tobias Stegemann",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MST%20-%20Overview%20-%20Tobias%20Stegemann.pdf"
+                ]
+            ],
+            "title": "Microsystems Technology - Vorlesungs\u00fcberblick/Zusammenfassung",
+            "year": "14HS"
+        },
+        {
+            "author": "Marlin Strub",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elektrische_Antriebssysteme_I.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Elektrische Antriebssysteme I",
+            "year": "15 FS"
+        },
+        {
+            "author": "Romeo Staub",
+            "links": [
+                [
+                    "Nicht-Glatte Dynamik Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Nicht-Glatte%20Dynamik%20Komplett.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Nicht-glatte Dynamik",
+            "year": "16 FS"
+        },
+        {
+            "author": "Luciano Bettinaglio",
+            "links": [
+                [
+                    "Vorlesungsmirschrift",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NgD.pdf"
+                ],
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NgD_Zus.pdf"
+                ]
+            ],
+            "title": "Nicht-glatte Dynamik",
+            "year": "16FS"
+        },
+        {
+            "author": "Matthias Wieland",
+            "links": [
+                [
+                    "ElAnSy1_Teil3_V2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ElAnSy1_Teil3_v2_0.pdf"
+                ]
+            ],
+            "title": "Elektrische Antriebssysteme 1, Teil 3",
+            "year": "18 FS"
+        },
+        {
+            "author": "Sophie Hall",
+            "links": [
+                [
+                    "Designed to be printed onto one double-sided A4 page.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formulary_Microrobotics_HS2018.pdf"
+                ],
+                [
+                    "Read me :)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Comments_on_Formulary_Sheet.pdf"
+                ],
+                [
+                    "LaTeX source and images on https://gitlab.ethz.ch/shall/formulary_microrobotics_2018.git",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex_Source%20.txt"
+                ]
+            ],
+            "title": "Microrobotics Summary HS18",
+            "year": "18 HS"
+        },
+        {
+            "author": "Dieter Baldinger",
+            "links": [
+                [
+                    "experimentellemechanik.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/experimentellemechanik.pdf"
+                ]
+            ],
+            "title": "Experimentelle Mechanik",
+            "year": "2010"
+        },
+        {
+            "author": "Andreas Amrein",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Variationsrechnung.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Variationsrechnung.tex"
+                ]
+            ],
+            "title": "Technische Dynamik (Variationsrechnung)",
+            "year": "2012"
+        },
+        {
+            "author": "Alessandro Simovic, Matthias Burri",
+            "links": [
+                [
+                    "Tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Oelhydraulik%20und%20Pneumatik.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/oelhydraulik%20und%20pneumatik_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung -\u00d6lhydraulik und Pneumatik",
+            "year": "2015"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "76",
+        "name": "Mechatronics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Eberli, Ferrara, Candian, Inglin",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/irm_group11_08.zip"
+                ]
+            ],
+            "title": "Introduction Robotics & Mechatronics - Zeug von Lab",
+            "year": "08"
+        },
+        {
+            "author": "Prof Leine/Glocker",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechnischeDynamikUebung.zip"
+                ]
+            ],
+            "title": "Technische Dynamik - \u00dcbungen mit Musterl\u00f6sungen",
+            "year": "08"
+        },
+        {
+            "author": "Prof Kolar",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungen08_5.zip"
+                ]
+            ],
+            "title": "Leistungselektronik - \u00dcbungen mit Musterl\u00f6sungen",
+            "year": "08"
+        },
+        {
+            "author": "Diverse",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen_09_0.zip"
+                ]
+            ],
+            "title": "Elektrische Antriebsyteme 1 - \u00dcbungen mit L\u00f6sungen",
+            "year": "09"
+        },
+        {
+            "author": "Prof Guzella",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen_09.zip"
+                ]
+            ],
+            "title": "Digitale Regelsysteme - \u00dcbungen mit L\u00f6sungen",
+            "year": "09"
+        },
+        {
+            "author": "Prof. Abhari + Prof. Steinfeld",
+            "links": [
+                [
+                    "part 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-ESPE-U%2BL-part-1.zip"
+                ],
+                [
+                    "part 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-ESPE-U%2BL-part-2.zip"
+                ]
+            ],
+            "title": "Energy Systems and Power Engineering",
+            "year": "11 FS"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Schweitzer, Frank, Prof. Dr.",
+            "links": [
+                [
+                    "2012 Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2012%20Exam.pdf"
+                ]
+            ],
+            "title": "System Dynamics & Complexity - Exam 2012 (no solutions)",
+            "year": "12 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Index",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Accounting%20-%20Index.pdf"
+                ]
+            ],
+            "title": "Accounting for Managers - Index",
+            "year": "kA"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Claudia Lorenz",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_AccountingForManagers.pdf"
+                ]
+            ],
+            "title": "Accounting for Managers - ZF",
+            "year": "06 WS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Kochbuch",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Accounting%20Summary%20WS%2006-07.zip"
+                ]
+            ],
+            "title": "Accounting for Managers - ZF",
+            "year": "06 WS"
+        },
+        {
+            "author": "Patricia Sommerhalder",
+            "links": [
+                [
+                    "System Dynamics.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/System%20Dynamics.pdf"
+                ]
+            ],
+            "title": "System Dynamics- Models",
+            "year": "15 HS"
+        },
+        {
+            "author": "Franco Brenni",
+            "links": [
+                [
+                    "tim definitions.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tim%20definitions.pdf"
+                ]
+            ],
+            "title": "zusammenfassung",
+            "year": "2015"
+        },
+        {
+            "author": "Franco Brenni",
+            "links": [
+                [
+                    "tim definitions.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tim%20definitions_1.pdf"
+                ]
+            ],
+            "title": "zusammenfassung",
+            "year": "2015"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/13FS_FinancialManag_Summary.tex"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/13FS_FinancialManag_Summary.pdf"
+                ]
+            ],
+            "title": "Financial Management Summary",
+            "year": "FS 13"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/13FS_Wirtschaftspolitik_Mindmap.pdf"
+                ]
+            ],
+            "title": "Wirtschaftspolitik Mindmap",
+            "year": "FS 13"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/12HS_LOSI_Summary.pdf"
+                ]
+            ],
+            "title": "LOS I Summary",
+            "year": "HS 12"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Eigene%20Accounting.zip"
+                ]
+            ],
+            "title": "Accounting for Managers - ZF",
+            "year": "kA"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "73",
+        "name": "Management, Technology, and Economics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

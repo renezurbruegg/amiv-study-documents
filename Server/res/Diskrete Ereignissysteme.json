@@ -1,0 +1,389 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs07.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs07.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS07",
+            "year": "07 S"
+        },
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs08.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs08_1.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS08",
+            "year": "08 S"
+        },
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs09.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs09.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS09",
+            "year": "09 S"
+        },
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs10.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs10.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS10",
+            "year": "10 S"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pruefung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sampleExam_1.pdf"
+                ],
+                [
+                    "ML",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sampleExamSolution_1.pdf"
+                ]
+            ],
+            "title": "Beispielpr\u00fcfungen mit Musterl\u00f6sung - Diskrete Ereignissysteme",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs11.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs11.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS11",
+            "year": "11 S"
+        },
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs12.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS12",
+            "year": "12 S"
+        },
+        {
+            "author": "Prof R. Wattenhofer",
+            "links": [
+                [
+                    "exam_hs14.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs14.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS14",
+            "year": "14 S"
+        },
+        {
+            "author": "Prof L. Thiele, Prof R. Wattenhofer, Prof L Vanbev",
+            "links": [
+                [
+                    "exam_hs15.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_hs15.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS15",
+            "year": "15 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Folien",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Folien%20zur%20Vorlesung%20DiskEreS%20HS03.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien - Diskrete Ereignissysteme",
+            "year": "03 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Daniel H\u00f6sli",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Daniel%20H%C3%B6sli%20Zussammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Diskrete Ereignissysteme",
+            "year": "05HS"
+        },
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DiscreteEventSystems.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Discrete Event Systems",
+            "year": "06 FS"
+        },
+        {
+            "author": "Andreas M\u00fcller",
+            "links": [
+                [
+                    "Zussamenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Andreas%20M%C3%BCller%20Zussamenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Diskrete Ereignissysteme",
+            "year": "07HS"
+        },
+        {
+            "author": "Andreas Traber",
+            "links": [
+                [
+                    "DES.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DES.pdf"
+                ],
+                [
+                    "DES - Zsfg.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DES%20-%20Zsfg.zip"
+                ]
+            ],
+            "title": "Zusammenfassung DES",
+            "year": "12 HS"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "DiscreteEventSystems_Summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DiscreteEventSystems_Summary.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung DES",
+            "year": "14 HS"
+        },
+        {
+            "author": "Josefine Quack",
+            "links": [
+                [
+                    "DES_part1_Vanbever.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DES_part1_Vanbever.pdf"
+                ],
+                [
+                    "DES_part3_Thiele.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DES_part3_Thiele.pdf"
+                ]
+            ],
+            "title": "Summary of Part 1 (Vanbever) and Part 3 (Thiele) of the Lecture",
+            "year": "16 HS"
+        },
+        {
+            "author": "Oliver Lehmann",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DES_1.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/amiv.zip"
+                ]
+            ],
+            "title": "Zusammenfassung DES",
+            "year": "18 HS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "108",
+        "name": "Diskrete Ereignissysteme",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Serien mit ML",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serie%20DiskEreS%20HS03.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung - Diskrete Ereignissysteme",
+            "year": "03HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Aufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Beispielaufgaben%20DiskEreS%20HS03.zip"
+                ]
+            ],
+            "title": "Beispielaufgaben zur Pr\u00fcfung - Diskrete Ereignissysteme",
+            "year": "03HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Serien mit ML HS11 DiskErSys.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serien%20mit%20ML%20HS11%20DiskErSys.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung - Diskrete Ereignissysteme",
+            "year": "11HS"
+        },
+        {
+            "author": "Prof. Roger Wattenhofer",
+            "links": [
+                [
+                    "exercise1.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise1.pdf"
+                ],
+                [
+                    "exercise2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise2.pdf"
+                ],
+                [
+                    "exercise3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise3.pdf"
+                ],
+                [
+                    "exercise4.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise4.pdf"
+                ],
+                [
+                    "exercise5.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise5.pdf"
+                ],
+                [
+                    "exercise6.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise6.pdf"
+                ],
+                [
+                    "exercise7.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise7.pdf"
+                ],
+                [
+                    "exercise8.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise8.pdf"
+                ],
+                [
+                    "exercise9.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise9.pdf"
+                ],
+                [
+                    "exercise10.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise10.pdf"
+                ],
+                [
+                    "exercise11.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise11.pdf"
+                ],
+                [
+                    "exercise12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise12.pdf"
+                ],
+                [
+                    "exercise13.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise13.pdf"
+                ],
+                [
+                    "exercise14.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise14.pdf"
+                ],
+                [
+                    "exercise15.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise15.pdf"
+                ]
+            ],
+            "title": "Exercises DES HS13 (Wattenhofer)",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof. Roger Wattenhofer",
+            "links": [
+                [
+                    "solution1.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution1.pdf"
+                ],
+                [
+                    "solution2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution2.pdf"
+                ],
+                [
+                    "solution3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution3.pdf"
+                ],
+                [
+                    "solution4.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution4.pdf"
+                ],
+                [
+                    "solution5.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution5.pdf"
+                ],
+                [
+                    "solution6.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution6.pdf"
+                ],
+                [
+                    "solution7.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution7.pdf"
+                ],
+                [
+                    "solution8.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution8.pdf"
+                ],
+                [
+                    "solution9.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution9.pdf"
+                ],
+                [
+                    "solution10.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution10.pdf"
+                ],
+                [
+                    "solution11.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution11.pdf"
+                ],
+                [
+                    "solution12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution12.pdf"
+                ],
+                [
+                    "solution13.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution13.pdf"
+                ],
+                [
+                    "solution14.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution14.pdf"
+                ],
+                [
+                    "solution15.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution15.pdf"
+                ]
+            ],
+            "title": "Exercise solutions DES HS13 (Wattenhofer)",
+            "year": "13 HS"
+        }
+    ]
+}

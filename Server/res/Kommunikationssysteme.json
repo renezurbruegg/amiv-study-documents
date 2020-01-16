@@ -1,0 +1,183 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfung FS04",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-FS04.pdf"
+                ],
+                [
+                    "Pr\u00fcfung HS04",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-HS04.pdf"
+                ],
+                [
+                    "Pr\u00fcfung FS05",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-FS05.pdf"
+                ],
+                [
+                    "Pr\u00fcfung HS05",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-HS05.pdf"
+                ],
+                [
+                    "Pr\u00fcfung FS06",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-FS06.pdf"
+                ],
+                [
+                    "Pr\u00fcfung HS06",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-HS06.pdf"
+                ],
+                [
+                    "Pr\u00fcfung FS07",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-FS07.pdf"
+                ],
+                [
+                    "Pr\u00fcfung HS08",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-HS08.pdf"
+                ],
+                [
+                    "Pr\u00fcfung HS09",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-HS09.pdf"
+                ],
+                [
+                    "Pr\u00fcfung HS10",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-HS10.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sung - Kommunikationssyteme",
+            "year": "04-10"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfung HS11",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KS-11-HE.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS11",
+            "year": "11 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KomSys.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Kommunikationssysteme 05",
+            "year": "06 FS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Communication%20Systems%20ITET%20Lukas%20Cavigelli.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Communication%20Systems%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Communication%20Systems.pdf"
+                ]
+            ],
+            "title": "Zsfg CommSys",
+            "year": "11 HS"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "CommunicationSystems_Summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CommunicationSystems_Summary.pdf"
+                ]
+            ],
+            "title": "Zusamenfassung CommSys",
+            "year": "14 HS"
+        },
+        {
+            "author": "Ramon Aerne",
+            "links": [
+                [
+                    "Comsys.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Comsys.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KommSys%2016HS%20%28Armin%20Wittneben%29%20Zfsg%20-%20Stefan%20Rickli.pdf"
+                ],
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KommSys%2016HS%20%28Armin%20Wittneben%29%20Zfsg%20-%20Stefan%20Rickli.docx"
+                ]
+            ],
+            "title": "KommSys (A. Wittneben)",
+            "year": "16 HS"
+        },
+        {
+            "author": "Moritz Scherer",
+            "links": [
+                [
+                    "Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CommSys.rar"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CommSys.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "18 HS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "105",
+        "name": "Kommunikationssysteme",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. A. Wittneben",
+            "links": [
+                [
+                    "lecture slides",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/lecture13.zip"
+                ],
+                [
+                    "exercises",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exercise12.zip"
+                ],
+                [
+                    "solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution11.zip"
+                ]
+            ],
+            "title": "Exercises, Solutions, Slides",
+            "year": "11 HS"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "info": {
+        "dep": "itet",
+        "id": "127",
+        "name": "Quantenelektronik",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof U. Keller",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Quantenelektonik%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung",
+            "year": "12FS"
+        }
+    ]
+}

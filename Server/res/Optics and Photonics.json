@@ -1,0 +1,41 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Gua Hao Khov",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg_Optics_Leuthold_Khov.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex%20Request_5.txt"
+                ]
+            ],
+            "title": "Zfsg (Leuthold)",
+            "year": "18 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "225",
+        "name": "Optics and Photonics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof J. Leuthold",
+            "links": [
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Optics%20%26%20Photonics%20-%20Solutions.pdf"
+                ]
+            ],
+            "title": "Sample Solutions of Exercises",
+            "year": "17 FS"
+        }
+    ]
+}

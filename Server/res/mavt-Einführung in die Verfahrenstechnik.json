@@ -1,0 +1,156 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof R. v. Rohr",
+            "links": [
+                [
+                    "EVT_FS2016_v6_final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EVT_FS2016_v6_final.pdf"
+                ],
+                [
+                    "EVT_FS2016_ML.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EVT_FS2016_ML.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit ML 2016",
+            "year": "FS 16"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Rudolph v. Rohr",
+            "links": [
+                [
+                    "Skript_Verfahrenstechnik_HS12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript_Verfahrenstechnik_HS12.pdf"
+                ]
+            ],
+            "title": "Skript",
+            "year": "12 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Espen Denstad",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/denstad_verfahrenstechnik.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "08"
+        },
+        {
+            "author": "Bastian Waag",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Verfahrenstechnik%20-%20Zusammenfassung%282%29.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Einf\u00fchrung in die Verfahrenstechnik",
+            "year": "11 HS"
+        },
+        {
+            "author": "Raphael Brechb\u00fchler",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vt_raphabre.pdf"
+                ],
+                [
+                    "ODT-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vt_raphabre.odt"
+                ]
+            ],
+            "title": "\u00dcbersicht zu Skript (Zusammenfassung mit Verweisen auf Formeln)",
+            "year": "12 HS"
+        },
+        {
+            "author": "Andy Lauper",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VT_zf_alauper.pdf"
+                ],
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VT_zf_alauper.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Bene Seitz",
+            "links": [
+                [
+                    "Zuammenfassung Verfahrenstechnik.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zuammenfassung%20Verfahrenstechnik.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Verfahrenstechnik",
+            "year": "2012"
+        },
+        {
+            "author": "Felix Theres",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_theres_felix.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H05"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "52",
+        "name": "Einf\u00fchrung in die Verfahrenstechnik",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof von Rohr",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen_0506.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "05/06"
+        },
+        {
+            "author": "Prof R. v. Rohr",
+            "links": [
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Einf%C3%BChrung%20Verfahrenstechnik%20HS11.zip"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Musterl%C3%B6sungen%20Verfahrenstechnik.zip"
+                ]
+            ],
+            "title": "Serien inkl. MuL\u00f6",
+            "year": "11 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "\u00dcbungen HS12",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Verfahrenstechnik%20-%20HS12.zip"
+                ]
+            ],
+            "title": "Aufgaben+MuL\u00f6 HS12",
+            "year": "2012"
+        }
+    ]
+}

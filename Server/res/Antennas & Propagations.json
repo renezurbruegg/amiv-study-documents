@@ -1,0 +1,59 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfungen AntPro 05-09.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Pr%C3%BCfungen%20AntPro%2005-09.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen",
+            "year": "05-09"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfungen AntPro 05-09.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Pr%C3%BCfungen%20AntPro%2005-09.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen",
+            "year": "05-09"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "117",
+        "name": "Antennas & Propagations",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Ubungen AntPro HS11.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Ubungen%20AntPro%20HS11.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen und Mathematica Dateien",
+            "year": "11FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Ubungen AntPro HS11.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Ubungen%20AntPro%20HS11.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen und Mathematica Dateien",
+            "year": "11FS"
+        }
+    ]
+}

@@ -1,0 +1,605 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InformatikI_HS07.pdf"
+                ]
+            ],
+            "title": "Vordiplom",
+            "year": "07 HS"
+        },
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InformatikI_FS08.pdf"
+                ]
+            ],
+            "title": "Vordiplom",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_Exam_HS08.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_Exam_FS10.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_Exam_HS10.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof Silvia Santini",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik%20II%20Basispr%C3%BCfung%20Sommer%202011%20ready.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. Friedemann Mattern",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InformatikII_FS12.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "12 S"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam2014_1.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam2014_1_Solution.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik I",
+            "year": "14 F"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2014_8.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2014_8_solution.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik I",
+            "year": "14 S"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MockExam2014_v3.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MockExam2014_v3_solution.pdf"
+                ]
+            ],
+            "title": "Probepr\u00fcfung Informatik I",
+            "year": "15 F"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_2015_02_04.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_2015_02_04_solution.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik I",
+            "year": "15 F"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2015_08.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2015_08_solution.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik I",
+            "year": "15 S"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2016_01.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2016_01_solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "16 F"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2016_08.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2016_08_solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "16 S"
+        },
+        {
+            "author": "Prof. Friedemann Mattern",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InformatikII_FS16.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "16 S"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2017_02.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2017_02-Solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "17 F"
+        },
+        {
+            "author": "Prof. Friedemann Mattern",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InformatikII_HS16.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "17 F"
+        },
+        {
+            "author": "Dr. Felix Friedrich",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2017_08.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam_DITET_InfI_2017_08-Solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "17 S"
+        },
+        {
+            "author": "Prof. Friedemann Mattern",
+            "links": [
+                [
+                    "klausur_FS2017_disclaimer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_FS2017_disclaimer.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "17 S"
+        },
+        {
+            "author": "Prof. Friedemann Mattern",
+            "links": [
+                [
+                    "klausur_FS2018_disclaimer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_FS2018_disclaimer.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "18 FS"
+        },
+        {
+            "author": "Prof. Friedemann Mattern",
+            "links": [
+                [
+                    "klausur_HS2017_disclaimer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_HS2017_disclaimer.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Informatik II",
+            "year": "18 S"
+        },
+        {
+            "author": "Christelle Gloor",
+            "links": [
+                [
+                    "L\u00f6sungsvorschlag",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InfoII_FS2018.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungsvorschlag_InfoII_FS2018",
+            "year": "2018"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Vorlesungsunterlagen.zip"
+                ]
+            ],
+            "title": "Vorlesungsunterlagen",
+            "year": "10 HS"
+        },
+        {
+            "author": "Christelle Gloor",
+            "links": [
+                [
+                    "PVK_FS18_Informatik_I_II.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_FS18_Informatik_I_II.zip"
+                ]
+            ],
+            "title": "PVK_FS18_Informatik_I_II",
+            "year": "2018"
+        },
+        {
+            "author": "Christelle Gloor",
+            "links": [
+                [
+                    "HS2016_Aufgb_6.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS2016_Aufgb_6.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungsvorschlag_InfoII_HS2016_Aufgb_6, fehlte in den PVK Unterlagen.",
+            "year": "2018"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wettbewerb.zip"
+                ]
+            ],
+            "title": "Wettbewerb",
+            "year": "10 HS"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Prof. Friedrich",
+            "links": [
+                [
+                    "Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentIV2016.Solution.pdf"
+                ],
+                [
+                    "SelfAssessment",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentIV2016.pdf"
+                ]
+            ],
+            "title": "Selfassessment mit Musterl\u00f6sung IV",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof. Friedrich",
+            "links": [
+                [
+                    "Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentIV2016.AddendumSolution.pdf"
+                ],
+                [
+                    "SelfAssessment",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentIV2016.Addendum.pdf"
+                ]
+            ],
+            "title": "Selfassessment Addendum mit Musterl\u00f6sung IV",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof. Friedrich",
+            "links": [
+                [
+                    "Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentII2016.Solution.pdf"
+                ],
+                [
+                    "SelfAssessment",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentII2016.pdf"
+                ]
+            ],
+            "title": "Selfassessment mit Musterl\u00f6sung II",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof. Friedrich",
+            "links": [
+                [
+                    "Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentI2016.Solution.pdf"
+                ],
+                [
+                    "SelfAssessment",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentI2016.pdf"
+                ]
+            ],
+            "title": "Selfassessment mit Musterl\u00f6sung I",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof. Friedrich",
+            "links": [
+                [
+                    "SelfAssessment",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentIII2016.pdf"
+                ],
+                [
+                    "Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SelfAssessmentIII2016.Solution.pdf"
+                ]
+            ],
+            "title": "Selfassessment mit Musterl\u00f6sung III",
+            "year": "16 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "walserc",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik_2.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Informatik II",
+            "year": "03"
+        },
+        {
+            "author": "Walserc",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info_II_ZF_by_walserc.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "03 HS"
+        },
+        {
+            "author": "Chris Fougner",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_zsfg%20-cfougner.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "08/09"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "Zsfg - Informatik I.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg%20-%20Informatik%20I.pdf"
+                ]
+            ],
+            "title": "Zsfg Info 1",
+            "year": "09"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik%20ITET%20Lukas%20Cavigelli.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09/10"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09/10"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "Zsfg - Informatik II.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg%20-%20Informatik%20II.pdf"
+                ]
+            ],
+            "title": "Zsfg Info II",
+            "year": "10"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "Inf1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/20120128_Inf1_Zsmf.pdf"
+                ],
+                [
+                    "Inf2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/20120530_Inf2_Zsmf.pdf"
+                ]
+            ],
+            "title": "Informatik I&II Zusammenfassungen",
+            "year": "11/12"
+        },
+        {
+            "author": "Fabian M\u00fcller",
+            "links": [
+                [
+                    "Info I und II - Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info%20I%20und%20II%20-%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Informatik I & II Zusammenfassung",
+            "year": "11/12"
+        },
+        {
+            "author": "Gian Marti",
+            "links": [
+                [
+                    "Informatik I Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik%20I%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Informatik I",
+            "year": "13 HS"
+        },
+        {
+            "author": "Manuel Eggimann",
+            "links": [
+                [
+                    "Zusammenfassung Informatik 1 PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik.pdf"
+                ],
+                [
+                    "Zusammenfassung Informatik 1 Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik.docx"
+                ]
+            ],
+            "title": "Zusammenfassung Informatik 1 Friedrich",
+            "year": "13 HS"
+        },
+        {
+            "author": "Gian Hug",
+            "links": [
+                [
+                    "Info1-merged.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1-merged.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung des Inhaltes",
+            "year": "17 HS"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung_InformatikI_Dominik_Werner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_InformatikI_Dominik_Werner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "2014"
+        },
+        {
+            "author": "Gian Hug",
+            "links": [
+                [
+                    "LinAlg, Vasile C. Gradinaru",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Hugsche%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung  LinAlg",
+            "year": "HS 17"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "86",
+        "name": "Informatik I & II",
+        "sem": [
+            "1",
+            "2"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. F. E. Cellier",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U%CC%88bungen.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof F. Mattern",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info%20II%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen",
+            "year": "12FS"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "info": {
+        "dep": "mavt",
+        "id": "unterlagen",
+        "name": "Wahlf\u00e4cher",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false
+}

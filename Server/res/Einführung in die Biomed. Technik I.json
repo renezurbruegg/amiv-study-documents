@@ -1,0 +1,24 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Michael K\u00fchni",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Introduction%20BiomedEngineeringI.pdf"
+                ]
+            ],
+            "title": "Introduction to Biomedical Engineering I",
+            "year": "13 HS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "110",
+        "name": "Einf\u00fchrung in die Biomed. Technik I",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

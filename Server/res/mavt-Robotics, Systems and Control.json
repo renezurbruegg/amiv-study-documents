@@ -1,0 +1,1395 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "F. Diem, P. Fankhauser, M. Neunert",
+            "links": [
+                [
+                    "Exam Q&A",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uadmc-questions.pdf"
+                ],
+                [
+                    "Latex (source)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/UAV.zip"
+                ]
+            ],
+            "title": "Unmanned Aircraft Design, Modeling and Control",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof. F. Iida",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung - MSc Mech.Eng. - Bio - Inspired Motor Control",
+            "year": "11 HS"
+        },
+        {
+            "author": "Schweitzer, Frank, Prof. Dr.",
+            "links": [
+                [
+                    "2012 Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2012%20Exam.pdf"
+                ]
+            ],
+            "title": "System Dynamics & Complexity - Exam 2012 (no solutions)",
+            "year": "12 HS"
+        },
+        {
+            "author": "Fumiya Iida",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/BIMC_exam_HS2012.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung - Bio-Inspired Motor Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Joel Roos et. al.",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Questions%20answered%20Compilation.pdf"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots - Exam Questions answered (compilation)",
+            "year": "14 FS"
+        },
+        {
+            "author": "Simon Kerscher",
+            "links": [
+                [
+                    "VPS Oral Exam",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VPS%20Exam.pdf"
+                ]
+            ],
+            "title": "Vehicle Propulsion systems - Oral exam",
+            "year": "15 F"
+        },
+        {
+            "author": "Prof. B. Nelson",
+            "links": [
+                [
+                    "Microrobotics Exam, Autumn Semester 2015",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MR_ExamAutumn2015_FGiraldez.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung (ohne L\u00f6sung)",
+            "year": "15HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_2016.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics and Mechatronics",
+            "year": "16 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "TRM_exam_winter17.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_winter17.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "17 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_2017.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics and Mechatronics",
+            "year": "17 HS"
+        },
+        {
+            "author": "Prof. Kamgarpour",
+            "links": [
+                [
+                    "linear_system_theory_exam_18 F",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/scan_boewingf_2018-02-20-15-06-35.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung Linear System Theory",
+            "year": "18 F"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Dieter Baldinger, Thomas Mantel, Daniel Rohrer",
+            "links": [
+                [
+                    "PDF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PDF_1.pdf"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control Script",
+            "year": "2010"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "E. Gallestey Alvarez, A. Paice",
+            "links": [
+                [
+                    "Theory",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Theory.zip"
+                ]
+            ],
+            "title": "Nonlinear Systems and Control - Theory",
+            "year": "09 FS"
+        },
+        {
+            "author": "R. Simpson",
+            "links": [
+                [
+                    "Lernkarten zum Schneiden und Falten",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lernkarten_0.zip"
+                ]
+            ],
+            "title": "Lernkarten - Artificial Intelligence for Robotics",
+            "year": "17 FS"
+        },
+        {
+            "author": "Hendrik Kolvenbach",
+            "links": [
+                [
+                    "RD_Cheatsheet_1.0.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RD_Cheatsheet_1.0.docx"
+                ],
+                [
+                    "RD_Cheatsheet_1.0.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RD_Cheatsheet_1.0.pdf"
+                ]
+            ],
+            "title": "Robot Dynamics Cheat Sheet",
+            "year": "2018"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "maweber & andin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem8_virtual-reality1_andin.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem8_virtual-reality1_andin.odt"
+                ]
+            ],
+            "title": "Virtual Reality",
+            "year": "09"
+        },
+        {
+            "author": "Maweber & Andin",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/autonom_mob_rob_andin_09.zip"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots",
+            "year": "09"
+        },
+        {
+            "author": "Ren\u00e9 Waldvogel",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Dynamik_von_Mehrk%C3%B6rpersystemen.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung: Mehrk\u00f6rpersysteme",
+            "year": "09 FS"
+        },
+        {
+            "author": "maweber, andin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem7_aircraft-spacecraft-systemsdesign-modeling-control_andin.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem7_aircraft-spacecraft-systemsdesign-modeling-control_andin.odt"
+                ]
+            ],
+            "title": "Aircraft & Spacecraft Modelling & Control",
+            "year": "09 HS"
+        },
+        {
+            "author": "Gabriel N\u00fctzi",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RKFE.pdf"
+                ],
+                [
+                    "ZIP (Latex)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RKFE.zip"
+                ]
+            ],
+            "title": "Rekursive Filtering and Estimation",
+            "year": "10 HS"
+        },
+        {
+            "author": "Fadri Pestalozzi",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-Methods%20in%20the%20Innovation%20Process.pdf"
+                ]
+            ],
+            "title": "Methods in the Innovation Process",
+            "year": "11 FS"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_ZF.pdf"
+                ],
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_ZF.docx"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control",
+            "year": "11 HS"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_ZF_layouted.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_ZF_new.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics & Mechatronics",
+            "year": "11 HS"
+        },
+        {
+            "author": "Sven Hubacher",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC_ZF_v2.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control",
+            "year": "12 FS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation%20ZF.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation%20ZF.odt"
+                ]
+            ],
+            "title": "Recursive Estimation",
+            "year": "12 FS"
+        },
+        {
+            "author": "Simon Berger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RKFE_1.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation%20Summary%20Simon%20Berger.rar"
+                ]
+            ],
+            "title": "Recursive Estimation",
+            "year": "12 FS"
+        },
+        {
+            "author": "Simon Berger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC%20Simon.rar"
+                ]
+            ],
+            "title": "Dynamic Programming & Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Simon Berger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ToRaM.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ToRaM%20ZF%20%28Simon%20Berger%29.rar"
+                ]
+            ],
+            "title": "Theory of Robotics & Mechatronics",
+            "year": "12 HS"
+        },
+        {
+            "author": "Timon Heinis",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LaTeX.zip"
+                ]
+            ],
+            "title": "Dynamic Programming & Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic%20Programming%20and%20Optimal%20Control.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Dymamic Programming and Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Linear%20System%20Theory.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Linear System Theory",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20DPOC.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20DPOC%20Ver2.odt"
+                ]
+            ],
+            "title": "Dynamic Programming & Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF + ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPC.zip"
+                ]
+            ],
+            "title": "High Performance Computing",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF2.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF2.odt"
+                ]
+            ],
+            "title": "Dynamik von Mehrk\u00f6rpersystemen",
+            "year": "13 FS"
+        },
+        {
+            "author": "Philippe Petit und Florian Petit",
+            "links": [
+                [
+                    "mpc.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mpc_0.zip"
+                ]
+            ],
+            "title": "Model Predictive Control",
+            "year": "13 FS"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NR_ZF_FS13_mbloch.pdf"
+                ]
+            ],
+            "title": "Nanorobotics ZF",
+            "year": "13 FS"
+        },
+        {
+            "author": "Philippe Petit und Florian Petit",
+            "links": [
+                [
+                    "mpc.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mpc_0.zip"
+                ]
+            ],
+            "title": "Model Predictive Control",
+            "year": "13 FS"
+        },
+        {
+            "author": "Alexander J\u00f6hl",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF_RE.zip"
+                ]
+            ],
+            "title": "Recursive Estimation",
+            "year": "13 FS"
+        },
+        {
+            "author": "Florian Petit, Philippe Petit",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mpc.zip"
+                ]
+            ],
+            "title": "Model Predictive Control - Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Alexander J\u00f6hl",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF%20MPC.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Model Predictive Control",
+            "year": "13 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Recursive Estimation",
+            "year": "13 FS"
+        },
+        {
+            "author": "Florian Tschopp",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Micro_SUM.pdf"
+                ]
+            ],
+            "title": "MicroRobotics Cheat Sheet",
+            "year": "13 HS"
+        },
+        {
+            "author": "Jonas Londschien & Raphael Glaesener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Microrobotics_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Microrobotics",
+            "year": "13 HS"
+        },
+        {
+            "author": "Jonas Londschien & Raphael Glaesener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Microrobotics_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Microrobotics",
+            "year": "13 HS"
+        },
+        {
+            "author": "Huub Heijnen & Andreas Fl\u00e5ten",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/OLCAR_Notes%20%285%29.pdf"
+                ]
+            ],
+            "title": "Optimal and Learning Control for Autonomous Robots",
+            "year": "13 HS"
+        },
+        {
+            "author": "Lukas Mosimann, Stefan Ritz, Markus Thurnherr",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Unmanned_Aerial_Systems_HS2013.pdf"
+                ]
+            ],
+            "title": "Unmanned Aerial Systems UAS",
+            "year": "13 HS"
+        },
+        {
+            "author": "Jannik von Rickenbach, Markus Thurnherr",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF_OLCAR_HS2013.pdf"
+                ]
+            ],
+            "title": "OLCAR: Optimal & Learning Control for Autonomous Robots",
+            "year": "13 HS"
+        },
+        {
+            "author": "Helen Oleynikova",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sheet.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sheet.tex"
+                ]
+            ],
+            "title": "Machine Learning",
+            "year": "13 HS"
+        },
+        {
+            "author": "Samuel Charreyron",
+            "links": [
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DM2013_Charreyron.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DMFS.pdf"
+                ]
+            ],
+            "title": "Data Mining: Learning from Large Data Sets",
+            "year": "13 S"
+        },
+        {
+            "author": "Alessandro Simovic",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation_2.pdf"
+                ],
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation.zip"
+                ]
+            ],
+            "title": "Recursive Estimation",
+            "year": "14 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC%20-%20Mauro%20Salazar.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Cheat Sheet",
+            "year": "14 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC%20long%20-%20Mauro%20Salazar.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Long Review",
+            "year": "14 FS"
+        },
+        {
+            "author": "Daniel Eckert",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAISummary_DanielEckert.pdf"
+                ],
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAISummary_DanielEckert.docx"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence - Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "Jonas Eichenberger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CheatSheet_ML.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CheatSheet_ML.tex"
+                ]
+            ],
+            "title": "Cheat Sheet Machine Learning",
+            "year": "14 HS"
+        },
+        {
+            "author": "Roman Meier",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_UAS.zip"
+                ]
+            ],
+            "title": "Unmanned Aerial Systems - Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "Alessandro Simovic",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI.pdf"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence",
+            "year": "14 HS"
+        },
+        {
+            "author": "Marlin Strub",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Image%20Analysis%20and%20Computer%20Vision%20Summary.pdf"
+                ]
+            ],
+            "title": "Summary Image Analysis and Computer Vision",
+            "year": "15 HS"
+        },
+        {
+            "author": "Marlin Strub",
+            "links": [
+                [
+                    "Robot Dynamics Cheat Sheet.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dynamics%20Cheat%20Sheet.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Robot Dynamics",
+            "year": "15 HS"
+        },
+        {
+            "author": "Sascha Mark",
+            "links": [
+                [
+                    "Engine Systems - Summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Engine%20Systems%20-%20Summary.pdf"
+                ],
+                [
+                    "Please read me!!.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Please%20read%20me%21%21.txt"
+                ]
+            ],
+            "title": "Engine Systems - Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Dynamic Programming and Optimal Control",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic%20Programming%20and%20Optimal%20Control_1.pdf"
+                ]
+            ],
+            "title": "Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Dynamic Programming and Optimal Control",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic%20Programming%20and%20Optimal%20Control_1.pdf"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_DPOC.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_DPOC.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Dynamic Programming and Optimal Control",
+            "year": "15 HS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_VPS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_VPS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Vehicle Propulsion Systems",
+            "year": "15 HS"
+        },
+        {
+            "author": "F. Giraldez, A. Tagliabue",
+            "links": [
+                [
+                    "Cheatsheet RD 2015",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Cheatsheet_RD-paco-definitive_1.pdf"
+                ]
+            ],
+            "title": "Cheatsheet Robot Dynamics",
+            "year": "15 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Linear Systems Theory",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Linear%20Systems%20Theory.pdf"
+                ]
+            ],
+            "title": "Linear Systems Theory Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Silvan Pl\u00fcss",
+            "links": [
+                [
+                    "RD_ZF_spluess.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RD_ZF_spluess.pdf"
+                ]
+            ],
+            "title": "Robot Dynamics Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Roman K\u00e4slin",
+            "links": [
+                [
+                    "Summary Fundamentals of Computer Vision.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Fundamentals%20of%20Computer%20Vision.pdf"
+                ]
+            ],
+            "title": "Summary Fundamentals of Image Processing and Computer Vision (UZH, Prof. Davide Scaramuzza)",
+            "year": "15 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Robot Dynamics",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dynamics.pdf"
+                ]
+            ],
+            "title": "Robot Dynamics Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Silvan Pl\u00fcss",
+            "links": [
+                [
+                    "PAI_summary_spluess2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI_summary_spluess2.pdf"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Structural Reliability and Risk Analysis",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Structural%20Reliability%20and%20Risk%20Analysis.pdf"
+                ]
+            ],
+            "title": "Structural Reliability and Risk Analysis Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Marlin Strub",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic%20Programming%20and%20Optimal%20Control%20Cheat%20Sheet.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Dynamic Programming and Optimal Control",
+            "year": "15 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "System Modeling",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/System%20Modeling_1.pdf"
+                ]
+            ],
+            "title": "System Modeling Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Roman K\u00e4slin",
+            "links": [
+                [
+                    "LIS_Summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LIS_rkaeslin.pdf"
+                ],
+                [
+                    "LIS_Source(LaTeX)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LIS%20rkaeslin.zip"
+                ]
+            ],
+            "title": "Summary Learning and Intelligent Systems",
+            "year": "16 FS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Recursive Estimation",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation_0.pdf"
+                ]
+            ],
+            "title": "Recursive Estimation Summary",
+            "year": "16 FS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Nonlinear Systems and Control Long Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Nonlinear%20Systems%20and%20Control%20%28long%29.pdf"
+                ],
+                [
+                    "Nonlinear Systems and Control Short Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Nonlinear%20Systems%20and%20Control%20%28short%29.pdf"
+                ],
+                [
+                    "Nonlinear Systems and Control Memorization Sheet",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Nonlinear%20Systems%20and%20Control%20Memorization%20sheet.pdf"
+                ]
+            ],
+            "title": "Nonlinear Systems and Control Summaries",
+            "year": "16 FS"
+        },
+        {
+            "author": "Jesko Mueller, Marius Grimm, Roman K\u00e4slin",
+            "links": [
+                [
+                    "AMR_Summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Autonomous%20Mobile%20Robots%20-%20JM%20MG%20RK.pdf"
+                ],
+                [
+                    "AMR_Summary.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Autonomous%20Mobile%20Robots%20-%20JM%20MG%20RK.docx"
+                ]
+            ],
+            "title": "Summary Autonomous Mobile Robots",
+            "year": "16 FS"
+        },
+        {
+            "author": "Marlin Srub",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation%20Cheat%20Sheet.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Recursive Estimation",
+            "year": "16 FS"
+        },
+        {
+            "author": "Mohit Rathod",
+            "links": [
+                [
+                    "Summary of Robot Dynamics",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RoboDyn.pdf"
+                ],
+                [
+                    "tex files for the summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dyn.zip"
+                ]
+            ],
+            "title": "Summary of Robot Dynamics",
+            "year": "16 HS"
+        },
+        {
+            "author": "Tobias Ulrich",
+            "links": [
+                [
+                    "robot_dynamics_cheat_sheet_tobias_ulrich_2016.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/robot_dynamics_cheat_sheet_tobias_ulrich_2016.pdf"
+                ]
+            ],
+            "title": "Robot Dynamics - Cheat Sheet",
+            "year": "16 HS"
+        },
+        {
+            "author": "Tanja Baumann",
+            "links": [
+                [
+                    "ZF_HPC.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_HPC.pdf"
+                ]
+            ],
+            "title": "Summary High Performance Computing",
+            "year": "16 HS"
+        },
+        {
+            "author": "Christian Baumann",
+            "links": [
+                [
+                    "CheatSheet_ML.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CheatSheet_ML_1.pdf"
+                ]
+            ],
+            "title": "Machine Learning Summary",
+            "year": "16 HS"
+        },
+        {
+            "author": "Dongho Kang",
+            "links": [
+                [
+                    "summary for Virtual Reality I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_2.pdf"
+                ]
+            ],
+            "title": "Virtual Reality I Summary",
+            "year": "17"
+        },
+        {
+            "author": "Steve Maassen",
+            "links": [
+                [
+                    "MPC_Zsf_A4.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC_Zsf_A4.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Cheat sheet/Zsf",
+            "year": "17 FS"
+        },
+        {
+            "author": "Luke T. Taverne",
+            "links": [
+                [
+                    "Cheat Sheet",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Deep-Learning-Cheat-Sheet-HS2017.pdf"
+                ],
+                [
+                    "LaTeX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Deep-Learning-Cheat-Sheet-HS2017.zip"
+                ]
+            ],
+            "title": "Deep Learning - Cheat sheet / Summary / Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Christian Baumann",
+            "links": [
+                [
+                    "DMFS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DMFS_1.pdf"
+                ]
+            ],
+            "title": "Data Mining Summary",
+            "year": "17 HS"
+        },
+        {
+            "author": "Yannik Nager, Thomas Eppenberger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/machine-learning-zf.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/machine-learning-zf.tex"
+                ]
+            ],
+            "title": "Machine Learning Cheat Sheet",
+            "year": "17 HS"
+        },
+        {
+            "author": "Christian Baumann",
+            "links": [
+                [
+                    "summ.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/summ.pdf"
+                ]
+            ],
+            "title": "Summary Signal and Information Processing",
+            "year": "17 HS"
+        },
+        {
+            "author": "Laura Gasser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dynamics%20-%20Summary.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dynamics%20-%20Summary.rar"
+                ]
+            ],
+            "title": "Summary - Robot Dynamics",
+            "year": "17 HS"
+        },
+        {
+            "author": "Laura Gasser / Daniel Eckert",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI%20summary.pdf"
+                ],
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI%20summary.docx"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence (PAI) - Summary",
+            "year": "17 HS"
+        },
+        {
+            "author": "Kamil Ritz",
+            "links": [
+                [
+                    "RD_Cheatsheet_17_kritz.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RD_Cheatsheet_17_kritz.pdf"
+                ]
+            ],
+            "title": "Robot Dynamics",
+            "year": "17 HS"
+        },
+        {
+            "author": "Felix Graule, Noa Melchior, Francesco Spadafora",
+            "links": [
+                [
+                    "zf-introml-fs18.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf-introml-fs18.zip"
+                ],
+                [
+                    "zf-introml-fs18_final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf-introml-fs18_final.pdf"
+                ]
+            ],
+            "title": "Introduction to Machine Learning Summary FS18",
+            "year": "18 FS"
+        },
+        {
+            "author": "Felix Graule, Claudia H\u00e4berling, Matthias St\u00e4hli",
+            "links": [
+                [
+                    "zf-recest-fs18.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf-recest-fs18.pdf"
+                ],
+                [
+                    "zf-recest-fs18.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf-recest-fs18.zip"
+                ]
+            ],
+            "title": "Recursive Estimation Summary",
+            "year": "18 FS"
+        },
+        {
+            "author": "Claudia H\u00e4berling, Felix Graule",
+            "links": [
+                [
+                    "Summary AMR FS18 - FG CH.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20AMR%20FS18%20-%20FG%20CH.docx"
+                ],
+                [
+                    "Final Summary AMR FS18 - FG CH.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Final%20Summary%20AMR%20FS18%20-%20FG%20CH.pdf"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots Summary",
+            "year": "18 FS"
+        },
+        {
+            "author": "Cliff Li",
+            "links": [
+                [
+                    "Cheat sheet",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic_Programming_and_Optimal_Control.pdf"
+                ],
+                [
+                    "LaTeX source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic%20Programming%20and%20Optimal%20Control.zip"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control",
+            "year": "18 HS"
+        },
+        {
+            "author": "Felix Gaule, Matthias St\u00e4hli",
+            "links": [
+                [
+                    "Summary PAI",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sum_pai%281%29.pdf"
+                ],
+                [
+                    "latex file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sum_pai.tex"
+                ]
+            ],
+            "title": "Probabilistic AI",
+            "year": "18 HS"
+        },
+        {
+            "author": "Cornelius von Einem, Lukas Hertle",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics and Mechatronics",
+            "year": "18 HS"
+        },
+        {
+            "author": "Sophie Hall",
+            "links": [
+                [
+                    "Designed to be printed onto one double-sided A4 page.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formulary_Microrobotics_HS2018.pdf"
+                ],
+                [
+                    "Read me :)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Comments_on_Formulary_Sheet.pdf"
+                ],
+                [
+                    "LaTeX source and images on https://gitlab.ethz.ch/shall/formulary_microrobotics_2018.git",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex_Source%20.txt"
+                ]
+            ],
+            "title": "Microrobotics Summary HS18",
+            "year": "18 HS"
+        },
+        {
+            "author": "Tim Taubner",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DM-summary.pdf"
+                ]
+            ],
+            "title": "Summary Data Mining",
+            "year": "2016"
+        },
+        {
+            "author": "Fabian Bl\u00f6chliger",
+            "links": [
+                [
+                    "Autonomous_Mobile_Robots.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Autonomous_Mobile_Robots.pdf"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots",
+            "year": "2016"
+        },
+        {
+            "author": "Tim Taubner",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zufa_pai.pdf"
+                ]
+            ],
+            "title": "Summary Probabilistic AI",
+            "year": "2016"
+        },
+        {
+            "author": "Daniel Hentzen",
+            "links": [
+                [
+                    "Learning & Intelligent Systems Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/document.pdf"
+                ],
+                [
+                    "README_AMIV.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/README_AMIV.txt"
+                ]
+            ],
+            "title": "Learning & Intelligent Systems Summary",
+            "year": "2017"
+        },
+        {
+            "author": "Daniel Hentzen",
+            "links": [
+                [
+                    "MPC_doc.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC_doc.pdf"
+                ],
+                [
+                    "readme.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/readme.txt"
+                ]
+            ],
+            "title": "Model Predictive Control - Summary",
+            "year": "2017"
+        },
+        {
+            "author": "Tim Taubner",
+            "links": [
+                [
+                    "summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/summary.pdf"
+                ]
+            ],
+            "title": "Summary Model Predictive Control (MPC)",
+            "year": "2017"
+        },
+        {
+            "author": "Benedikt Dietz",
+            "links": [
+                [
+                    "LIS_ZF_BD.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LIS_ZF_BD.pdf"
+                ]
+            ],
+            "title": "LIS (Learning and Intelligent Systems) Cheat Sheet",
+            "year": "2017"
+        },
+        {
+            "author": "Mani Matters",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZuFa.UIE_.pdf"
+                ],
+                [
+                    "ZuFa_UIE.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZuFa_UIE.zip"
+                ]
+            ],
+            "title": "User Interface Engineering",
+            "year": "FS16"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "65",
+        "name": "Robotics, Systems and Control",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": true,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "E. Gallestey Alvarez, A. Paice",
+            "links": [
+                [
+                    "Ex. & MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises%20%26%20Solutions.zip"
+                ]
+            ],
+            "title": "Nonlinear Systems and Control - Uebungen mit MuL\u00f6",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exercises / Script",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NDAC.zip"
+                ]
+            ],
+            "title": "Nonlinear Dynamics and Chaos I (Haller)",
+            "year": "13 FS"
+        },
+        {
+            "author": "Prof. J. M. Buhmann / G. Krummenacher",
+            "links": [
+                [
+                    "Homework.ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ML%20Homework%20HS14.zip"
+                ]
+            ],
+            "title": "Machine Learning",
+            "year": "14 HS"
+        },
+        {
+            "author": "Danylo Malyuta",
+            "links": [
+                [
+                    "Linear Systems Theory Script Exercise Solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/lst_script_exercise_sol.pdf"
+                ]
+            ],
+            "title": "Linear Systems Theory Script Exercise Solutions",
+            "year": "15 HS"
+        },
+        {
+            "author": "Prof. M. Troyer, Dr. P. Chatzidoukas",
+            "links": [
+                [
+                    "Code Examples",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE_HS16_examples_1.zip"
+                ],
+                [
+                    "Exercises",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE_HS16_exercises_1.zip"
+                ],
+                [
+                    "Slides",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE_HS16_slides.zip"
+                ]
+            ],
+            "title": "High Performance Computing in Science & Engineering I - Exercises & Slides",
+            "year": "16 HS"
+        }
+    ]
+}

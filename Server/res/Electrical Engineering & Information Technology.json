@@ -1,0 +1,628 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. F. Iida",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung - MSc Mech.Eng. - Bio - Inspired Motor Control",
+            "year": "11 HS"
+        },
+        {
+            "author": "Anna Volokitin",
+            "links": [
+                [
+                    "Computational Statistics Exam 2015 (from my memory)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Compstat_past_exam.pdf"
+                ]
+            ],
+            "title": "Computational Statistics Exam 2015 (from my memory)",
+            "year": "15 F"
+        },
+        {
+            "author": "Prof. R. Smith",
+            "links": [
+                [
+                    "Midterm",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_Klausur.pdf"
+                ],
+                [
+                    "Midterm_Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_nurLoesungen.pdf"
+                ]
+            ],
+            "title": "Midterm with Solution - Control Systems II - FS 2016",
+            "year": "16 FS"
+        },
+        {
+            "author": "Stephan Zehnder",
+            "links": [
+                [
+                    "protokoll.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/protokoll.pdf"
+                ]
+            ],
+            "title": "Wearable Systems I - Pr\u00fcfungsprotokoll",
+            "year": "16 HS"
+        },
+        {
+            "author": "Karlsruhe Institute of Technology (KIT)",
+            "links": [
+                [
+                    "Protokolle.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Protokolle.zip"
+                ]
+            ],
+            "title": "Optical Communication Fundamentals Prof. Leuthold - Minutes of the examinations of a similar lecture held by Prof. Leuthold at KIT",
+            "year": "2014"
+        },
+        {
+            "author": "Prof R. Wattenhofer, Maxim Mattheeuws",
+            "links": [
+                [
+                    "DisCooperation.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DisCooperation.zip"
+                ]
+            ],
+            "title": "Distributed Computing - Unofficial Solutions",
+            "year": "2017"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Concepts of Object Oriented Programming - Lecture Notes",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Concepts_of_Object_Oriented_Programming_Lecture_Notes.pdf"
+                ]
+            ],
+            "title": "Concepts of Object Oriented Programming - Lecture Notes",
+            "year": "14 HS"
+        },
+        {
+            "author": "Dieter Baldinger, Thomas Mantel, Daniel Rohrer",
+            "links": [
+                [
+                    "PDF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PDF_1.pdf"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control Script",
+            "year": "2010"
+        },
+        {
+            "author": "Prof T. Delbr\u00fcck",
+            "links": [
+                [
+                    "Kursbuch",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analog%20VLSI%20circuits%20and%20principles.pdf"
+                ]
+            ],
+            "title": "Analog VLSI circuits and principles",
+            "year": "2014"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "E. Gallestey Alvarez, A. Paice",
+            "links": [
+                [
+                    "Theory",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Theory.zip"
+                ]
+            ],
+            "title": "Nonlinear Systems and Control - Theory",
+            "year": "09 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PAI_2015_Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI_2015_Exam.pdf"
+                ],
+                [
+                    "PAI_2014_Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI_2014_Exam.pdf"
+                ],
+                [
+                    "PAI_2013_Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI_2013_Exam.pdf"
+                ],
+                [
+                    "PAI_2012_Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI_2012_Exam.pdf"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence - L\u00f6sungsvorschl\u00e4ge 2012-2015",
+            "year": "12-15"
+        },
+        {
+            "author": "Matthias Grob",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS.pdf"
+                ],
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS%20Pr%C3%BCfung%2020.01.2015.txt"
+                ]
+            ],
+            "title": "Wearable Systems 1 - Handzf. + Pr\u00fcfung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Matthias Grob",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSC.pdf"
+                ],
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSC%20Pr%C3%BCfung%2027.01.2015.txt"
+                ]
+            ],
+            "title": "Hardware Software Codesign - Handzf. + Pr\u00fcfung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Matthias Grob",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ACA.pdf"
+                ],
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ACA%20Pr%C3%BCfung%2030.01.2015.txt"
+                ]
+            ],
+            "title": "Angewandte Computer Architekturen - Handzf. + Pr\u00fcfung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Mattia Halter",
+            "links": [
+                [
+                    "Solar Cells Flashcards",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Solar%20Cells.zip"
+                ]
+            ],
+            "title": "Solar Cells - Karteikarten/Flashcards",
+            "year": "15 HS"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Protocol Oral Exam Autum18",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Protocol_Oral_Exam_Autum18_Dominik_Werner.pdf"
+                ]
+            ],
+            "title": "18HS Protocol Oral Exam",
+            "year": "2017"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "18HS Protocol Oral Exam Optical Communication Fundamentals",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Protocol_Oral_Exam_Autum18_Dominik_Werner_1.pdf"
+                ]
+            ],
+            "title": "18HS Protocol Oral Exam Optical Communication Fundamentals",
+            "year": "2017"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "IntroToPlasmonics-Summary-HS13-fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/IntroToPlasmonics-Summary-HS13-fgl.pdf"
+                ]
+            ],
+            "title": "Introduction to Plasmonics - Summary",
+            "year": "13 HS"
+        },
+        {
+            "author": "Ferran Llamas",
+            "links": [
+                [
+                    "main.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_0.pdf"
+                ]
+            ],
+            "title": "Hardware and Software Codesign - Summary",
+            "year": "13 HS"
+        },
+        {
+            "author": "Andreas Schiller",
+            "links": [
+                [
+                    "Plasmonics_cheat_sheet_Schiller.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Plasmonics_cheat_sheet_Schiller.pdf"
+                ]
+            ],
+            "title": "Introduction to Plasmonics - Cheat sheet",
+            "year": "13 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC%20-%20Mauro%20Salazar.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Cheat Sheet",
+            "year": "14 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC%20long%20-%20Mauro%20Salazar.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Long Review",
+            "year": "14 FS"
+        },
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "VLSI II Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20VLSI%20II%20compressed.pdf"
+                ]
+            ],
+            "title": "VLSI II - Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "Acoustics I Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Acoustics.PDF"
+                ]
+            ],
+            "title": "Acoustics I - Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "Elio Gubser",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF.pdf"
+                ],
+                [
+                    "ODT-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF.odt"
+                ]
+            ],
+            "title": "Network Security Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Sprachverarbeitung Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sprachverarbeitung%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Sprachverarbeitung 1 Zsg",
+            "year": "14HS"
+        },
+        {
+            "author": "Martin Zellner, Stephan Dollberg",
+            "links": [
+                [
+                    "Network Security.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Network%20Security.pdf"
+                ]
+            ],
+            "title": "Network Security - Cheat Sheet",
+            "year": "14HS"
+        },
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "Handwritten Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EnergyChallenge_davidgs_FS15.pdf"
+                ]
+            ],
+            "title": "GESS Energy Challenge - Summary",
+            "year": "15 FS"
+        },
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "Handwritten Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/acoustics_II_davidgs_FS15.pdf"
+                ]
+            ],
+            "title": "Acoustics II - Summary",
+            "year": "15 FS"
+        },
+        {
+            "author": "Marco Eppenberger",
+            "links": [
+                [
+                    "Hand-ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AECC%20ZF%20FS15.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Algebra and Error Correcting Codes",
+            "year": "15 FS"
+        },
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "Handwritten Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vlsi_III_davidgs_FS15.pdf"
+                ]
+            ],
+            "title": "VLSI III - Summary",
+            "year": "15 FS"
+        },
+        {
+            "author": "Patrick Lieberherr, Fabian Mentzer",
+            "links": [
+                [
+                    "Summary PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Distributed%20Computing_1.pdf"
+                ],
+                [
+                    "Summary Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Distributed%20Computing.docx"
+                ],
+                [
+                    "Algorithm Table PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Algorithm%20Overview.pdf"
+                ],
+                [
+                    "Algorithm Table Excel",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Algorithm%20Overview.xlsx"
+                ]
+            ],
+            "title": "PoDC Summary",
+            "year": "15FS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Sprachverarbeitung II Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sprachverarbeitung%20II%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Sprachverarbeitung 2 Zsg",
+            "year": "15FS"
+        },
+        {
+            "author": "Patrick Lieberherr",
+            "links": [
+                [
+                    "Summary PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20v1.0.pdf"
+                ],
+                [
+                    "Summary Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20v1.0.docx"
+                ]
+            ],
+            "title": "Summary - Technology and Policy of Electrical Energy Storage",
+            "year": "16 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "pai_zfg_final.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pai_zfg_final.docx"
+                ],
+                [
+                    "pai_zfg_final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pai_zfg_final.pdf"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence - ZFG 16 HS",
+            "year": "16 HS"
+        },
+        {
+            "author": "Stephan Zehnder",
+            "links": [
+                [
+                    "ZF_handwritten_1-12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_handwritten_1-12.pdf"
+                ],
+                [
+                    "ZF_handwritten_13-14.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_handwritten_13-14.pdf"
+                ]
+            ],
+            "title": "Wearable Systems I - Zusammenfassung",
+            "year": "16 HS"
+        },
+        {
+            "author": "Christian Baumann",
+            "links": [
+                [
+                    "summ.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/summ_1.pdf"
+                ]
+            ],
+            "title": "Summary Angewandte Computer Architektur",
+            "year": "17 HS"
+        },
+        {
+            "author": "Yannik Nager, Thomas Eppenberger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/machine-learning-zf.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/machine-learning-zf.tex"
+                ]
+            ],
+            "title": "Machine Learning Cheat Sheet",
+            "year": "17 HS"
+        },
+        {
+            "author": "Lennart Elsen/Tobias Bamert",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NetSec_zsfg.pdf"
+                ]
+            ],
+            "title": "Network Security - ITET Master",
+            "year": "2012"
+        },
+        {
+            "author": "Lennart Elsen/Lukas Gratwohl",
+            "links": [
+                [
+                    "compvis_zsfg.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/compvis_zsfg.pdf"
+                ]
+            ],
+            "title": "Computer Vision - ITET Master",
+            "year": "2012"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Summary Computer Vision",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/computer_vision_summary_dominik_werner.pdf"
+                ]
+            ],
+            "title": "Summary Computer Vision",
+            "year": "2017"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Summary Quantum Transport",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/quantum_transport_summary_dominik_werner.pdf"
+                ]
+            ],
+            "title": "Summary Quantum Transport",
+            "year": "2018"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Nonlinear_Optics_summary_dominik_werner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Nonlinear_Optics_summary_dominik_werner.pdf"
+                ]
+            ],
+            "title": "Summary Nonlinear Optics",
+            "year": "2018"
+        },
+        {
+            "author": "Sayan Ali Khan",
+            "links": [
+                [
+                    "Electrochemical Cell chapter",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/The%20Electrochemical%20Cell%20Summary.pdf"
+                ],
+                [
+                    "Li-ion Materials",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lithium%20Ion%20Batteries%20Material%20Summary.pdf"
+                ],
+                [
+                    "Battery Manufacturing processes",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Battery%20Manufacturing%20Outline.pdf"
+                ]
+            ],
+            "title": "Summaries to the Tech & Policy of EE Storage Lecture",
+            "year": "FS 16"
+        },
+        {
+            "author": "Alain Ding",
+            "links": [
+                [
+                    "Zusammenfassung ADC.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20ADC.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analog-to-Digital Converters",
+            "year": "FS15"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Scientific Databases Summary.DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Scientific%20Databases%20Summary.DOCX"
+                ]
+            ],
+            "title": "Zusammenfassung Scientific Databases",
+            "year": "HS14"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Hardware-Software Codesign ZSG.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Hardware-Software%20Codesign%20ZSG.docx"
+                ]
+            ],
+            "title": "Kurzzusammenfassung HW/SW Codesign (Graphen und Algorithmen)",
+            "year": "HS14"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "132",
+        "name": "Electrical Engineering & Information Technology",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": true,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Diverse",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen_09_0.zip"
+                ]
+            ],
+            "title": "Elektrische Antriebsyteme 1 - \u00dcbungen mit L\u00f6sungen",
+            "year": "09"
+        },
+        {
+            "author": "E. Gallestey Alvarez, A. Paice",
+            "links": [
+                [
+                    "Ex. & MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises%20%26%20Solutions.zip"
+                ]
+            ],
+            "title": "Nonlinear Systems and Control - Uebungen mit MuL\u00f6",
+            "year": "09 FS"
+        }
+    ]
+}

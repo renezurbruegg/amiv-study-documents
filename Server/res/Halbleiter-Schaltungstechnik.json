@@ -1,0 +1,502 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. Dr. Q. Huang",
+            "links": [
+                [
+                    "exam_Summer2013.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_Summer2013.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Prof. Dr. Q. Huang",
+            "links": [
+                [
+                    "mockExam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mockExam.pdf"
+                ],
+                [
+                    "mockExam_solution.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mockExam_solution.pdf"
+                ]
+            ],
+            "title": "Probeklausur mit Musterl\u00f6sung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof. Dr. Q. Huang",
+            "links": [
+                [
+                    "exam_Winter2014.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_Winter2014.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "14 F"
+        },
+        {
+            "author": "Q. Huang",
+            "links": [
+                [
+                    "exam_Summer2014.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_Summer2014.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "14 S"
+        },
+        {
+            "author": "Prof. Dr. Q. Huang",
+            "links": [
+                [
+                    "Pr\u00fcfung Winter 15",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_Winter2015.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "15 F"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2012_HS_Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2012_HS_Slides.zip"
+                ]
+            ],
+            "title": "Lecture Slides",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2013_HS_Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2013_HS_Slides.zip"
+                ]
+            ],
+            "title": "Lecture Slides",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2014_HS_Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2014_HS_Slides.zip"
+                ]
+            ],
+            "title": "Lecture Slides",
+            "year": "14 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2015_HS_Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2015_HS_Slides.zip"
+                ]
+            ],
+            "title": "Lecture Slides",
+            "year": "15 HS"
+        },
+        {
+            "author": "Philippe Alff",
+            "links": [
+                [
+                    "PVK Skript 2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SkriptEC-PVK.pdf"
+                ],
+                [
+                    "PVK L\u00f6sungsvorschl\u00e4ge 2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/L%C3%B6sungsvorschl%C3%A4ge.pdf"
+                ]
+            ],
+            "title": "PVK EC 2017",
+            "year": "17 FS"
+        },
+        {
+            "author": "Mario Blatter",
+            "links": [
+                [
+                    "PVK18.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK18.pdf"
+                ]
+            ],
+            "title": "PVK Slides",
+            "year": "17 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Aron Szakacs",
+            "links": [
+                [
+                    "all bode plot examples from the exercise slides",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/bodeplots.pdf"
+                ]
+            ],
+            "title": "Sammlung von Plotregeln",
+            "year": "17 HS"
+        },
+        {
+            "author": "caedan",
+            "links": [
+                [
+                    "Bodeplots.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bodeplots_1.pdf"
+                ]
+            ],
+            "title": "Bodeplots verschiedener Transferfunktionstypen",
+            "year": "18 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Summary Electronic Circuits fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20Electronic%20Circuits%20fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Raphael Keusch",
+            "links": [
+                [
+                    "Electronic_Circuits_keuschr.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_keuschr.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Electronic Circuits",
+            "year": "12 HS"
+        },
+        {
+            "author": "Matthias Grob",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC%20Spicker%20gedruckt.pdf"
+                ],
+                [
+                    "DOCX-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC%20Spicker.docx"
+                ]
+            ],
+            "title": "\u00dcbersichtlicher Zusammenschnitt der Vorlesungsslides (als Zusammenfassung verwendet)",
+            "year": "12 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "EC",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_EC.pdf"
+                ]
+            ],
+            "title": "Electronic Circuits Zusammenfassung",
+            "year": "12/13"
+        },
+        {
+            "author": "Christian Heiduschke",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC%20ZF.pdf"
+                ],
+                [
+                    "TEX-Source.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC%20ZF.zip"
+                ]
+            ],
+            "title": "Zusammenfassung EC (Prof Huang)",
+            "year": "14 HS"
+        },
+        {
+            "author": "Ja\u00ebl Keller & Thomas Birchler",
+            "links": [
+                [
+                    "EC.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC.pdf"
+                ]
+            ],
+            "title": "ZF EC",
+            "year": "15 HS"
+        },
+        {
+            "author": "Bharat Bhatia",
+            "links": [
+                [
+                    "EC_Switched_Capacitor_Z_Transform.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC_Switched_Capacitor_Z_Transform.pdf"
+                ]
+            ],
+            "title": "z-Trans. step for step Calc. for SC",
+            "year": "15 HS"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "latex zip version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20EC%20Raphael%20Fischer.zip"
+                ],
+                [
+                    "pdf version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EigeneZusEC.pdf"
+                ]
+            ],
+            "title": "ZF EC - basierend auf der von Christian Heiduschke",
+            "year": "15 HS"
+        },
+        {
+            "author": "Manuel Fritsche",
+            "links": [
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic%20Circuits%20Zusammenfassung.docx"
+                ],
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic%20Circuits%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Simon Erne",
+            "links": [
+                [
+                    "ZF_EC_Simon Erne_v11.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_EC_Simon%20Erne_v11.pdf"
+                ],
+                [
+                    "ZF_EC_Simon Erne_v.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_EC_Simon%20Erne_v.docx"
+                ],
+                [
+                    "Medien.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Medien.rar"
+                ]
+            ],
+            "title": "ZF | EC | Q. Huang",
+            "year": "16 HS"
+        },
+        {
+            "author": "bka",
+            "links": [
+                [
+                    "Electronic_Circuits_2014_HS_Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2014_HS_Slides_0.zip"
+                ]
+            ],
+            "title": "testzfsg",
+            "year": "17 HS"
+        },
+        {
+            "author": "asdfsadf",
+            "links": [
+                [
+                    "Electronic_Circuits_2014_HS_Slides_test.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2014_HS_Slides_test.zip"
+                ]
+            ],
+            "title": "testzfsg",
+            "year": "17 HS"
+        },
+        {
+            "author": "Killian Keller",
+            "links": [
+                [
+                    "Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_9.pdf"
+                ],
+                [
+                    "Electronic Circuits.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic%20Circuits.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Electronic Circuits",
+            "year": "2015"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "Bodeplots.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bodeplots.pdf"
+                ]
+            ],
+            "title": "Bodeplot-Anleitung",
+            "year": "2016"
+        },
+        {
+            "author": "Sascha Giger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC%20Summary.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC_Summary.rar"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "2017"
+        },
+        {
+            "author": "Alain Ding",
+            "links": [
+                [
+                    "Basics BJT/MOSFET",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC_Short_Summary_1_Basics_BJT_MOSFET.pdf"
+                ],
+                [
+                    "Current Mirror & Regions of BJT/MOSFET",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC_Short_Summary_2_Current_Mirror_Regions_of_BJT_MOSFET.pdf"
+                ],
+                [
+                    "Operational Amplifier & Bode Plots",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC_Short_Summary_3_Operational_Amplifier_Bode.pdf"
+                ],
+                [
+                    "Basic Circuits BJT/MOSFET",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EC_Short_Summary_4_Basic_Circuits.pdf"
+                ]
+            ],
+            "title": "Short Summaries for EC Exercises",
+            "year": "FS15"
+        },
+        {
+            "author": "Alain Ding",
+            "links": [
+                [
+                    "Advanced Summary for EC and AIC",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20AIC_1.pdf"
+                ]
+            ],
+            "title": "Universal Summary for Electronic Circuits (and Analog Integrated Circuits)",
+            "year": "HS13"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "171",
+        "name": "Halbleiter-Schaltungstechnik",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. Q. Huang",
+            "links": [
+                [
+                    "Serien/L\u00f6sungen einzeln und merged",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%20EC%20HS12.zip"
+                ]
+            ],
+            "title": "Serien mit Musterl\u00f6sungen",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2012_HS_Laboratory.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2012_HS_Laboratory.zip"
+                ]
+            ],
+            "title": "Laboratories with Solutions",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2012_HS_Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2012_HS_Exercises.zip"
+                ]
+            ],
+            "title": "Exercises with Solutions",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2013_HS_Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2013_HS_Exercises.zip"
+                ]
+            ],
+            "title": "Exercises with Solutions",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2013_HS_Laboratory.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2013_HS_Laboratory.zip"
+                ]
+            ],
+            "title": "Laboratories with Solutions",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2014_HS_Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2014_HS_Exercises.zip"
+                ]
+            ],
+            "title": "Exercises with Solutions",
+            "year": "14 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2014_HS_Laboratory.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2014_HS_Laboratory.zip"
+                ]
+            ],
+            "title": "Laboratories with Solutions",
+            "year": "14 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2015_HS_Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2015_HS_Exercises.zip"
+                ]
+            ],
+            "title": "Exercises with Solutions",
+            "year": "15 HS"
+        },
+        {
+            "author": "Prof. Dr. Qiuting Huang",
+            "links": [
+                [
+                    "Electronic_Circuits_2015_HS_Laboratory.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Electronic_Circuits_2015_HS_Laboratory.zip"
+                ]
+            ],
+            "title": "Laboratories with Solutions",
+            "year": "15 HS"
+        }
+    ]
+}

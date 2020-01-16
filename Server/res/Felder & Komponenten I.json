@@ -1,0 +1,87 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. Dr. R. Vahldieck, Dr. P. Leuchtmann",
+            "links": [
+                [
+                    "alte FUK Pr\u00fcfungen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/alte%20FUK%20Pr%C3%BCfungen.zip"
+                ]
+            ],
+            "title": "Alte FUK Pr\u00fcfungen mit Musterl\u00f6sungen 02-08",
+            "year": "02-08"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Felder_und_Komponenten_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung FuK 1 HS04",
+            "year": "05"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "Zusammenfassung - Felder und Komponenten I.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20-%20Felder%20und%20Komponenten%20I.pdf"
+                ]
+            ],
+            "title": "Zsfg FUK I",
+            "year": "10 HS"
+        },
+        {
+            "author": "ABT",
+            "links": [
+                [
+                    "FuK I+II Zsfg.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FuK%20I%2BII%20Zsfg.zip"
+                ],
+                [
+                    "FuK I+II Zsfg.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FuK%20I%2BII%20Zsfg.pdf"
+                ]
+            ],
+            "title": "Zusfg FuK I+II",
+            "year": "11/12"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "95",
+        "name": "Felder & Komponenten I",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "FuK Aufgaben.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FuK%20Aufgaben.pdf"
+                ]
+            ],
+            "title": "FuK Aufgaben Herbst 2011",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof. P.Leuchtmann",
+            "links": [
+                [
+                    "FuK Musterl\u00f6sung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FuK%20Musterl%C3%B6sung.pdf"
+                ]
+            ],
+            "title": "FuK Musterl\u00f6sungen Herbst 2011",
+            "year": "11 HS"
+        }
+    ]
+}

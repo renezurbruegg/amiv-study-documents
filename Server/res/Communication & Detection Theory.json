@@ -1,0 +1,163 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "practiceExam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/practiceExam.pdf"
+                ]
+            ],
+            "title": "Practice Exam",
+            "year": "15 FS"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. A. Lapidoth",
+            "links": [
+                [
+                    "CDT Lecture 01",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture1.pdf"
+                ],
+                [
+                    "CDT Lecture 02",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture2.pdf"
+                ],
+                [
+                    "CDT Lecture 03",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture3.pdf"
+                ],
+                [
+                    "CDT Lecture 04",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture4.pdf"
+                ],
+                [
+                    "CDT Lecture 05",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture5.pdf"
+                ],
+                [
+                    "CDT Lecture 06",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture6.pdf"
+                ],
+                [
+                    "CDT Lecture 07",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture7.pdf"
+                ],
+                [
+                    "CDT Lecture 08",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture8.pdf"
+                ],
+                [
+                    "CDT Lecture 09",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture9.pdf"
+                ],
+                [
+                    "CDT Lecture 10",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture10.pdf"
+                ],
+                [
+                    "CDT Lecture 11",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture11.pdf"
+                ],
+                [
+                    "CDT Lecture 12",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture12.pdf"
+                ],
+                [
+                    "CDT Lecture 13",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture13.pdf"
+                ],
+                [
+                    "CDT Lecture 14",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture14.pdf"
+                ]
+            ],
+            "title": "Vorlesungsfolien FS14 (Lapidoth)",
+            "year": "14 FS"
+        },
+        {
+            "author": "Prof. A. Lapidoth",
+            "links": [
+                [
+                    "Round2_lecture5.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Round2_lecture5_1.pdf"
+                ]
+            ],
+            "title": "Vorlesungsfolie 5 uncorrupted",
+            "year": "14 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Balz Maag",
+            "links": [
+                [
+                    "Zip-file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CDT_latex.rar"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 FS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20-%20Communication%20and%20Detection%20Theory.pdf"
+                ]
+            ],
+            "title": "Zsfg CDT",
+            "year": "12 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "zf6.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf6.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Max Mustermann",
+            "links": [
+                [
+                    "Read first the READ ME file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CDT-Summary.zip"
+                ],
+                [
+                    "READ ME.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/READ%20ME.txt"
+                ]
+            ],
+            "title": "Summary CDT",
+            "year": "18 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "123",
+        "name": "Communication & Detection Theory",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof A. Lapidoth",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CDT%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung",
+            "year": "12FS"
+        }
+    ]
+}

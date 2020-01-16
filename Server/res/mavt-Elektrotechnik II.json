@@ -1,0 +1,271 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "J.W.Kolar/J.Biela",
+            "links": [
+                [
+                    "Beispiele",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_SammlungPruefungsbeispiele.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_SammlungPruefungsbeispiele_Muloe.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungsbeispiele mit Musterl\u00f6sung",
+            "year": "08 S"
+        },
+        {
+            "author": "Prof. G. Andersson",
+            "links": [
+                [
+                    "Beispiele",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_Pruefungsbeispiele.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_Pruefungsbeispiele_Muloe_02.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungsbeispiele mit Musterl\u00f6sung",
+            "year": "12 FS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "J.W.Kolar/J.Biela",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FAQ%20H08.zip"
+                ]
+            ],
+            "title": "FAQs",
+            "year": "08 FS"
+        },
+        {
+            "author": "Tibor Stolz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/1%20Komplexe%20Wechselstromrechnung%20-%20Thevenin.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung zur \u00dcbung Nr.1: Komplexe Wechselstromrechnung - Th\u00e9venin-Ersatzschaltung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Alex Gross",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20ETII%20%C3%9Cbung%202%20by%20Alex%20Gross%20-%20HS12.pdf"
+                ],
+                [
+                    "LaTeX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII%20-%20Zusammenfassung%20f%C3%BCr%20%C3%9Cbung%202%20-%20LatexDokument.zip"
+                ]
+            ],
+            "title": "Theorieblatt zu \u00dcbungen 1 & 2",
+            "year": "12 HS"
+        },
+        {
+            "author": "Alex Gross",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20ETII%20%C3%9Cbung%203%20by%20Alex%20Gross%20-%20HS12.pdf"
+                ],
+                [
+                    "LaTeX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII%20-%20Zusammenfassung%20f%C3%BCr%20%C3%9Cbung%203%20-%20LatexDokument.zip"
+                ]
+            ],
+            "title": "Theorieblatt zu \u00dcbung 3",
+            "year": "12 HS"
+        },
+        {
+            "author": "Tibor Stolz",
+            "links": [
+                [
+                    "PDF 317 KB",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U5-Theorie-Tipps-i32.pdf"
+                ],
+                [
+                    "PDF 1.3 MB",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U5-Theorie-Tipps.pdf"
+                ]
+            ],
+            "title": "Theorie & Tipps zur \u00dcbung 5: Hochsetzsteller",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dani Rieke",
+            "links": [
+                [
+                    "Magnetismus.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Magnetismus.pdf"
+                ]
+            ],
+            "title": "Wichtigste Formeln Magnetismus",
+            "year": "12 HS"
+        },
+        {
+            "author": "Tibor Stolz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2%20Operationsverst%C3%A4rker%20negRK.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung zur \u00dcbung Nr.3: Operationsverst\u00e4rker mit neg. R\u00fcckkopplung",
+            "year": "12 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Heinrich Meier",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EltechII.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "07 FS"
+        },
+        {
+            "author": "Christian Forster",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/elektro2_cforster.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "08 FS"
+        },
+        {
+            "author": "J\u00e9r\u00f4me K\u00e4ser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/elektro2_zsf_jerome_v4_0.pdf"
+                ],
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/elektro2_zsf_jerome_v4.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 FS"
+        },
+        {
+            "author": "Lukas K\u00fcng / Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20ET2.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20ET2.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "C\u00e9dric de Crousaz",
+            "links": [
+                [
+                    "ETII.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII.zip"
+                ]
+            ],
+            "title": "ZF inkl. Tex",
+            "year": "12 HS"
+        },
+        {
+            "author": "Patrick Vettiger",
+            "links": [
+                [
+                    "ET2(auf Cedric-Zusfass drucken-Doppelseitig 4 Seiten pro Blatt).docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ET2%28auf%20Cedric-Zusfass%20drucken-Doppelseitig%204%20Seiten%20pro%20Blatt%29.docx"
+                ]
+            ],
+            "title": "Zusammenfassung - ET2",
+            "year": "14 HS"
+        },
+        {
+            "author": "Andreas Reichmuth",
+            "links": [
+                [
+                    "Zusammenfassung ETII - Reichmuth",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20ETII%20Stand%20Feb%2017.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung ETII",
+            "year": "16 HS"
+        },
+        {
+            "author": "Patrick Stadler",
+            "links": [
+                [
+                    "elektro2.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/elektro2.docx"
+                ],
+                [
+                    "elektro2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/elektro2.pdf"
+                ]
+            ],
+            "title": "ET II Zusammenfassung",
+            "year": "2014"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "Bodeplots.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bodeplots.pdf"
+                ]
+            ],
+            "title": "Bodeplot-Anleitung",
+            "year": "2016"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "36",
+        "name": "Elektrotechnik II",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. G. Andersson",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS11_ETII_Uebungen.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Tipps und Musterl\u00f6sungen",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. G. Andersson",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ETII_2012_U2.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "12 HS"
+        }
+    ]
+}

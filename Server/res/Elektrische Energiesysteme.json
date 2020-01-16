@@ -1,0 +1,49 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "EPS",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_EPS.pdf"
+                ]
+            ],
+            "title": "Electric Power Systems Zusammenfassung",
+            "year": "13/14"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "114",
+        "name": "Elektrische Energiesysteme",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. G\u00f6ran Andersson",
+            "links": [
+                [
+                    "ZIP_File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises_10HS.zip"
+                ],
+                [
+                    "ZIP_File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Folien_10HS.zip"
+                ],
+                [
+                    "ZIP_File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Solutions_10HS.zip"
+                ],
+                [
+                    "PDF_File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SymCompMethodology.pdf"
+                ]
+            ],
+            "title": "Serien, Folien und L\u00f6sungen (en)",
+            "year": "10 HS"
+        }
+    ]
+}

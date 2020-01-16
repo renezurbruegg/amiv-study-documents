@@ -1,0 +1,171 @@
+{
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Filtration Report und Excel",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Filtration%20Report%20und%20Excel.zip"
+                ]
+            ],
+            "title": "Filtration",
+            "year": "18 FS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Messung nichtel. Gr\u00f6ssen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Messung%20nichtel.%20Gr%C3%B6ssen.zip"
+                ]
+            ],
+            "title": "Messung nichtelektr. Gr\u00f6ssen",
+            "year": "2013"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "MEMS.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MEMS.zip"
+                ]
+            ],
+            "title": "MEMS",
+            "year": "12 FS"
+        },
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Schwingungen%20diskreter%20und%20kontinuierlicher%20Systeme.zip"
+                ]
+            ],
+            "title": "Schwingungen diskreter und kontinuierlicher Systeme",
+            "year": "12 HS"
+        },
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "Windkanal.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Windkanal_1.zip"
+                ]
+            ],
+            "title": "Windkanal",
+            "year": "12 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Parameter",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2013-10-23%2014.59.13.jpg"
+                ]
+            ],
+            "title": "Regelung eines Helikopters - Parameter aus der Mul\u00f6",
+            "year": "13 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "extraktion_von_essigsa\u0308ure.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/extraktion_von_essigsa%CC%88ure.pdf"
+                ]
+            ],
+            "title": "Extraktion von Essigs\u00e4ure (nicht korrigiert!)",
+            "year": "17 HS"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "PDF, LaTeX file, Messungen, Abbildungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Windkanal.zip"
+                ]
+            ],
+            "title": "Aerodynamische Untersuchungen im grossen Windkanal",
+            "year": "2009"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "PDF, LaTeX und Abbildungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DiffusionFlameReport.zip"
+                ]
+            ],
+            "title": "Diffusion Flame",
+            "year": "2009"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Turbolader.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Turbolader.zip"
+                ]
+            ],
+            "title": "Anatomie eines Turboladers",
+            "year": "2013"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Bericht_Windkanal.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bericht_Windkanal.pdf"
+                ]
+            ],
+            "title": "Aerodyn. Untersuchungen im grossen Windkanal",
+            "year": "2013"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Alexis M\u00fcller",
+            "links": [
+                [
+                    "Laborprakitka.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Laborprakitka.pdf"
+                ]
+            ],
+            "title": "Filtration Report",
+            "year": "16 FS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Bericht_Wasserkanal.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bericht_Wasserkanal.pdf"
+                ]
+            ],
+            "title": "Wasserkanal",
+            "year": "2013"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Praktikum Filtration hl.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Praktikum%20Filtration%20hl.docx"
+                ]
+            ],
+            "title": "Filtration Bericht",
+            "year": "2013"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "60",
+        "name": "Nicht Physik-Praktika",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

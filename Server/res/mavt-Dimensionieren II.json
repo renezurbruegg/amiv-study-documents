@@ -1,0 +1,338 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfung%20mit%20MuL%C3%B6%20%28old%29.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (old)",
+            "year": "04 SS"
+        },
+        {
+            "author": "Prof. Dr. K. Wegener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dim2-SP-Musterpruefung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "08 S"
+        },
+        {
+            "author": "Shahin, Gwerder, Liechti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/lsg_pruefung_0809.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungsvorschl\u00e4ge f\u00fcr Pr\u00fcfung",
+            "year": "09 F"
+        },
+        {
+            "author": "Prof. Dr. K. Wegener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dim2-Sessionspruefung-09-W-Loesung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "09 F"
+        },
+        {
+            "author": "Prof. Dr. K. Wegener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dim2-Sessionspruefung-10-W-Loesung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "10 F"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Matthias Wieland",
+            "links": [
+                [
+                    "Dim2_PVK_Skript_V1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dim2_PVK_Skript_V1.pdf"
+                ]
+            ],
+            "title": "PVK Skript",
+            "year": "18 FS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "VL Folien",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Folien%20FS10.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "FS10"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "VL Folien",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Folien%20FS10.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "FS10"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Dimensionieren%202.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Dimensionieren%202.odt"
+                ],
+                [
+                    "PDF 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Dimensionieren%202%20Kenntnisfragen.pdf"
+                ],
+                [
+                    "Quell-ODT 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Dimensionieren%202%20Kenntnisfragen.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 FS"
+        },
+        {
+            "author": "Jonathan Folberth",
+            "links": [
+                [
+                    "Pr\u00fcfungen von FS08/HS08/HS10 und \u00dcbungen FS14",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Aufgabenliste.pdf"
+                ],
+                [
+                    "Pr\u00fcfungen von FS08/HS08/HS10 und \u00dcbungen FS14 - zum Bearbeiten",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Aufgabenliste.xlsx"
+                ]
+            ],
+            "title": "Aufgabenliste - Dimensionieren II",
+            "year": "14 FS"
+        },
+        {
+            "author": "Johann Diep / Pascal Gutzwiller",
+            "links": [
+                [
+                    "Theorie Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/D2Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Theorie Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Matthias Wieland; Mario Millh\u00e4usler",
+            "links": [
+                [
+                    "Dimensionieren_2_ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dimensionieren_2_ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 FS"
+        },
+        {
+            "author": "Tiago Ogris",
+            "links": [
+                [
+                    "Dimensionieren II Zusammenfassung Tiago Ogris",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Dimens2_1.zip"
+                ]
+            ],
+            "title": "Dimensionieren II Zusammenfassung Tiago Ogris",
+            "year": "2018"
+        },
+        {
+            "author": "Unbekannt",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dimensionieren_II_Zfunb.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "F05"
+        },
+        {
+            "author": "J\u00e9r\u00f4me K\u00e4ser",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FoSa_Dim2_kaeser.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "F09"
+        },
+        {
+            "author": "Sandro N\u00fcesch",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dimensionieren%20II%20ZF%20nuesch.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "F10"
+        },
+        {
+            "author": "Marc Engeler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/dim_ii_marcengeler.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "F10"
+        },
+        {
+            "author": "Giona Fieni, Tamara Farinelli",
+            "links": [
+                [
+                    "Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_11.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Dimensionieren 2",
+            "year": "FS 17"
+        },
+        {
+            "author": "Ignacio Lobato Holtmann",
+            "links": [
+                [
+                    "Dimensionieren 2_ Serien Zusammenfassung_ Ignacio M Lobato Holtmann.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dimensionieren%202_%20Serien%20Zusammenfassung_%20Ignacio%20M%20Lobato%20Holtmann.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Serien",
+            "year": "FS13"
+        },
+        {
+            "author": "Andreas Walker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Dimens2.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Dimens2.zip"
+                ]
+            ],
+            "title": "ZF Dimens II",
+            "year": "FS16"
+        },
+        {
+            "author": "Andreas Lindau",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/dim2_lindaua.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H06"
+        },
+        {
+            "author": "Gabriel N\u00fctzi",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nuetzig_dim2.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H08"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "35",
+        "name": "Dimensionieren II",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Ueb & MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungen%20mit%20MuL%C3%B6%20%28old%29.zip"
+                ]
+            ],
+            "title": "Old Cases",
+            "year": "04 SS"
+        },
+        {
+            "author": "Prof. Dr. K. Wegener",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/11_3.zip"
+                ]
+            ],
+            "title": "Alle \u00dcbungen und Musterl\u00f6sungen",
+            "year": "11 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Ueb & MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS14.zip"
+                ]
+            ],
+            "title": "Alle \u00dcbungen und Musterl\u00f6sungen",
+            "year": "14 FS"
+        },
+        {
+            "author": "Prof K. Wegener",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/dim2-2010.zip"
+                ]
+            ],
+            "title": "Alle \u00dcbungen und Musterl\u00f6sungen",
+            "year": "F10"
+        },
+        {
+            "author": "Prof. Dr. K. Wegener, Prof. Dr. M. Meier",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Verschluss%20_Aufgabe.pdf"
+                ]
+            ],
+            "title": "Zusatzaufgabe",
+            "year": "kA"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof Dr. Ch. Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechnischeDynamikKlausur.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung Technische Dynamik",
+            "year": "05/06"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "MethStrAn_muendlich_Wi2013.jpg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MethStrAn_muendlich_Wi2013.jpg"
+                ]
+            ],
+            "title": "Pr\u00fcfungsfrage Winter 2013 - Methoden der Strukturanalyse - M\u00fcndlich",
+            "year": "13 W"
+        },
+        {
+            "author": "Prof P. Ermanni",
+            "links": [
+                [
+                    "LB 16W MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leichtbau%2016W%20Sol.pdf"
+                ]
+            ],
+            "title": "Leichtbau - Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "16 W"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechnDyn_zf_Juchler.pdf"
+                ]
+            ],
+            "title": "Technische Dynamik",
+            "year": "06"
+        },
+        {
+            "author": "Meier Heinrich",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/techdynmitschrift.pdf"
+                ]
+            ],
+            "title": "Technische Dynamik - Mitschrift",
+            "year": "07"
+        },
+        {
+            "author": "maweber & andin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem7_composite-technologies_andin.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem7_aircraft-spacecraft-systemsdesign-modeling-control_andin_1.odt"
+                ]
+            ],
+            "title": "Composite Technologies",
+            "year": "09"
+        },
+        {
+            "author": "Maurin Widmer",
+            "links": [
+                [
+                    "Leichtbau ZF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leichtbau%20ZF.pdf"
+                ]
+            ],
+            "title": "Formelsammlung Leichtbau",
+            "year": "15 HS"
+        },
+        {
+            "author": "Andreas Amrein",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Variationsrechnung.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Variationsrechnung.tex"
+                ]
+            ],
+            "title": "Technische Dynamik (Variationsrechnung)",
+            "year": "2012"
+        },
+        {
+            "author": "Alessandro Simovic, Matthias Burri",
+            "links": [
+                [
+                    "Tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Oelhydraulik%20und%20Pneumatik.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/oelhydraulik%20und%20pneumatik_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung -\u00d6lhydraulik und Pneumatik",
+            "year": "2015"
+        },
+        {
+            "author": "Philippe Scheuber",
+            "links": [
+                [
+                    "Exam Questions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FEM_exam.pdf"
+                ],
+                [
+                    "TeX File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TeX_2.zip"
+                ]
+            ],
+            "title": "Introduction to the Finite-Element Method",
+            "year": "2016"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "78",
+        "name": "Structure Mechanics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof Leine/Glocker",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechnischeDynamikUebung.zip"
+                ]
+            ],
+            "title": "Technische Dynamik - \u00dcbungen mit Musterl\u00f6sungen",
+            "year": "08"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/10_0.zip"
+                ]
+            ],
+            "title": "Faserverst\u00e4rkte Kunststoffe \u00dcbungen und Mul\u00f6",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. Dr. E. Mazza",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/10_1.zip"
+                ]
+            ],
+            "title": "Methoden der Strukturanalyse \u00dcbungen und Mul\u00f6",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. Dr. E. Mazza",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/11_2.zip"
+                ]
+            ],
+            "title": "Methoden der Strukturanalyse \u00dcbungen und Mul\u00f6",
+            "year": "11 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/11_1.zip"
+                ]
+            ],
+            "title": "Faserverst\u00e4rkte Kunststoffe \u00dcbungen und Mul\u00f6",
+            "year": "11 HS"
+        }
+    ]
+}

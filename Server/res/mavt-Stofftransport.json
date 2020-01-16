@@ -1,0 +1,200 @@
+{
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "E.L. Cussler",
+            "links": [
+                [
+                    "Diffusion - Cussler.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Diffusion%20-%20Cussler.pdf"
+                ]
+            ],
+            "title": "Buch Diffusion",
+            "year": "2009"
+        },
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "Lecture Script",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script.pdf"
+                ]
+            ],
+            "title": "Script",
+            "year": "2013"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "Test 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Test_1_incl.Solutions.pdf"
+                ],
+                [
+                    "Test 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Test_2_incl.Solutions.pdf"
+                ],
+                [
+                    "Test 3",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Test_3_incl.Solutions.pdf"
+                ]
+            ],
+            "title": "Tests",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "Test 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MT_HS16_Test1_v7_withSol.pdf"
+                ],
+                [
+                    "Test 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MT_HS16_Test2_v5_withsolution_AS.pdf"
+                ]
+            ],
+            "title": "Tests",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "Test_2011_MT.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Test_2011_MT.pdf"
+                ]
+            ],
+            "title": "Tests",
+            "year": "2011"
+        },
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "2013.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2013.zip"
+                ]
+            ],
+            "title": "Tests",
+            "year": "2013"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Alejandro Monsech Hern\u00e1ndez",
+            "links": [
+                [
+                    "ZF_Alejandro.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Alejandro.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Martin Ritsert",
+            "links": [
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmfsg_MassTransfer_MartinRitsert.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmfsg_MassTransfer_MartinRitsert.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Mik Pedroni",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stofftransport%20%28Pedroni%20Mik%29%202009.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H09"
+        },
+        {
+            "author": "Ronald Leisibach",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ronaldl_stofftransport.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H09"
+        },
+        {
+            "author": "Julian Marschewski",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MassTransfer.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H10"
+        },
+        {
+            "author": "Andy Lauper",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MassTransfer_Zufa_alauper.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "H12"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "50",
+        "name": "Stofftransport",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "Exercises and Solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MassTransfer_Ueb_HS12.zip"
+                ]
+            ],
+            "title": "Mass Transfer \u00dcbungen mit Musterl\u00f6sung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "Mass transfer exercises and solutions 2011",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mass_transfer.zip"
+                ]
+            ],
+            "title": "Stofftransport \u00dcbungen mit Musterl\u00f6sung",
+            "year": "2011"
+        },
+        {
+            "author": "Prof. Pratsinis",
+            "links": [
+                [
+                    "MT_Exercises_2013.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MT_Exercises_2013.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "2013"
+        }
+    ]
+}

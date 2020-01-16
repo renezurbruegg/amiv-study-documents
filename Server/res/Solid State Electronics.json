@@ -1,0 +1,166 @@
+{
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. V. Wood",
+            "links": [
+                [
+                    "Lecture Notes & Skript.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lecture%20Notes%20%26%20Skript.zip"
+                ]
+            ],
+            "title": "Lecture Notes und Skript",
+            "year": "14 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Solid State Electronics Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Solid%20State%20Electronics%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "SSE Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Allgemeine Informationen.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Allgemeine%20Informationen.pdf"
+                ]
+            ],
+            "title": "Allgemeine Informationen und Gr\u00f6ssen",
+            "year": "12 HS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Teilchen Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Teilchen%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "\u00dcbersich Teilchen",
+            "year": "12 HS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "Modelle Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Modelle%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "\u00dcbersicht Modelle",
+            "year": "12 HS"
+        },
+        {
+            "author": "Silvio Bischof",
+            "links": [
+                [
+                    "Solid State Electronics Preparation.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Solid%20State%20Electronics%20Preparation.pdf"
+                ]
+            ],
+            "title": "PDF-File",
+            "year": "12HS"
+        },
+        {
+            "author": "Mattia Halter",
+            "links": [
+                [
+                    "Script/Reading 1 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_1_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 2 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_2_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 3 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_3_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 4-5 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_4%3A5_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 6 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_6_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 7 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_7_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 8 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_8_Summary.pdf"
+                ],
+                [
+                    "Script/Reading 9 Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script%3AReadings_9_Summary.pdf"
+                ]
+            ],
+            "title": "Summary of script and readings",
+            "year": "13 HS"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Summary_SolidStateElectronics",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_SSE.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "111",
+        "name": "Solid State Electronics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof V. Wood",
+            "links": [
+                [
+                    "SSE Serien.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SSE%20Serien.rar"
+                ]
+            ],
+            "title": "\u00dcbungsserien ohne Musterl\u00f6sungen",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof V. Wood",
+            "links": [
+                [
+                    "Vorlesungsfolien.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Vorlesungsfolien.rar"
+                ]
+            ],
+            "title": "SSE Vorlesungsfolien",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. V. Wood",
+            "links": [
+                [
+                    "SSE-Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SSE-Exercises.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien mit Musterl\u00f6sungen",
+            "year": "13 HS"
+        }
+    ]
+}

@@ -1,0 +1,596 @@
+2020-01-16 15:51:06 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:06 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:06 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:51:06 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:51:07 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:07 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:07 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:51:07 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:51:07 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:51:07 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:51:23 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:23] "GET /getMensaForCurrentWeek HTTP/1.1" 404 -
+2020-01-16 15:51:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:24] "GET /favicon.ico HTTP/1.1" 404 -
+2020-01-16 15:51:28 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:28] "GET /api/getMensaForCurrentWeek HTTP/1.1" 500 -
+2020-01-16 15:51:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:29] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 15:51:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:29] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 15:51:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:29] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 15:51:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:29] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2020-01-16 15:51:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:29] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 15:51:34 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:51:35 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:51:36 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:36 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:36 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:51:36 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:51:36 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:51:36 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:51:37 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:37] "GET /api/getMensaForCurrentWeek HTTP/1.1" 500 -
+2020-01-16 15:51:37 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:37] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 15:51:37 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:37] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 15:51:37 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:37] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 15:51:37 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:37] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 15:51:57 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:51:57 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:51:59 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:59 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:51:59 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:51:59 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:51:59 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:51:59 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:51:59 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:59] "GET /api/getMensaForCurrentWeek HTTP/1.1" 500 -
+2020-01-16 15:51:59 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:51:59] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 15:52:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:00] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 15:52:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:00] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 15:52:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:00] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 15:52:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:00] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 15:52:16 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:52:17 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:52:18 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:52:18 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:52:18 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:52:18 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:52:18 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:52:18 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:52:45 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:52:46 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:52:47 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:52:47 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:52:47 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:52:47 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:52:47 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:52:47 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:52:49 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:52:50 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:52:51 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:52:51 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:52:51 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:52:51 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:52:51 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:52:51 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:52:52 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:52] "GET /api/getMensaForCurrentWeek HTTP/1.1" 500 -
+2020-01-16 15:52:53 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:53] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 15:52:53 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:53] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 15:52:53 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:53] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 15:52:53 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:52:53] "GET /api/getMensaForCurrentWeek?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 15:53:00 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:53:00 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:53:03 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:53:03 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:53:03 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:53:03 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:53:03 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:53:03 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:53:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:53:04] "GET /api/getMensaForCurrentWeek HTTP/1.1" 200 -
+2020-01-16 15:53:55 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:53:55 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:53:58 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:53:58 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:56:50 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:56:50 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:56:50 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:56:50 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 15:56:51 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:56:51 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 15:56:51 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 15:56:52 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 15:56:52 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 15:56:52 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 15:56:52 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:56:52] "GET /mat/itet/3/test HTTP/1.1" 200 -
+2020-01-16 15:57:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 15:57:01] "GET /mat/itet/3/Advanced%20Waves HTTP/1.1" 200 -
+2020-01-16 15:59:14 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 15:59:14 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:03:14 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:14 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:14 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:03:14 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:03:16 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:16 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:16 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:03:16 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:03:16 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:03:16 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:03:16 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:16] "GET /mat/itet/3/Advanced%20Waves HTTP/1.1" 200 -
+2020-01-16 16:03:21 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:21] "GET /mat/itet/3/Waves HTTP/1.1" 200 -
+2020-01-16 16:03:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:25] "GET /mat/itet/3/Waves HTTP/1.1" 200 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics HTTP/1.1" 500 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:03:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:31] "GET /mat/itet/3/Robotics?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:03:44 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:03:45 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:03:49 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:49 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:49 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:03:49 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:03:50 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:50 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:03:50 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:03:50 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:03:50 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:03:50 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:03:50 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:50] "GET /mat/itet/3/Waves HTTP/1.1" 200 -
+2020-01-16 16:03:55 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:03:55] "GET /mat/itet/3/Robotics HTTP/1.1" 200 -
+2020-01-16 16:04:34 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:04:34] "GET /mat/itet/3/Robot HTTP/1.1" 200 -
+2020-01-16 16:04:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:04:44] "GET /mat/itet/3/Robot%20Dyn HTTP/1.1" 200 -
+2020-01-16 16:04:46 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:04:46] "GET /mat/itet/3/Robot HTTP/1.1" 200 -
+2020-01-16 16:04:51 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:04:51] "GET /mat/itet/3/Dynamics HTTP/1.1" 200 -
+2020-01-16 16:05:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:05:24] "GET /mat/itet/3/Robots HTTP/1.1" 200 -
+2020-01-16 16:13:22 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:13:22 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:13:22 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:13:22 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:13:24 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:13:24 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:13:24 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:13:24 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:13:24 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:13:24 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:13:26 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:13:26] "GET /mat/itet/3/Robots HTTP/1.1" 200 -
+2020-01-16 16:13:32 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:13:32] "GET /mat/itet/3/Image HTTP/1.1" 200 -
+2020-01-16 16:14:40 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:14:41 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:15:41 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:15:41 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:15:41 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:15:41 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:15:43 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:15:43 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:15:43 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:15:43 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:15:43 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:15:43 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:15:43 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:15:43] "GET /mat/itet/3/Image HTTP/1.1" 200 -
+2020-01-16 16:15:48 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:15:48] "GET /mat/itet/3/image HTTP/1.1" 200 -
+2020-01-16 16:15:55 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:15:55] "GET /mat/itet/3/nus HTTP/1.1" 200 -
+2020-01-16 16:16:20 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:16:20 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:16:22 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:16:22 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:16:22 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:16:22 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:16:22 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:16:22 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:16:22 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:22] "GET /mat/itet/3/nus HTTP/1.1" 200 -
+2020-01-16 16:16:26 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:26] "GET /mat/itet/3/nus HTTP/1.1" 200 -
+2020-01-16 16:16:32 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:32] "GET /mat/itet/3/NUST%20I HTTP/1.1" 200 -
+2020-01-16 16:16:34 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:34] "GET /mat/itet/3/NUST%20II HTTP/1.1" 200 -
+2020-01-16 16:16:36 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:36] "GET /mat/itet/3/NUST%20I HTTP/1.1" 200 -
+2020-01-16 16:16:39 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:39] "GET /mat/itet/3/NUS%20I HTTP/1.1" 200 -
+2020-01-16 16:16:50 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:16:50] "GET /mat/itet/3/Robotic HTTP/1.1" 200 -
+2020-01-16 16:17:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:17:01] "GET /mat/itet/3/Informatik HTTP/1.1" 200 -
+2020-01-16 16:17:16 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:17:16] "GET /mat/itet/3/Analog%20Integrated%20Circuits HTTP/1.1" 200 -
+2020-01-16 16:17:19 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:17:19] "GET /mat/itet/3/Analog%20Integrated%20Circuit HTTP/1.1" 200 -
+2020-01-16 16:17:21 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:17:21] "GET /mat/itet/3/Analog%20Integrated%20Circuits HTTP/1.1" 200 -
+2020-01-16 16:17:53 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:17:53 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:17:55 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:17:55 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:29:08 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:29:08 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:29:08 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:29:08 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:29:13 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:29:13 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:29:13 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:29:13 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:29:13 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:29:13 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:29:16 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:29:16] "GET /mat/forName/ HTTP/1.1" 404 -
+2020-01-16 16:29:30 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:29:30] "GET /mat/forName/ HTTP/1.1" 404 -
+2020-01-16 16:29:33 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:29:33] "GET /mat/forName/te HTTP/1.1" 200 -
+2020-01-16 16:29:52 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:29:52] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:30:13 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:30:13] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:31:36 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:31:36] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:34:58 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:34:58] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:38:15 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:38:15] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:38:59 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:38:59] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:40:26 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:40:26 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:40:28 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:40:28 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:40:28 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:40:28 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:40:28 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:40:28 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:40:49 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:40:50 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:40:51 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:40:51 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:40:51 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:40:51 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:40:51 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:40:51 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:40:59 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:40:59 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:41:01 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:41:01 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:41:01 [INFO    ] [flask_app.server.main:46            ] starting server
+2020-01-16 16:41:01 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:41:01 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:41:01 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:41:09 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:41:10 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:44:29 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:44:29 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:44:29 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:44:29 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:44:30 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:44:30 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:44:30 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:44:30 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:44:30 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:44:30 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:44:32 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:32] "GET /mat/findName/test HTTP/1.1" 404 -
+2020-01-16 16:44:33 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:33] "GET /mat/findName/test HTTP/1.1" 404 -
+2020-01-16 16:44:39 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:39] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:44:39 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:39] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:44:39 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:39] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:44:40 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:40] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:44:40 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:40] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2020-01-16 16:44:40 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:40] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:44:40 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:44:40] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:44:49 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:44:50 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:44:54 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:44:54 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:44:54 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:44:54 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:44:54 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:44:54 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:45:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:45:00] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:45:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:45:00] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:45:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:45:00] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:45:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:45:00] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:45:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:45:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:45:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:45:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:45:39 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:45:39 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:45:41 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:45:41 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:45:41 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:45:41 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:45:41 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:45:41 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:46:00 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:46:01 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:46:02 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:46:02 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:46:02 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:46:02 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:46:02 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:46:02 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:46:06 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:46:06 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:46:07 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:46:07 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:46:07 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:46:07 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:46:07 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:46:07 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:46:13 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:46:13] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:46:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:46:17] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:46:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:46:29] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:46:29 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:46:30 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:46:31 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:46:31 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:46:31 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:46:32 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:46:32 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:46:32 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:46:35 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:46:35] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:47:01 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:47:01 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:47:02 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:47:02 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:47:02 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:47:02 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:47:02 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:47:02 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:47:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:04] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:47:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:04] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:47:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:04] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:47:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:04] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:47:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:04] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2020-01-16 16:47:05 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:05] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:47:14 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:47:14 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:47:16 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:47:16 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:47:16 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:47:16 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:47:16 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:47:16 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:47:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:17] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:47:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:17] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:47:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:17] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:47:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:17] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:47:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:17] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:47:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:24] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:47:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:24] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:47:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:24] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:47:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:24] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:47:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:47:25] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:48:11 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:48:11 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:48:12 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:48:12 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:48:12 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:48:12 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:48:12 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:48:12 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:48:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:14] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:48:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:14] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:48:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:14] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:48:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:14] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:48:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:14] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:48:18 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:18] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:48:18 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:18] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:48:18 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:18] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:48:18 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:18] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:48:19 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:19] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:48:29 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:48:30 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:48:33 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:48:33 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:48:33 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:48:33 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:48:33 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:48:33 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:48:33 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:48:33] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:49:41 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:49:42 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:49:44 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:49:44 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:49:44 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:49:44 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:49:44] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:49:44] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:49:44] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:49:44] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:49:44] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2020-01-16 16:49:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:49:44] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:50:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:00] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:50:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:00] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:50:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:00] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:50:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:00] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:50:00 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:50:00 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:50:02 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:02 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:02 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:50:02 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:50:02 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:50:02 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:50:04 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:04] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:50:05 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:05] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:50:05 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:05] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:50:05 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:05] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:50:05 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:05] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:50:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:11] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:50:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:11] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:50:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:11] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:50:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:11] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:50:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:11] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:50:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:11] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:50:24 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:50:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:25] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:50:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:25] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:50:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:25] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:50:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:25] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:50:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:25] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:50:26 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:26] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:50:27 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:50:29 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:29 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:29 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:50:29 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:50:29 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:50:29 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:50:37 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:50:38 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:50:41 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:41 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:41 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:50:41 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:50:41 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:50:41 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:50:47 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:50:48 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:50:50 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:50 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:50 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:50:50 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:50:51 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:50:51 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:50:55 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:55 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:55 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:50:55 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:50:56 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:56 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:50:56 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:50:56 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:50:56 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:50:56 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:50:56 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:50:56] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:51:18 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:51:18] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:51:18 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:51:18 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:51:20 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:51:20 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:51:21 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:51:21 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:51:21 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:51:21 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:51:21 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:51:21] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:51:26 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:51:26] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:52:37 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:52:37 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:53:59 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:53:59 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:53:59 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:53:59 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:54:01 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:01 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:01 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:54:01 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:01] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2020-01-16 16:54:01 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:01] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:54:05 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:54:06 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:54:11 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:11 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:11 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:54:11 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:54:12 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:12 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:12 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:54:12 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:54:12 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:54:12 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:54:19 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:19] "GET /mat/forName/test HTTP/1.1" 500 -
+2020-01-16 16:54:20 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:20] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2020-01-16 16:54:20 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:20] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2020-01-16 16:54:20 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:20] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2020-01-16 16:54:20 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:20] "GET /mat/forName/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2020-01-16 16:54:26 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:54:27 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:54:28 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:28 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:28 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:54:28 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:54:28 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:54:28 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:54:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:54:29] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:54:57 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 16:54:57 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 16:54:59 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:59 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 16:54:59 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 16:54:59 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 16:54:59 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 16:54:59 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 16:55:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:55:00] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:55:02 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:55:02] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:55:41 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:55:41] "GET /mat/forName/test HTTP/1.1" 200 -
+2020-01-16 16:55:46 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:55:46] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:56:23 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:56:23] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:56:24 [INFO    ] [werkzeug._log:122                   ] 10.5.47.59 - - [16/Jan/2020 16:56:24] "GET / HTTP/1.1" 404 -
+2020-01-16 16:56:25 [INFO    ] [werkzeug._log:122                   ] 10.5.47.59 - - [16/Jan/2020 16:56:25] "GET /HNAP1/ HTTP/1.1" 404 -
+2020-01-16 16:56:42 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:56:42] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:57:02 [INFO    ] [werkzeug._log:122                   ] 10.5.41.201 - - [16/Jan/2020 16:57:02] "GET / HTTP/1.1" 404 -
+2020-01-16 16:57:02 [INFO    ] [werkzeug._log:122                   ] 10.5.41.201 - - [16/Jan/2020 16:57:02] "GET /HNAP1/ HTTP/1.1" 404 -
+2020-01-16 16:57:08 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:57:08] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:57:51 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:57:51] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:58:42 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:58:42] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 16:59:17 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 16:59:17] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:02:02 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:02:02] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:03:20 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:03:20] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:03:39 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:03:39] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:03:57 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:03:57] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:04:12 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:04:12] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:04:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:04:29] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:06:51 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:06:51] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:08:25 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:08:25] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:08:33 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:08:33] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:09:16 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:09:16] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:09:24 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:09:24] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:09:46 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:09:46] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:10:12 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:10:12] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:10:47 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:10:47] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:10:57 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:10:57] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:11:10 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:11:10] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:12:53 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:12:53] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:13:11 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:13:11] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:13:32 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:13:32] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:13:46 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:13:46] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:13:55 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:13:55] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:14:22 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:14:22] "GET /mat/forName/VLSI%20III HTTP/1.1" 200 -
+2020-01-16 17:14:44 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:14:44] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:16:27 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:16:27] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:16:43 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:16:43] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:16:51 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:16:51] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:16:59 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:16:59] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:17:12 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:17:12] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:17:22 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:17:22] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:17:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:17:31] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:18:10 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:18:10] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:18:28 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:18:28] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:19:16 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:19:16] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:19:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:19:29] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:19:45 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:19:45] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:21:21 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:21:21] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:22:07 [INFO    ] [werkzeug._log:122                   ]  * Detected change in 'C:\\Users\\renez\\OneDrive\\Dokumente\\ETH\\FS19\\amivTable\\Server\\flask_app\\server.py', reloading
+2020-01-16 17:22:07 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-16 17:22:09 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 17:22:09 [WARNING ] [flask_cors.core.serialize_option:357] Unknown option passed to Flask-CORS: headers
+2020-01-16 17:22:09 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-16 17:22:09 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-16 17:22:09 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 197-551-981
+2020-01-16 17:22:09 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2020-01-16 17:22:10 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:22:10] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:22:18 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:22:18] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:22:36 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:22:36] "GET /mat/forName/%20Semiconductor%20Devices:%20Quantum%20Transport%20at%20the%20Nanoscale HTTP/1.1" 200 -
+2020-01-16 17:22:38 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:22:38] "GET /mat/forName/Acoustics%20I HTTP/1.1" 200 -
+2020-01-16 17:22:41 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:22:41] "GET /mat/forName/%20Angewandte%20Computer%20Architektur HTTP/1.1" 200 -
+2020-01-16 17:22:49 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:22:49] "GET /mat/forName/%20Hardware/Software%20Codesign HTTP/1.1" 200 -
+2020-01-16 17:25:20 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:25:20] "GET /mat/forName/%20Angewandte%20Computer%20Architektur HTTP/1.1" 200 -
+2020-01-16 17:25:31 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:25:31] "GET /mat/forName/%20Angewandte%20Computer%20Architektur HTTP/1.1" 200 -
+2020-01-16 17:25:53 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:25:53] "GET /mat/forName/%20Angewandte%20Computer%20Architektur HTTP/1.1" 200 -
+2020-01-16 17:27:54 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:27:54] "GET /mat/forName/%20Angewandte%20Computer%20Architektur HTTP/1.1" 200 -
+2020-01-16 17:28:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:28:14] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:28:47 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:28:47] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:29:37 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:29:37] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:30:33 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:30:33] "GET /mat/forName/Biological%20Methods%20for%20Engineers HTTP/1.1" 200 -
+2020-01-16 17:30:36 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:30:36] "GET /mat/forName/Cell%20and%20Molecular%20Biology%20for%20Engineers%20I HTTP/1.1" 200 -
+2020-01-16 17:30:39 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:30:39] "GET /mat/forName/Chemie HTTP/1.1" 200 -
+2020-01-16 17:30:49 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:30:49] "GET /mat/forName/Embedded%20Systems HTTP/1.1" 200 -
+2020-01-16 17:31:48 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:31:48] "GET /mat/forName/Informatik%20II HTTP/1.1" 200 -
+2020-01-16 17:33:00 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:33:00] "GET /mat/forName/Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:33:08 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:33:08] "GET /mat/forName/%20Angewandte%20Computer%20Architektur HTTP/1.1" 200 -
+2020-01-16 17:33:10 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:33:10] "GET /mat/forName/%20Hardware/Software%20Codesign HTTP/1.1" 200 -
+2020-01-16 17:33:13 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:33:13] "GET /mat/forName/%20Machine%20Learning HTTP/1.1" 200 -
+2020-01-16 17:34:02 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:34:02] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -
+2020-01-16 17:34:14 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:34:14] "GET /mat/forName/Image HTTP/1.1" 200 -
+2020-01-16 17:34:21 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:34:21] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -
+2020-01-16 17:45:52 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:45:52] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -
+2020-01-16 17:46:51 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:46:51] "GET /mat/forName/Control%20Systems%20II HTTP/1.1" 200 -
+2020-01-16 17:48:22 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 17:48:22] "GET /mat/forName/Control%20Systems%20I HTTP/1.1" 200 -
+2020-01-16 18:10:29 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:10:29] "GET /mat/forName/Discrete%20Event%20Systems HTTP/1.1" 200 -
+2020-01-16 18:10:45 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:10:45] "GET /mat/forName/Elektrotechnik%201 HTTP/1.1" 200 -
+2020-01-16 18:11:02 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:11:02] "GET /mat/forName/Network%20Security HTTP/1.1" 200 -
+2020-01-16 18:11:09 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:11:09] "GET /mat/forName/Netzwerke%20und%20Schaltungen%20I HTTP/1.1" 200 -
+2020-01-16 18:11:41 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:11:41] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -
+2020-01-16 18:18:06 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:18:06] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -

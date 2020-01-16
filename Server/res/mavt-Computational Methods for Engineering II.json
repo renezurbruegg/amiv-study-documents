@@ -1,0 +1,91 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Mario Millh\u00e4usler",
+            "links": [
+                [
+                    "CMEA II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2018_01_20_Zusammenfassung_Official.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Christian Hauschel",
+            "links": [
+                [
+                    "summary.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/summary.zip"
+                ],
+                [
+                    "Summary CMEAII.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20CMEAII.pdf"
+                ]
+            ],
+            "title": "Summary CMEA II",
+            "year": "17 HS"
+        },
+        {
+            "author": "Kamil Ritz",
+            "links": [
+                [
+                    "CMEAII Summary HS17",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CMEAII_summary_kritz.pdf"
+                ]
+            ],
+            "title": "Summary",
+            "year": "17HS"
+        },
+        {
+            "author": "Daniel Bogado Duffner",
+            "links": [
+                [
+                    "CMEA II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CMEAII.pdf"
+                ],
+                [
+                    "CMEA II ZSF.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CMEA%20II%20ZSF.zip"
+                ]
+            ],
+            "title": "Zusamenfassung",
+            "year": "17HS"
+        },
+        {
+            "author": "Yves Kompis",
+            "links": [
+                [
+                    "CMEA II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Computational%20Methods%20-%20Yves%20Kompis.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17HS"
+        },
+        {
+            "author": "Nicholas B\u00fcnger",
+            "links": [
+                [
+                    "CMEAII_ZF_NBuenger.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CMEAII_ZF_NBuenger.pdf"
+                ],
+                [
+                    "CMEAII_ZF_NBuenger.tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CMEAII_ZF_NBuenger.tex"
+                ]
+            ],
+            "title": "Cheat Sheet / Zusammenfassung",
+            "year": "2018"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "223",
+        "name": "Computational Methods for Engineering II",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false
+}

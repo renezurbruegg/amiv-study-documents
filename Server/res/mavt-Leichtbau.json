@@ -1,0 +1,76 @@
+{
+    "Testatklausuren": [
+        {
+            "author": "Prof. P. Ermanni",
+            "links": [
+                [
+                    "Klausuren",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leichtbau%20Klausuren.zip"
+                ]
+            ],
+            "title": "Klausuren mit Musterl\u00f6sung",
+            "year": "17 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Filippo Kusch",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LB-ZF.zip"
+                ]
+            ],
+            "title": "Zusammenfassung pdf + LaTeX",
+            "year": "16 HS"
+        },
+        {
+            "author": "Andreas Eckmann",
+            "links": [
+                [
+                    "ZF-LB",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LB-ZF-AE.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Andreas Eckmann & Maximilian St\u00f6lzle",
+            "links": [
+                [
+                    "Leichtbau ZF .pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leichtbau.pdf"
+                ],
+                [
+                    "Leichtbau ZF LaTex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leichtbau.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "228",
+        "name": "Leichtbau",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. P. Ermanni",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Leichtbau%20Uebungen.zip"
+                ]
+            ],
+            "title": "Alle \u00dcbungen mit Mustel\u00f6sungen",
+            "year": "17 HS"
+        }
+    ]
+}

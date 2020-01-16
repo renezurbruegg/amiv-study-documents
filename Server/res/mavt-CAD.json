@@ -1,0 +1,105 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TZTest.pdf"
+                ]
+            ],
+            "title": "Technisches Zeichnen Pr\u00fcfung",
+            "year": "06 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CAD_FragenJuchler.pdf"
+                ]
+            ],
+            "title": "CAD-Fragen zur Pr\u00fcfung",
+            "year": "04 HS"
+        },
+        {
+            "author": "Florian Hofmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cad_flhofmann.pdf"
+                ]
+            ],
+            "title": "Kurzantworten Pr\u00fcfungsfragen",
+            "year": "06 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Zip-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CAD_Installation.zip"
+                ]
+            ],
+            "title": "Installationsanleitung NX7.5",
+            "year": "10 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Christian Roth",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tz_christian%20roth.pdf"
+                ]
+            ],
+            "title": "TZ-Zusammenfassung",
+            "year": "03 HS"
+        },
+        {
+            "author": "Luzian Bieri",
+            "links": [
+                [
+                    "Z_CAD_2017_Luzian_Bieri.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Z_CAD_2017_Luzian_Bieri.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung CAD (NX-Funktionen)",
+            "year": "17 HS"
+        },
+        {
+            "author": "Tim Achermann, Thomas Brunner, Julia Koelliker",
+            "links": [
+                [
+                    "cAD ZuSa f\u00fcr Semesterpr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CAD_ZuSa.pdf"
+                ]
+            ],
+            "title": "zusammenfassung CAD",
+            "year": "18 HS"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "18",
+        "name": "CAD",
+        "sem": []
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Martin Sch\u00fctz",
+            "links": [
+                [
+                    "10HS 7MB.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/10HS%20TZCAD.zip"
+                ]
+            ],
+            "title": "Musterl\u00f6sungen TZ-\u00dcbungen",
+            "year": "10 HS"
+        }
+    ]
+}

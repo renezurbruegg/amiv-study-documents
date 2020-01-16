@@ -1,0 +1,502 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Fluid I - Sommer 2011.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluid%20I%20-%20Sommer%202011.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "11 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript.pdf"
+                ]
+            ],
+            "title": "Skript zur Vorlesung",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fosa2011.pdf"
+                ]
+            ],
+            "title": "Skript zur Vorlesung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Sascha Mark",
+            "links": [
+                [
+                    "PVK Slides Fluid I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_Slides_Fluid_I.zip"
+                ],
+                [
+                    "Liste geeigneter Aufgaben (Stand 2016)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AufgabenListe.pdf"
+                ]
+            ],
+            "title": "PVK Slides",
+            "year": "17 FS"
+        },
+        {
+            "author": "Sascha Mark",
+            "links": [
+                [
+                    "Lehrbuch Fluid I 2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript%20Fluid%20I%20FS2016%20V1.pdf"
+                ]
+            ],
+            "title": "PVK Skript / Lehrbuch",
+            "year": "17 FS"
+        },
+        {
+            "author": "Connor Lane",
+            "links": [
+                [
+                    "Skript_PVK_FS17_Lane.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript_PVK_FS17_Lane.pdf"
+                ]
+            ],
+            "title": "PVK Skript",
+            "year": "17 FS"
+        },
+        {
+            "author": "Tanja Baumann",
+            "links": [
+                [
+                    "PVK Skript 2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_Skript.zip"
+                ]
+            ],
+            "title": "PVK Skript",
+            "year": "17 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Zoran Vidakovic",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid1_zoran.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04 FS"
+        },
+        {
+            "author": "Theres Felix",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluiddynamik1_tf.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "06 FS"
+        },
+        {
+            "author": "Florian Hofmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/flhofman_fluid1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "07 FS"
+        },
+        {
+            "author": "Stefan Liechti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid_zf_liechti_0.pdf"
+                ],
+                [
+                    "tex file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid_zf_liechti.tex"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 FS"
+        },
+        {
+            "author": "P\u00e9ter Fankhauser",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluiddynamik_i_fank.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 FS"
+        },
+        {
+            "author": "Markus Marschall",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluid_I_ZF_marschall.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Bastian Wohlfender",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF-bastianw-FD1.pdf"
+                ],
+                [
+                    "tex source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF-bastianw-FD1.tex"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "Fluiddynamik I.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik%20I.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik%20I%20v3.pdf"
+                ],
+                [
+                    "Wegleitung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wegleitung_6.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik%20I%20ZF%20Ver4.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik%20I%20ZF%20Ver4.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Matthias Krebs",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_Fluiddynamik_makrebs.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Florian Tschopp",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluid_SUM_ftschopp.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 S"
+        },
+        {
+            "author": "Luciano Bettinaglio",
+            "links": [
+                [
+                    "Zus FD I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FD_I_Zus.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Fluiddynamik I",
+            "year": "15"
+        },
+        {
+            "author": "Tobias L\u00f6w/Severin Meier",
+            "links": [
+                [
+                    "Fluiddynamik 1 ZF FS16",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik_1_ZF.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Tobias L\u00f6w/Severin Meier",
+            "links": [
+                [
+                    "Fluiddynamik 1 ZF FS16",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik_1_ZF.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Marc Stettler",
+            "links": [
+                [
+                    "Fluiddynamik 1.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik%201.zip"
+                ]
+            ],
+            "title": "Zusammenfassung (Latex)",
+            "year": "17 FS"
+        },
+        {
+            "author": "Marco Stephan",
+            "links": [
+                [
+                    "ZFFluidI.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZFFluidI.pdf"
+                ]
+            ],
+            "title": "Fluid I ZF",
+            "year": "2016"
+        },
+        {
+            "author": "Daniel Steinmann",
+            "links": [
+                [
+                    "fluid.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Fluiddynamik I",
+            "year": "2017"
+        },
+        {
+            "author": "Lukas Moy",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid_lmoy_1.pdf"
+                ],
+                [
+                    "TEX source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid_lmoy_1.tex"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "FS 12"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS12_FluiddynamicsI_Summary.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS12_FluiddynamicsI_Summary.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "FS 12"
+        },
+        {
+            "author": "Roman Ehrler",
+            "links": [
+                [
+                    "Formelsammlung_FluiddynamikI_FS16.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_FluiddynamikI_FS16.pdf"
+                ]
+            ],
+            "title": "Fluiddynamik I Formelsammlung",
+            "year": "FS 16"
+        },
+        {
+            "author": "Aurelia Bucciarelli, Luca Dahle",
+            "links": [
+                [
+                    "readme.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/readme_1.txt"
+                ],
+                [
+                    "FluidI_ZSF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FluidI_ZSF.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "FS 18"
+        },
+        {
+            "author": "Ignacio Lobato Holtmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluiddynamik_Ignacio%20M%20Lobato%20Holtmann.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Fluiddynamik I",
+            "year": "FS13"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "31",
+        "name": "Fluiddynamik I",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen03.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen & Testat\u00fcbungen",
+            "year": "03 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen04.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen & Testat\u00fcbungen",
+            "year": "04 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen07.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & Testat\u00fcbungen",
+            "year": "07 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen08.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & Testat\u00fcbungen",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Testatuebung09.zip"
+                ]
+            ],
+            "title": "Testat\u00fcbungen",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen10.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & Testat\u00fcbungen",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid_2012.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & Testatklausuren",
+            "year": "12 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS13.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & Testatklausuren",
+            "year": "13 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "fluid16.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fluid16.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & \u00dcbungsklausuren",
+            "year": "16 FS"
+        },
+        {
+            "author": "Prof. Dr. T. R\u00f6sgen",
+            "links": [
+                [
+                    "FS 17",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fluid_FS_2017.zip"
+                ]
+            ],
+            "title": "\u00dcbungen & Zwischenpr\u00fcfungen",
+            "year": "17 FS"
+        },
+        {
+            "author": "Prof R\u00f6sgen",
+            "links": [
+                [
+                    "FluDyI_U\u0308bungsaufgaben18.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FluDyI_U%CC%88bungsaufgaben18_1.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "18 FS"
+        }
+    ]
+}

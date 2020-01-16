@@ -1,0 +1,148 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/sample_exam_questions.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "09FS"
+        },
+        {
+            "author": "Roy Smith",
+            "links": [
+                [
+                    "Exam2012.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam2012.pdf"
+                ]
+            ],
+            "title": "CS2 Pr\u00fcfung 2012",
+            "year": "12 FS"
+        },
+        {
+            "author": "Roy Smith / Jesko Mueller",
+            "links": [
+                [
+                    "Exam2012-L\u00f6sungJM.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam2012-L%C3%B6sungJM.pdf"
+                ]
+            ],
+            "title": "CS2 Pr\u00fcfung 2012 L\u00f6sung",
+            "year": "12 FS"
+        },
+        {
+            "author": "Prof. R. Smith",
+            "links": [
+                [
+                    "Midterm",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_Klausur.pdf"
+                ],
+                [
+                    "Midterm_Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_nurLoesungen.pdf"
+                ]
+            ],
+            "title": "Midterm with Solution - Control Systems II - FS 2016",
+            "year": "16 FS"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. R. Smith",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/CSII_Script_SS2012.pdf"
+                ]
+            ],
+            "title": "Vorlesungsskript",
+            "year": "12FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Control%20Systems%20II%20%28R.%20Smith%29%20Variables%20-%20Stefan%20Rickli.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Control%20Systems%20II%20%28R.%20Smith%29%20Variables%20-%20Stefan%20Rickli.pdf"
+                ]
+            ],
+            "title": "Control Systems II (R. Smith) - List of Variables",
+            "year": "17 FS"
+        },
+        {
+            "author": "Lennart Elsen/Lukas Gratwohl",
+            "links": [
+                [
+                    "cs2_zsfg.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cs2_zsfg.pdf"
+                ]
+            ],
+            "title": "Control Systems 2 - 3. Jahr Bachelor",
+            "year": "2011"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "126",
+        "name": "Regelsysteme II",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. R. Smith",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/serien_fs11.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien mit Musterl\u00f6sungen",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof R. Smith",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS%20II%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien",
+            "year": "12FS"
+        },
+        {
+            "author": "Roy Smith",
+            "links": [
+                [
+                    "Control 2 FS13 Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Control%202%20FS13%20Exercises.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien FS13",
+            "year": "13 FS"
+        },
+        {
+            "author": "Roy Smith",
+            "links": [
+                [
+                    "Control 2 FS13 Solutions.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Control%202%20FS13%20Solutions.zip"
+                ]
+            ],
+            "title": "Musterl\u00f6sung FS13",
+            "year": "13 FS"
+        }
+    ]
+}

@@ -1,0 +1,1702 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. F. Iida",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung - MSc Mech.Eng. - Bio - Inspired Motor Control",
+            "year": "11 HS"
+        },
+        {
+            "author": "Schweitzer, Frank, Prof. Dr.",
+            "links": [
+                [
+                    "2012 Exam.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2012%20Exam.pdf"
+                ]
+            ],
+            "title": "System Dynamics & Complexity - Exam 2012 (no solutions)",
+            "year": "12 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "GTMD_FS13_exam_questions_partially_solved.xls",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/GTMD_FS13_exam_questions_partially_solved.xls"
+                ]
+            ],
+            "title": "Gas Turbine Mechanics and Design: Exam Questions (without guarantee!)",
+            "year": "13 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Compressible Flows Exam FS13 (copy from memory).PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Compressible%20Flows%20Exam%20FS13%20%28copy%20from%20memory%29.PDF"
+                ]
+            ],
+            "title": "Compressible Flows Exam FS 13 (Copy from memory!)",
+            "year": "13 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Exam",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Biocompatible%20Materials%20I%20-%20Exam%20Winter%202013.pdf"
+                ]
+            ],
+            "title": "Exam Winter 2013 - Biocompatible Materials I",
+            "year": "13 HS"
+        },
+        {
+            "author": "Joel Roos et. al.",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Questions%20answered%20Compilation.pdf"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots - Exam Questions answered (compilation)",
+            "year": "14 FS"
+        },
+        {
+            "author": "Prof. B. Nelson",
+            "links": [
+                [
+                    "Microrobotics Exam, Autumn Semester 2015",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MR_ExamAutumn2015_FGiraldez.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung (ohne L\u00f6sung)",
+            "year": "15HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_2016.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics and Mechatronics",
+            "year": "16 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "TRM_exam_winter17.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_winter17.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung ohne Musterl\u00f6sung",
+            "year": "17 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_exam_2017.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics and Mechatronics",
+            "year": "17 HS"
+        },
+        {
+            "author": "Ermanni",
+            "links": [
+                [
+                    "Manufacturing of Polymer Composites Exam2017",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPCExam_final.pdf"
+                ],
+                [
+                    "Manufacturing of Polymer Composites Exam2017_Solution",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPCExam_final_solution.pdf"
+                ]
+            ],
+            "title": "Manufacturing of Polymer Composites",
+            "year": "2017"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Ren\u00e9 Waldvogel",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DynamikvonMehrkoerpersystemen.pdf"
+                ]
+            ],
+            "title": "Dynamik von Mehrk\u00f6rpersystemen",
+            "year": "11 FS"
+        },
+        {
+            "author": "Daniel Rohrer, Thomas Mantel",
+            "links": [
+                [
+                    "nonlineardynamics.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/nonlineardynamics.pdf"
+                ]
+            ],
+            "title": "Nonlinear Dynamics",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. R\u00f6sgen",
+            "links": [
+                [
+                    "QFV_Slides_HS11.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/QFV_Slides_HS11.rar"
+                ]
+            ],
+            "title": "Quantitive Flow Visualization - Slides",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof. K. Boulouchos",
+            "links": [
+                [
+                    "ICEnginesI.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ICEnginesI.pdf"
+                ]
+            ],
+            "title": "Internal Combustion Engines I",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dr. Schindler",
+            "links": [
+                [
+                    "Skript",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript_2.zip"
+                ]
+            ],
+            "title": "Skript  Bruchmechanik",
+            "year": "13 FS"
+        },
+        {
+            "author": "Lukas Lebovitz & Alexander Garbin",
+            "links": [
+                [
+                    "Mitschrift_Applied_Fluiddynamics.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mitschrift_Applied_Fluiddynamics.zip"
+                ]
+            ],
+            "title": "Mitschrift Applied Fluid Dynamics 2014",
+            "year": "14 HS"
+        },
+        {
+            "author": "Lukas Lebovitz & Alexander Garbin",
+            "links": [
+                [
+                    "Mitschrift_Comressible_Flows.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mitschrift_Comressible_Flows.zip"
+                ]
+            ],
+            "title": "Mitschrift Compressible Flows 2015",
+            "year": "15 FS"
+        },
+        {
+            "author": "Prof R. Abhari",
+            "links": [
+                [
+                    "Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Slides_1.zip"
+                ]
+            ],
+            "title": "Slides Aerospace Propulsion",
+            "year": "16 FS"
+        },
+        {
+            "author": "Dieter Baldinger, Thomas Mantel, Daniel Rohrer",
+            "links": [
+                [
+                    "PDF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PDF_1.pdf"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control Script",
+            "year": "2010"
+        },
+        {
+            "author": "Olivier Schwab",
+            "links": [
+                [
+                    "dss.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/dss.pdf"
+                ]
+            ],
+            "title": "Dynamik Strukturvarianter Systeme (Mitschrift)",
+            "year": "2013"
+        },
+        {
+            "author": "Guzella, Onder",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Introduction%20to%20Modeling%20and%20Control%20of%20Internal%20combustion%20Engine%20Systems.pdf"
+                ]
+            ],
+            "title": "Skript",
+            "year": "2015"
+        },
+        {
+            "author": "Prof. Dr. Paolo Ermanni",
+            "links": [
+                [
+                    "SKRIPT_Aircraft Structures.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SKRIPT_Aircraft%20Structures.pdf"
+                ]
+            ],
+            "title": "Skript - Flugzeugstrukturen / Aircraft Structures",
+            "year": "FS 12"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Stichwortverzeichnis_Flugtechnik2.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stichwortverzeichnis_Flugtechnik2.docx"
+                ]
+            ],
+            "title": "Ausgew\u00e4hlte Kapitel der Flugtechnik - Stichwortverzeichnis",
+            "year": "FS 16"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_RenewableEnergyTechnologiesII.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_RenewableEnergyTechnologiesII_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Renewable Energy Technologies II",
+            "year": "16 F"
+        },
+        {
+            "author": "maweber & andin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem7_composite-technologies_andin.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem7_aircraft-spacecraft-systemsdesign-modeling-control_andin_1.odt"
+                ]
+            ],
+            "title": "Composite Technologies",
+            "year": "09"
+        },
+        {
+            "author": "maweber & andin",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem8_virtual-reality1_andin.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sem8_virtual-reality1_andin.odt"
+                ]
+            ],
+            "title": "Virtual Reality",
+            "year": "09"
+        },
+        {
+            "author": "Ren\u00e9 Waldvogel",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Dynamik_von_Mehrk%C3%B6rpersystemen.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung: Mehrk\u00f6rpersysteme",
+            "year": "09 FS"
+        },
+        {
+            "author": "Gabriel N\u00fctzi",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RKFE.pdf"
+                ],
+                [
+                    "ZIP (Latex)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RKFE.zip"
+                ]
+            ],
+            "title": "Rekursive Filtering and Estimation",
+            "year": "10 HS"
+        },
+        {
+            "author": "Fadri Pestalozzi",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-Methods%20in%20the%20Innovation%20Process.pdf"
+                ]
+            ],
+            "title": "Methods in the Innovation Process",
+            "year": "11 FS"
+        },
+        {
+            "author": "Fadri Pestalozzi",
+            "links": [
+                [
+                    "Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-Wind-Energy.pdf"
+                ]
+            ],
+            "title": "Wind Energy",
+            "year": "11 FS"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_ZF_layouted.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM_ZF_new.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics & Mechatronics",
+            "year": "11 HS"
+        },
+        {
+            "author": "Tim Oberhauser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_ZF.pdf"
+                ],
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_ZF.docx"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control",
+            "year": "11 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamic%20Programming%20and%20Optimal%20Control.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Dymamic Programming and Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Merlin Batzill",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechanische%20Produktion%20Zusammenfassung.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechanische%20Produktion%20Zusammenfassung.odt"
+                ]
+            ],
+            "title": "Mechanische Produktion: Montieren, F\u00fcgen, Beschichten",
+            "year": "12 HS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF + ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPC.zip"
+                ]
+            ],
+            "title": "High Performance Computing",
+            "year": "12 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Linear%20System%20Theory.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Linear System Theory",
+            "year": "12 HS"
+        },
+        {
+            "author": "Timon Cernoch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AppliedFluiddynamics_Summary_TimonCernoch_HS2012_upl.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AppliedFluiddynamics_Summary_TimonCernoch_HS2012_upl.odt"
+                ]
+            ],
+            "title": "Applied Fluiddynamics - Zfs",
+            "year": "12 HS"
+        },
+        {
+            "author": "Alexander J\u00f6hl",
+            "links": [
+                [
+                    "Pdf file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_ZSF.pdf"
+                ],
+                [
+                    "Tex file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_ZSF.tex"
+                ]
+            ],
+            "title": "Zusammenfassung Dynamic Programming and Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Unmanned%20Aircraft%20Design%20final%20v1.pdf"
+                ]
+            ],
+            "title": "Aerospace Engineering / Unmanned Aircraft Design",
+            "year": "12 HS"
+        },
+        {
+            "author": "Alexander J\u00f6hl",
+            "links": [
+                [
+                    "ZSF HPCSE HS12 pdf-file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE%20HS12.pdf"
+                ],
+                [
+                    "ZSF HPCSE HS12 docx-file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE%20HS12.docx"
+                ]
+            ],
+            "title": "High Performance Computing for Science and Engineering",
+            "year": "12 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Optimal%20Control%20final%20v1.pdf"
+                ]
+            ],
+            "title": "Aerospace Engineering / Optimal Control",
+            "year": "12 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FlugFahrzeugaerodynamik%20final%20v1.pdf"
+                ]
+            ],
+            "title": "Aerospace Engineering / Flug- und Fahrzeugaerodynamik",
+            "year": "12 HS"
+        },
+        {
+            "author": "Timon Cernoch",
+            "links": [
+                [
+                    "Zusammenfassung (OpenOffice)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_TimonCernoch.odt"
+                ],
+                [
+                    "Zusammenfassung (pdf)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_TimonCernoch.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Mechanical Engineering / Thermodynamics and Energy Conversion in Micro- and Nanoscale Technologies",
+            "year": "12 S"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NR_ZF_FS13_mbloch.pdf"
+                ]
+            ],
+            "title": "Nanorobotics ZF",
+            "year": "13 FS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Flugtechnik%20final%20v1.pdf"
+                ]
+            ],
+            "title": "Aerospace Engineering / Flugtechnik",
+            "year": "13 FS"
+        },
+        {
+            "author": "Alexander J\u00f6hl",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF%20MPC.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Model Predictive Control",
+            "year": "13 FS"
+        },
+        {
+            "author": "Florian Petit, Philippe Petit",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mpc.zip"
+                ]
+            ],
+            "title": "Model Predictive Control - Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF2.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF2.odt"
+                ]
+            ],
+            "title": "Dynamik von Mehrk\u00f6rpersystemen",
+            "year": "13 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet Recursive Estimation",
+            "year": "13 FS"
+        },
+        {
+            "author": "Alexander J\u00f6hl",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF_RE.zip"
+                ]
+            ],
+            "title": "Recursive Estimation",
+            "year": "13 FS"
+        },
+        {
+            "author": "Carlo Baumeler",
+            "links": [
+                [
+                    "Summary_Compressible_Flows.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_Compressible_Flows.pdf"
+                ]
+            ],
+            "title": "Compressible Flows Summary",
+            "year": "13 FS"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Biofluiddynamics%20ZF%20-%20FS13%20-%20Matthias%20Bloch.pdf"
+                ]
+            ],
+            "title": "ZF - Biofluiddynamik",
+            "year": "13 FS"
+        },
+        {
+            "author": "Jonas Londschien & Raphael Glaesener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Microrobotics_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Microrobotics",
+            "year": "13 HS"
+        },
+        {
+            "author": "Jonas Londschien & Raphael Glaesener",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Microrobotics_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Microrobotics",
+            "year": "13 HS"
+        },
+        {
+            "author": "Andreas Schiller",
+            "links": [
+                [
+                    "Plasmonics_cheat_sheet_Schiller.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Plasmonics_cheat_sheet_Schiller.pdf"
+                ]
+            ],
+            "title": "Introduction to Plasmonics - Cheat sheet",
+            "year": "13 HS"
+        },
+        {
+            "author": "Lukas Mosimann, Stefan Ritz, Markus Thurnherr",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Unmanned_Aerial_Systems_HS2013.pdf"
+                ]
+            ],
+            "title": "Unmanned Aerial Systems UAS",
+            "year": "13 HS"
+        },
+        {
+            "author": "Jannik von Rickenbach, Markus Thurnherr",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF_OLCAR_HS2013.pdf"
+                ]
+            ],
+            "title": "OLCAR: Optimal & Learning Control for Autonomous Robots",
+            "year": "13 HS"
+        },
+        {
+            "author": "Michael K\u00fchni",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_ECTBS_Kuehni.pdf"
+                ]
+            ],
+            "title": "ECTBS",
+            "year": "13 HS"
+        },
+        {
+            "author": "Alessandro Simovic",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation_2.pdf"
+                ],
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recursive%20Estimation.zip"
+                ]
+            ],
+            "title": "Recursive Estimation",
+            "year": "14 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC%20-%20Mauro%20Salazar.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Cheat Sheet",
+            "year": "14 FS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MPC%20long%20-%20Mauro%20Salazar.pdf"
+                ]
+            ],
+            "title": "Model Predictive Control - Long Review",
+            "year": "14 FS"
+        },
+        {
+            "author": "Alessandro Simovic",
+            "links": [
+                [
+                    "Tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/%C3%96lhydraulik%20und%20Penumatik.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/oelhydraulik%20und%20pneumatik.pdf"
+                ]
+            ],
+            "title": "\u00d6lhydraulik und Pneumatik - Zusammefassung",
+            "year": "14 FS"
+        },
+        {
+            "author": "Patrick Vettiger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Produktionstechnik-Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Mech.Produktion",
+            "year": "14 HS"
+        },
+        {
+            "author": "Patrick Vettiger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elektr.%20Produktion-Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Elektrische & Elektronische Produktion",
+            "year": "14 HS"
+        },
+        {
+            "author": "Alessandro Simovic",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI.pdf"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence",
+            "year": "14 HS"
+        },
+        {
+            "author": "Daniel Oberle",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Applied%20Fluid%20Dynamics.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Applied%20Fluid%20Dynamics.pdf"
+                ]
+            ],
+            "title": "Summary Applied Fluiddynamics",
+            "year": "14 HS"
+        },
+        {
+            "author": "Roman Meier",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_UAS.zip"
+                ]
+            ],
+            "title": "Unmanned Aerial Systems - Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "Jonas Eichenberger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CheatSheet_ML.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CheatSheet_ML.tex"
+                ]
+            ],
+            "title": "Cheat Sheet Machine Learning",
+            "year": "14 HS"
+        },
+        {
+            "author": "Patrick Vettiger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fertigungstechnik-Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Fertigungstechnik",
+            "year": "14 HS"
+        },
+        {
+            "author": "Ayoub Hilmi",
+            "links": [
+                [
+                    "Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_2.pdf"
+                ]
+            ],
+            "title": "Nonlinear Continuum Mechanics",
+            "year": "14FS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_TF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_TF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Turbulent Flows",
+            "year": "15 HS"
+        },
+        {
+            "author": "Sascha Mark",
+            "links": [
+                [
+                    "Turbo Design Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TurboDesignSummary.pdf"
+                ],
+                [
+                    "Turbo Design Summary Compressed",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TurboDesignMostImportant.pdf"
+                ]
+            ],
+            "title": "Formulas / Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Daniel Oberle, Lucas Zeugin",
+            "links": [
+                [
+                    "Zusammenfassung Turbulent Flows.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Turbulent%20Flows.pdf"
+                ],
+                [
+                    "Zusammenfassung Turbulent Flows.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Turbulent%20Flows.docx"
+                ]
+            ],
+            "title": "Summary Turbulent Flows",
+            "year": "15 HS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "DPOC_eglilar.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DPOC_eglilar_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Recitations",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Recitation.pdf"
+                ]
+            ],
+            "title": "Dynamic Programming and Optimal Control",
+            "year": "15 HS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Summary.compressed.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary.compressed.pdf"
+                ]
+            ],
+            "title": "Theory and Modeling of Reactive Flows - Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_DPOC.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_DPOC.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Dynamic Programming and Optimal Control",
+            "year": "15 HS"
+        },
+        {
+            "author": "F. Giraldez, A. Tagliabue",
+            "links": [
+                [
+                    "Cheatsheet_RD-paco-definitive.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Cheatsheet_RD-paco-definitive.pdf"
+                ]
+            ],
+            "title": "Cheatsheet Robot Dynamis (HS 2015)",
+            "year": "15 HS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_QFV.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_QFV.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Quantitative Flow Visualization",
+            "year": "15 HS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_VPS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_VPS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Vehicle Propulsion Systems",
+            "year": "15 HS"
+        },
+        {
+            "author": "Sascha Mark",
+            "links": [
+                [
+                    "Engine Systems - Summary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Engine%20Systems%20-%20Summary.pdf"
+                ],
+                [
+                    "Please read me!!.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Please%20read%20me%21%21.txt"
+                ]
+            ],
+            "title": "Engine Systems - Summary",
+            "year": "15 HS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Flugtechnik_Zusfas.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Flugtechnik_Zusfas.pdf"
+                ]
+            ],
+            "title": "Ausgew\u00e4hlte Kapitel der Flugtechnik - Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Knessl Richard",
+            "links": [
+                [
+                    "Multiphase Flows Knessl Richard.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Multiphase%20Flows%20Knessl%20Richard_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Multiphase Flows",
+            "year": "16 FS"
+        },
+        {
+            "author": "Luca De Libero",
+            "links": [
+                [
+                    "Summary of the course material",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SummaryRET2.pdf"
+                ],
+                [
+                    "Summary of the course material",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SummaryRET2.docx"
+                ]
+            ],
+            "title": "Summary - Renewable Energy Technologies II",
+            "year": "16 FS"
+        },
+        {
+            "author": "Mithulan Vasan",
+            "links": [
+                [
+                    "TurbFlows_ZF_MVasan",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TurbulentFlows_ZF_MithulanVasan.pdf"
+                ]
+            ],
+            "title": "Turbulent Flows Zusammenfassung",
+            "year": "16 HS"
+        },
+        {
+            "author": "Tanja Baumann",
+            "links": [
+                [
+                    "ZF_HPC.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_HPC.pdf"
+                ]
+            ],
+            "title": "Summary High Performance Computing",
+            "year": "16 HS"
+        },
+        {
+            "author": "Dongho Kang",
+            "links": [
+                [
+                    "summary for Virtual Reality I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_2.pdf"
+                ]
+            ],
+            "title": "Virtual Reality I Summary",
+            "year": "17"
+        },
+        {
+            "author": "Michael Dreyer",
+            "links": [
+                [
+                    "Cheat Sheet",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FEM_1.pdf"
+                ],
+                [
+                    "Tex Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CheatSheet.zip"
+                ],
+                [
+                    "ReadMe",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Readme.txt"
+                ]
+            ],
+            "title": "Principles of FEM-Based Optimization and Robustness Analysis",
+            "year": "17 FS"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_WE.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_WE.pdf"
+                ]
+            ],
+            "title": "Wind Energy - Summary",
+            "year": "17 FS"
+        },
+        {
+            "author": "Laura Gasser / Daniel Eckert",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI%20summary.pdf"
+                ],
+                [
+                    "Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PAI%20summary.docx"
+                ]
+            ],
+            "title": "Probabilistic Artificial Intelligence (PAI) - Summary",
+            "year": "17 HS"
+        },
+        {
+            "author": "Yannik Nager, Thomas Eppenberger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/machine-learning-zf.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/machine-learning-zf.tex"
+                ]
+            ],
+            "title": "Machine Learning Cheat Sheet",
+            "year": "17 HS"
+        },
+        {
+            "author": "Raphael Holdener",
+            "links": [
+                [
+                    "FundOfCFD_CheatSheet.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FundOfCFD_CheatSheet.pdf"
+                ]
+            ],
+            "title": "Cheatsheet of Fundamentals of CFD",
+            "year": "17 HS"
+        },
+        {
+            "author": "Laura Gasser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dynamics%20-%20Summary.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Robot%20Dynamics%20-%20Summary.rar"
+                ]
+            ],
+            "title": "Summary - Robot Dynamics",
+            "year": "17 HS"
+        },
+        {
+            "author": "Daniel Bogado Duffner",
+            "links": [
+                [
+                    "Management of Air Transport - Aviation II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF%20MoAT.zip"
+                ]
+            ],
+            "title": "ZSF - Management of Air Transport - Aviation II",
+            "year": "18 FS"
+        },
+        {
+            "author": "Elia Poli",
+            "links": [
+                [
+                    "zf_Structural_Reliability.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_Structural_Reliability.pdf"
+                ]
+            ],
+            "title": "Structural Reliability & Risk Analysis",
+            "year": "18 HS"
+        },
+        {
+            "author": "Cornelius von Einem, Lukas Hertle",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TRM.pdf"
+                ]
+            ],
+            "title": "Theory of Robotics and Mechatronics",
+            "year": "18 HS"
+        },
+        {
+            "author": "Sophie Hall",
+            "links": [
+                [
+                    "Designed to be printed onto one double-sided A4 page.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formulary_Microrobotics_HS2018.pdf"
+                ],
+                [
+                    "Read me :)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Comments_on_Formulary_Sheet.pdf"
+                ],
+                [
+                    "LaTeX source and images on https://gitlab.ethz.ch/shall/formulary_microrobotics_2018.git",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex_Source%20.txt"
+                ]
+            ],
+            "title": "Microrobotics Summary HS18",
+            "year": "18 HS"
+        },
+        {
+            "author": "Alper Karaaslan",
+            "links": [
+                [
+                    "Summary_RHT.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_RHT.docx"
+                ]
+            ],
+            "title": "Summary Radiation Heat Transfer",
+            "year": "18HS"
+        },
+        {
+            "author": "Antonio Cherubini",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Produktion%20von%20elektronischen%20Komponenten%20von%20antonich.pdf"
+                ]
+            ],
+            "title": "Produktion von elektronischen Komponenten (antonich)",
+            "year": "2011"
+        },
+        {
+            "author": "Antonio Cherubini",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fertigungstechnik%201%20%28antonich%29.pdf"
+                ]
+            ],
+            "title": "Fertigungstechnik 1 (antonich)",
+            "year": "2011"
+        },
+        {
+            "author": "Antonio Cherubini",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Logistics%2C%20Operations%20and%20Supply%20Chain%20Management%201.pdf"
+                ]
+            ],
+            "title": "Logistics, Operations and Supply Chain Management 1",
+            "year": "2011"
+        },
+        {
+            "author": "Antonio Cherubini",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Renewable%20Energy%20Technologies%201%20%20%28antonich%29.pdf"
+                ]
+            ],
+            "title": "Renewable Energy Technologies",
+            "year": "2011"
+        },
+        {
+            "author": "Antonio Cherubini",
+            "links": [
+                [
+                    "Umformtechnik 1 (antonich).pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Umformtechnik%201%20%28antonich%29.pdf"
+                ]
+            ],
+            "title": "Umformtechnik 1",
+            "year": "2011"
+        },
+        {
+            "author": "Florian Pfleiderer , Nicolay Wiik",
+            "links": [
+                [
+                    "Fuel_ZF_Wiik_Pfleiderer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fuel_ZF_Wiik_Pfleiderer.pdf"
+                ]
+            ],
+            "title": "Fuel Synthesis Engineering - Inhaltsverzeichnis / Zusammenfassung",
+            "year": "2013"
+        },
+        {
+            "author": "Mani Mathers",
+            "links": [
+                [
+                    "tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZuFa_OLCAR.zip"
+                ],
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/olcar.pdf"
+                ]
+            ],
+            "title": "OLCAR Cheat Sheet",
+            "year": "2015"
+        },
+        {
+            "author": "Raphael Glaesener",
+            "links": [
+                [
+                    "Flug- und Fahrzeugaerodynamik Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Flugtechnik.pdf"
+                ]
+            ],
+            "title": "Flug- und Fahrzeugaerodynamik Zusammenfassung",
+            "year": "2015"
+        },
+        {
+            "author": "Nadja M\u00fcller-Seip",
+            "links": [
+                [
+                    "Summary Nonlinear FEM",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS%20FEM.zip"
+                ]
+            ],
+            "title": "Principles of Nonlinear-Finite-Element-Methods Formelsammlung",
+            "year": "2015"
+        },
+        {
+            "author": "Raphael Glaesener",
+            "links": [
+                [
+                    "Introduction to Negotiation Chapter 1&2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Chapter%201%262.pdf"
+                ],
+                [
+                    "Introduction to Negotiation Chapter 4&5",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Chapter%204%265.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung - Introduction to Negotiation",
+            "year": "2015"
+        },
+        {
+            "author": "Alessandro Simovic, Matthias Burri",
+            "links": [
+                [
+                    "Tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Oelhydraulik%20und%20Pneumatik.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/oelhydraulik%20und%20pneumatik_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung -\u00d6lhydraulik und Pneumatik",
+            "year": "2015"
+        },
+        {
+            "author": "Mani Mathers",
+            "links": [
+                [
+                    "tex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZuFa_AMR.zip"
+                ],
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZuFa.AMR_.pdf"
+                ]
+            ],
+            "title": "Autonomous Mobile Robots Summary",
+            "year": "2015"
+        },
+        {
+            "author": "Philippe Scheuber",
+            "links": [
+                [
+                    "Cheat Sheet",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Cheat_Sheet.pdf"
+                ],
+                [
+                    "TeX File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TeX.zip"
+                ]
+            ],
+            "title": "Principles of FEM based Optimization and Robustness Analysis",
+            "year": "2016"
+        },
+        {
+            "author": "Philippe Scheuber",
+            "links": [
+                [
+                    "Exam Questions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FEM_exam.pdf"
+                ],
+                [
+                    "TeX File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TeX_2.zip"
+                ]
+            ],
+            "title": "Introduction to the Finite-Element Method",
+            "year": "2016"
+        },
+        {
+            "author": "Philippe Scheuber",
+            "links": [
+                [
+                    "Exam Questions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Structural_Exam.pdf"
+                ],
+                [
+                    "TeX File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TeX_1.zip"
+                ]
+            ],
+            "title": "Structural Optimization",
+            "year": "2016"
+        },
+        {
+            "author": "Benedikt Dietz",
+            "links": [
+                [
+                    "LIS_ZF_BD.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LIS_ZF_BD.pdf"
+                ]
+            ],
+            "title": "LIS (Learning and Intelligent Systems) Cheat Sheet",
+            "year": "2017"
+        },
+        {
+            "author": "Filippo Kusch",
+            "links": [
+                [
+                    "AVI-ZF.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AVI-ZF.zip"
+                ]
+            ],
+            "title": "Aerospace Engineering / Basics of Air Transportation",
+            "year": "2017"
+        },
+        {
+            "author": "Daniel Oberle",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Compressible%20Flows.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Compressible%20Flows.pdf"
+                ]
+            ],
+            "title": "Summary Compressible Flows",
+            "year": "FS 15"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Summary_AerospacePropulsion.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_AerospacePropulsion_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Aerospace Propulsion",
+            "year": "FS 16"
+        },
+        {
+            "author": "Markus Gartmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_radiation.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_radiation.tex"
+                ]
+            ],
+            "title": "Radiation Heat Transfer",
+            "year": "H11"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "63",
+        "name": "Mechanical Engineering",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": true,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Chokani / Prof. Abhari",
+            "links": [
+                [
+                    "Exercises",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011-FS-Wind-Energy-U%2BL.zip"
+                ]
+            ],
+            "title": "Wind Energy",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof Daniel Stoffer",
+            "links": [
+                [
+                    "Exercises & Official Formulary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Orbital_Dynamics_Exercises_2012_2013.rar"
+                ]
+            ],
+            "title": "Orbital Dynamics - Exercises & Formulary",
+            "year": "12/13"
+        },
+        {
+            "author": "Carlo Baumeler",
+            "links": [
+                [
+                    "GTMD Flashcards.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/GTMD%20Flashcards.zip"
+                ]
+            ],
+            "title": "Gas Turbine Mechanics and Design: Flashcards",
+            "year": "13 FS"
+        },
+        {
+            "author": "Prof D. Stoffer",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/orbital%20dynamics.zip"
+                ]
+            ],
+            "title": "Orbital Dynamics (\u00dcbungen mit Musterl\u00f6sung)",
+            "year": "13 FS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exercises / Script",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NDAC.zip"
+                ]
+            ],
+            "title": "Nonlinear Dynamics and Chaos I (Haller)",
+            "year": "13 FS"
+        },
+        {
+            "author": "Dr. Schindler",
+            "links": [
+                [
+                    "Unterlagen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Unterlagen.zip"
+                ]
+            ],
+            "title": "uebungen Bruchmechanik",
+            "year": "13 FS"
+        },
+        {
+            "author": "Dr.\u2010Ing. J. Lodewyks",
+            "links": [
+                [
+                    "\u00dcbungen ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/bungen_0.zip"
+                ]
+            ],
+            "title": "\u00d6lhydraulik und Pneumatik",
+            "year": "14 FS"
+        },
+        {
+            "author": "Lukas Lebovitz & Alexander Garbin",
+            "links": [
+                [
+                    "Applied_Fluiddynamics_2014.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Applied_Fluiddynamics_2014.zip"
+                ]
+            ],
+            "title": "Applied Fluid Dynamics: \u00dcbungen + Semesterklausuren 2014",
+            "year": "14 HS"
+        },
+        {
+            "author": "Prof. J. M. Buhmann / G. Krummenacher",
+            "links": [
+                [
+                    "Homework.ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ML%20Homework%20HS14.zip"
+                ]
+            ],
+            "title": "Machine Learning",
+            "year": "14 HS"
+        },
+        {
+            "author": "Lukas Lebovitz & Alexander Garbin",
+            "links": [
+                [
+                    "Compressible_Flows_2015.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Compressible_Flows_2015.zip"
+                ]
+            ],
+            "title": "Compressible Flows: \u00dcbungen + Semesterklausuren 2015",
+            "year": "15 FS"
+        },
+        {
+            "author": "Lukas Lebovitz & Alexander Garbin",
+            "links": [
+                [
+                    "Applied_Fluiddynamics_2015.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Applied_Fluiddynamics_2015.zip"
+                ]
+            ],
+            "title": "Applied Fluid Dynamics: \u00dcbungen + Semesterklausuren 2015",
+            "year": "15 HS"
+        },
+        {
+            "author": "Lukas Lebovitz & Alexander Garbin",
+            "links": [
+                [
+                    "Compressible_Flows_2016.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Compressible_Flows_2016.zip"
+                ]
+            ],
+            "title": "Compressible Flows: \u00dcbungen + Semesterklausuren 2016",
+            "year": "16 FS"
+        },
+        {
+            "author": "Prof R. Abhari",
+            "links": [
+                [
+                    "Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises_2.zip"
+                ]
+            ],
+            "title": "Aerospace Propulsion Exercises with Solutions",
+            "year": "16 FS"
+        },
+        {
+            "author": "Prof. A. Steinfeld, Dr. J. Marti, Dr. A. Z'Graggen",
+            "links": [
+                [
+                    "Exercises",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RadiationHeatTransfer_HS16_Exercises.zip"
+                ]
+            ],
+            "title": "Radiation Heat Transfer - Exercises, Solutions, Notes",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof. M. Troyer, Dr. P. Chatzidoukas",
+            "links": [
+                [
+                    "Code Examples",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE_HS16_examples_1.zip"
+                ],
+                [
+                    "Exercises",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE_HS16_exercises_1.zip"
+                ],
+                [
+                    "Slides",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HPCSE_HS16_slides.zip"
+                ]
+            ],
+            "title": "High Performance Computing in Science & Engineering I - Exercises & Slides",
+            "year": "16 HS"
+        },
+        {
+            "author": "Dr. P.Jansson",
+            "links": [
+                [
+                    "Alle \u00dc und MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solutions.zip"
+                ]
+            ],
+            "title": "\"Gasturbinen - Prozesse und Verbrennungssysteme\" \u00dcbungen",
+            "year": "2012"
+        },
+        {
+            "author": "P. Rebholz & K. Vogel",
+            "links": [
+                [
+                    "bungen_L\u00f6sungen_12.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/bungen_L%C3%B6sungen_12.rar"
+                ]
+            ],
+            "title": "Turbomachinery Design, \u00dcbungen u. Mul\u00f6",
+            "year": "2012"
+        },
+        {
+            "author": "Prof. Steinfeld, Prof. Wokaun",
+            "links": [
+                [
+                    "Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises.zip"
+                ]
+            ],
+            "title": "Exercises with Solutions",
+            "year": "2013"
+        },
+        {
+            "author": "D. Stoffer",
+            "links": [
+                [
+                    "RAR",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Orbital%20Dynamics%20ExerciseSolution_FS14_Exam09.rar"
+                ]
+            ],
+            "title": "Orbital Dynamics Aufgaben und \u00dcbungspr\u00fcfung",
+            "year": "2014"
+        },
+        {
+            "author": "Fabio Widmer",
+            "links": [
+                [
+                    "Renewable Energy Technology.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Renewable%20Energy%20Technology_1.rar"
+                ]
+            ],
+            "title": "Exercises Renewable Energy Technologies II",
+            "year": "FS 16"
+        }
+    ]
+}

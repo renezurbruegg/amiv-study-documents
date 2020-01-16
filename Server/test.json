@@ -1,0 +1,183 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfungen%20FS06-FS11%20VLSI%20I_1.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen ohne Musterl\u00f6sungen FS06-FS11",
+            "year": "06-11"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Pr%C3%BCfungen%20FS06-FS11%20VLSI%20I_2.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen ohne Musterl\u00f6sungen FS10-HS11",
+            "year": "10-11"
+        },
+        {
+            "author": "Not A Virus",
+            "links": [
+                [
+                    "Checked by McAffee, 100% Virus free",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/NotAVirus.zip"
+                ]
+            ],
+            "title": "Musterl\u00f6sungen.exe",
+            "year": "2042"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI%20I%20summary%20lukasc.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung (handgeschrieben)",
+            "year": "12 FS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vhdl%20example_vhd%20-%20XEmacs.pdf"
+                ],
+                [
+                    "vhd",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vhdl%20example.txt"
+                ]
+            ],
+            "title": "Zusammenfassung VHDL (by example)",
+            "year": "12 FS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Summary VLSI I fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20VLSI%20I%20fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Jonas B\u00e4chli",
+            "links": [
+                [
+                    "Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vlsi1.pdf"
+                ],
+                [
+                    "Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI1.zip"
+                ]
+            ],
+            "title": "Summary",
+            "year": "15 FS"
+        },
+        {
+            "author": "Norwin Schnyder",
+            "links": [
+                [
+                    "Zusammenfassung_VLSI1_V3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_VLSI1_V3.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Simon Benninger",
+            "links": [
+                [
+                    "ZF_VLSI_I.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_VLSI_I.pdf"
+                ],
+                [
+                    "ZF_VLSI_I.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_VLSI_I.docx"
+                ],
+                [
+                    "ZF_VLSI_I_slim.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_VLSI_I_slim.pdf"
+                ],
+                [
+                    "ZF_VLSI_I_slim.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_VLSI_I_slim.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Lukas Gygi",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI_I_summary_Lukas_Gygi.pdf"
+                ],
+                [
+                    "Latex Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI_I_summary_Lukas_Gygi_src.zip"
+                ]
+            ],
+            "title": "Summary with source",
+            "year": "18 HS"
+        },
+        {
+            "author": "Gian Marti",
+            "links": [
+                [
+                    "Complete Source File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI_zsfg_gimarti.zip"
+                ],
+                [
+                    "PDF only",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung mit LaTeX source",
+            "year": "FS16"
+        },
+        {
+            "author": "Lars Widmer, Gian Marti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI_zsfg_gimarti_widmerl.pdf"
+                ],
+                [
+                    "Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI_zsfg_gimarti_widmerl.zip"
+                ]
+            ],
+            "title": "Zusammenfassung mit LaTex-source, VLSI1",
+            "year": "HS18"
+        }
+    ],
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VLSI%20I%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien",
+            "year": "12FS"
+        }
+    ]
+}

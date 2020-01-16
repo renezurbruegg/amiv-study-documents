@@ -1,0 +1,321 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Pr%C3%BCfungen%20mit%20ML%20HS03-HS11%20Regelsysteme%20I.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen 2003-2011",
+            "year": "03-11"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Archive.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Archive_1.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen - FS11 bis FS13",
+            "year": "12-13"
+        },
+        {
+            "author": "Prof D\u00f6rfler",
+            "links": [
+                [
+                    "main_onlySolution.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_onlySolution.pdf"
+                ],
+                [
+                    "main_exam_merge.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/main_exam_merge.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit L\u00f6sung",
+            "year": "FS17"
+        },
+        {
+            "author": "Prof D\u00f6rfler",
+            "links": [
+                [
+                    "solution1617.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solution1617.pdf"
+                ],
+                [
+                    "exam1617.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam1617.pdf"
+                ]
+            ],
+            "title": "pr\u00fcfung mit L\u00f6sung",
+            "year": "HS16"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Prof. M. Morari",
+            "links": [
+                [
+                    "PDF Test",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS1_kurztest1_aufgaben.pdf"
+                ],
+                [
+                    "PDF Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS1_kurztest1_l%C3%B6sungen.pdf"
+                ]
+            ],
+            "title": "Kurztest 1 inkl. Musterl\u00f6sung",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof. M. Morari",
+            "links": [
+                [
+                    "PDF Test",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS1_kurztest2_aufgaben.pdf"
+                ],
+                [
+                    "PDF Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS1_kurztest2_l%C3%B6sungen.pdf"
+                ]
+            ],
+            "title": "Kurztest 2 inkl. Musterl\u00f6sung",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof. M. Morari",
+            "links": [
+                [
+                    "PDF Test",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS1_kurztest3_aufgaben.pdf"
+                ],
+                [
+                    "PDF Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS1_kurztest3_l%C3%B6sungen.pdf"
+                ]
+            ],
+            "title": "Kurztest 3 inkl. Musterl\u00f6sung",
+            "year": "10HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Test 1",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Aufgaben_Test1_HS11.pdf"
+                ],
+                [
+                    "ML 1",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Loesung_Test1_HS11.pdf"
+                ],
+                [
+                    "Test 2",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Aufgaben_Test2_HS11.pdf"
+                ],
+                [
+                    "ML 2",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Loesung_Test2_HS11.pdf"
+                ],
+                [
+                    "Test 3",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Aufgaben_Test3_HS11.pdf"
+                ],
+                [
+                    "ML 3",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Loesung_Test3_HS11.pdf"
+                ]
+            ],
+            "title": "Kurztests mit Musterl\u00f6sungen",
+            "year": "11HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Regelsysteme%20-%20Nyquist%20Stabilit%C3%A4t.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Regelsysteme%20-%20Nyquist%20Stabilit%C3%A4t.docx"
+                ]
+            ],
+            "title": "Zsfg Nyquist Stabilit\u00e4t",
+            "year": "11 HS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20-%20Regelsysteme.pdf"
+                ]
+            ],
+            "title": "Zsfg RS I",
+            "year": "11 HS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Regelsysteme%20ITET%20Lukas%20Cavigelli.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Regelsysteme%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Jesko Mueller",
+            "links": [
+                [
+                    "Zsfg Regelsysteme I - Jesko Mueller.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg%20Regelsysteme%20I%20-%20Jesko%20Mueller.zip"
+                ]
+            ],
+            "title": "Zsfg Regelsysteme I",
+            "year": "12 HS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "RegelsystemeI-glaserf-2013.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RegelsystemeI-glaserf-2013.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Timon K\u00fcnzle",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZfsgRegelsysteme.pdf"
+                ],
+                [
+                    "Latex Code",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZfsgRegelsysteme.rar"
+                ]
+            ],
+            "title": "Zusammenfassung Regelsysteme",
+            "year": "13 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "RS",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_RS.pdf"
+                ]
+            ],
+            "title": "Regelsysteme 1 Zusammenfassung",
+            "year": "13/14"
+        },
+        {
+            "author": "Maxim Mattheeuws",
+            "links": [
+                [
+                    "Regelsysteme.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Regelsysteme.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Regelsysteme HS2015",
+            "year": "15 HS"
+        },
+        {
+            "author": "Maxim Mattheeuws",
+            "links": [
+                [
+                    "Regelsysteme LaTeX.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Regelsysteme%20LaTeX.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Regelsysteme HS2015 LaTeX Files",
+            "year": "15 HS"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "latex zip version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Control%20Systems%201%20Raphael%20Fischer.zip"
+                ],
+                [
+                    "pdf version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Regelungstechnik.pdf"
+                ]
+            ],
+            "title": "Summary Control Systems 1",
+            "year": "16 HS"
+        },
+        {
+            "author": "Martin K\u00e4lin",
+            "links": [
+                [
+                    "RS_I.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/RS_I.zip"
+                ],
+                [
+                    "mkaelin_RS_I.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mkaelin_RS_I.pdf"
+                ]
+            ],
+            "title": "Formelsammlung RS I",
+            "year": "2015"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "109",
+        "name": "Regelsysteme",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. M. Morari",
+            "links": [
+                [
+                    "Regelsysteme \u00dcbungen Mul\u00f6.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Regelsysteme%20%C3%9Cbungen%20Mul%C3%B6.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien inkl. Musterl\u00f6sung",
+            "year": "10HS"
+        },
+        {
+            "author": "Prof. M Morari",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serien%20mit%20ML%20HS11%20RS%20I.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien mit Musterl\u00f6sungen und Tipps",
+            "year": "11HS"
+        },
+        {
+            "author": "Prof M. Morari",
+            "links": [
+                [
+                    "Regelsysteme_Uebungen_HS12.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Regelsysteme_Uebungen_HS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen des HS12: Aufgaben, Tipps und L\u00f6sungen",
+            "year": "12 HS"
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/finalExam2009.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit L\u00f6sungen",
+            "year": "10 F"
+        },
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/finalExam2010.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit L\u00f6sungen",
+            "year": "11 F"
+        },
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/finalExam2011_1.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit L\u00f6sung",
+            "year": "12 F"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Kaufmann, Weilenmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MT_script08_V01.pdf"
+                ]
+            ],
+            "title": "Skript",
+            "year": "08"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "Quiz 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/quiz1_2009.pdf"
+                ],
+                [
+                    "Quiz 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/quiz2_2009.pdf"
+                ]
+            ],
+            "title": "Quiz 1 und 2",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/quiz2010.pdf"
+                ]
+            ],
+            "title": "Quiz",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/quiz2011.pdf"
+                ]
+            ],
+            "title": "Quiz",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof. R. D'Andrea",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/quiz2012.pdf"
+                ]
+            ],
+            "title": "Quiz",
+            "year": "12 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Messtechnik_Zf_Juchler.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05"
+        },
+        {
+            "author": "Heinrich Meier",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zf_vorlesung.zip"
+                ]
+            ],
+            "title": "Zusammenfassung der Vorlesungslektionen",
+            "year": "08"
+        },
+        {
+            "author": "Corsin Gwerder",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSysEq_gwerder.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "10"
+        },
+        {
+            "author": "David Leuzinger / Luc Oth",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Signals_and_Systems.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Signals%20and%20Systems%20neu.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Signals%20and%20Systems%20Ver3.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Signals%20and%20Systems.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet",
+            "year": "11 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSys%20v1.pdf"
+                ],
+                [
+                    "Wegleitung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wegleitung_9.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Kathrin Schuler / Mathias Wild",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSys_ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Mathias Gehrig",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSysEq.pdf"
+                ],
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSys_Eq.zip"
+                ],
+                [
+                    "Bemerkung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/note.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "SnS_ZF_mbloch.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SnS_ZF_mbloch.pdf"
+                ]
+            ],
+            "title": "Signals & Systems ZF",
+            "year": "13 HS"
+        },
+        {
+            "author": "Lukas Matthys; Kerrin Weiss; Matthias Epprecht",
+            "links": [
+                [
+                    "LaTeX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSys.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SigSys.pdf"
+                ]
+            ],
+            "title": "Cheat Sheet (new convention)",
+            "year": "14 HS"
+        },
+        {
+            "author": "Marlin Strub",
+            "links": [
+                [
+                    "Signals And Systems Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Signals%20And%20Systems%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Mani Mathers",
+            "links": [
+                [
+                    "Cheat_Sheet_SigSys.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Cheat_Sheet_SigSys.zip"
+                ]
+            ],
+            "title": "Cheat Sheet",
+            "year": "14 HS"
+        },
+        {
+            "author": "Philippe Scheuber",
+            "links": [
+                [
+                    "Cheat Sheet",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary.pdf"
+                ],
+                [
+                    "Tex File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tex.zip"
+                ]
+            ],
+            "title": "Cheat Sheet",
+            "year": "14 HS"
+        },
+        {
+            "author": "Kathrin Schuler, Mathias Wild, Sascha Mark",
+            "links": [
+                [
+                    "ZF Signals & Systems",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_SigSys_V2014.pdf"
+                ]
+            ],
+            "title": "ZF Signals & Systems",
+            "year": "14 HS"
+        },
+        {
+            "author": "Johann Diep",
+            "links": [
+                [
+                    "SSZusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SSZusammenfassung.pdf"
+                ]
+            ],
+            "title": "Signal and Systems Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "Silvan Pl\u00fcss",
+            "links": [
+                [
+                    "Summary",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SIGSYS_spluess.pdf"
+                ]
+            ],
+            "title": "Summary",
+            "year": "14/15"
+        },
+        {
+            "author": "Yvain de Viragh",
+            "links": [
+                [
+                    "Long version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Long%20version.pdf"
+                ],
+                [
+                    "Exam version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam%20version.pdf"
+                ]
+            ],
+            "title": "Summary",
+            "year": "15 HS"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "47",
+        "name": "Signals & Systems",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Kaufmann, Weilenmann",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U_08_2.zip"
+                ]
+            ],
+            "title": "Alle \u00dcbungen mit Musterl\u00f6sungen",
+            "year": "08"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. L. Vanbever",
+            "links": [
+                [
+                    "ComNet_SampleQuestions_FS2016.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ComNet_SampleQuestions_FS2016.pdf"
+                ],
+                [
+                    "ComNet_SampleQuestions_FS2016_Solutions.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ComNet_SampleQuestions_FS2016_Solutions.pdf"
+                ]
+            ],
+            "title": "Sample Exam Questions",
+            "year": "16 FS"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Plattner/Vanbever/Ager/Georgopoulos/Hummel",
+            "links": [
+                [
+                    "comnet_slides_merged.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/comnet_slides_merged.pdf"
+                ]
+            ],
+            "title": "Slides",
+            "year": "15 FS"
+        },
+        {
+            "author": "Prof. L. Vanbever",
+            "links": [
+                [
+                    "ComNet_Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ComNet_Slides.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "16 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CommNet.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Communication Networks 06",
+            "year": "06 FS"
+        },
+        {
+            "author": "Andreas Traber",
+            "links": [
+                [
+                    "CN - Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CN%20-%20Zusammenfassung.pdf"
+                ],
+                [
+                    "CN - Zsfg.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CN%20-%20Zsfg.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Communication Networks",
+            "year": "13 FS"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CommunicationNetworks_Summary.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Stefan Lippuner",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20CN.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20CN.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Giorgio Tresoldi",
+            "links": [
+                [
+                    "ComNet16_zfsg.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ComNet16_zfsg.pdf"
+                ],
+                [
+                    "ComNet16_zfsg.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ComNet16_zfsg.zip"
+                ]
+            ],
+            "title": "Zusammenfassung FS16",
+            "year": "16 FS"
+        },
+        {
+            "author": "Josefine Quack",
+            "links": [
+                [
+                    "ZSF_Comm-net.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF_Comm-net.pdf"
+                ],
+                [
+                    "ZSF_Comm-net.odt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF_Comm-net.odt"
+                ]
+            ],
+            "title": "Zusammenfassung FS16",
+            "year": "16 FS"
+        },
+        {
+            "author": "Simon Benninger",
+            "links": [
+                [
+                    "ZF_ComNet.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_ComNet.pdf"
+                ],
+                [
+                    "ZF_ComNet.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_ComNet.docx"
+                ]
+            ],
+            "title": "Zusammenfassung FS16",
+            "year": "16 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "118",
+        "name": "Communication Networks",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

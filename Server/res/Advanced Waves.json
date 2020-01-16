@@ -1,0 +1,46 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Naomi Stricker",
+            "links": [
+                [
+                    "Chapter1.jpg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Chapter1.jpg"
+                ]
+            ],
+            "title": "Summary Chapter 1",
+            "year": "14 FS"
+        },
+        {
+            "author": "Naomi Stricker",
+            "links": [
+                [
+                    "AdvancedElectromagneticWaves.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AdvancedElectromagneticWaves_1.pdf"
+                ]
+            ],
+            "title": "Full Summary",
+            "year": "14 FS"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung_AdvancedEM_Dominik_Werner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_AdvancedEM_Dominik_Werner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung_AWE_Dominik_Werner",
+            "year": "2016"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "174",
+        "name": "Advanced Waves",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

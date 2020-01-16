@@ -1,0 +1,517 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "2004_sommer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2004_sommer.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung TIK I & II",
+            "year": "04 S"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2005_winter.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung TIK I & II",
+            "year": "05 F"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2005_sommer.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "05 S"
+        },
+        {
+            "author": "Prof S.Neuhaus",
+            "links": [
+                [
+                    "TI2 Pruefung W10/11",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TI2_Exam.pdf"
+                ],
+                [
+                    "TI2 Pruefung Loesung W10/11",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TI2_Exam_Loesung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung W10/11",
+            "year": "11 F"
+        },
+        {
+            "author": "R. Wattenhofer",
+            "links": [
+                [
+                    "Pr\u00fcfung mit MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_solutions.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Muster L\u00f6sung",
+            "year": "16 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Thomas Schalch",
+            "links": [
+                [
+                    "Slides",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/slides.pdf"
+                ]
+            ],
+            "title": "Folien/Zusammenfassung von PVK",
+            "year": "14 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Operating System Concepts - Silberschatz - 7th edition.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Operating%20System%20Concepts%20-%20Silberschatz%20-%207th%20edition.pdf"
+                ],
+                [
+                    "Operating System Concepts - 7th Edition - OCR.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Operating%20System%20Concepts%20-%207th%20Edition%20-%20OCR.pdf"
+                ]
+            ],
+            "title": "Textbuch TI2 - Operating system concepts - Silberschatz - 7th Edition",
+            "year": "2012"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Michael Wolf",
+            "links": [
+                [
+                    "PVK TI2 Teil 1 (Druckversion).pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK%20TI2%20Teil%201%20%28Druckversion%29.pdf"
+                ]
+            ],
+            "title": "PVK 2016 Teil 1 (Druckversion)",
+            "year": "16 FS"
+        },
+        {
+            "author": "Michael Wolf",
+            "links": [
+                [
+                    "PVK TI2 Teil 2 (Druckversion).pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK%20TI2%20Teil%202%20%28Druckversion%29.pdf"
+                ]
+            ],
+            "title": "PVK 2016 Teil 2 (Druckversion)",
+            "year": "16 FS"
+        },
+        {
+            "author": "Michael Wolf",
+            "links": [
+                [
+                    "PVK TI2 Teil 1 (animiert).pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK%20TI2%20Teil%201%20%28animiert%29.pdf"
+                ]
+            ],
+            "title": "PVK 2016 Teil 1 (animiert)",
+            "year": "16 FS"
+        },
+        {
+            "author": "Michael Wolf",
+            "links": [
+                [
+                    "PVK TI2 Teil 2 (animiert).pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK%20TI2%20Teil%202%20%28animiert%29.pdf"
+                ]
+            ],
+            "title": "PVK 2016 Teil 2 (animiert)",
+            "year": "16 FS"
+        },
+        {
+            "author": "Mathis Dedial",
+            "links": [
+                [
+                    "PVK Slides",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2018.pdf"
+                ]
+            ],
+            "title": "PVK 2018",
+            "year": "18 FS"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Georg Bachmeier",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mock_exam.pdf"
+                ],
+                [
+                    "L\u00f6sungsvorschlag Studenten",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mock_exam_sol.pdf"
+                ],
+                [
+                    "L\u00f6sungsvorschlag PVK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%202%20%E2%80%93%20L%C3%B6sungsideen%20zur%20Probeklausur.pdf"
+                ]
+            ],
+            "title": "Mock Exam mit nicht offiziellen L\u00f6sungen",
+            "year": "16 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische_Informatik_2.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05 FS"
+        },
+        {
+            "author": "Nicolas Perrenoud",
+            "links": [
+                [
+                    "TIK2_v1.5.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK2_v1.5.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung TIK 2",
+            "year": "08 FS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Technische%20Informatik%20II%20Lukas%20Cavigelli.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Technische%20Informatik%20II%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "ABT",
+            "links": [
+                [
+                    "TiK Zusfg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%20Zsfg.pdf"
+                ],
+                [
+                    "TiK Latex source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%20Zsfg.zip"
+                ]
+            ],
+            "title": "Zusfg TiK 1+2",
+            "year": "11 HS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Zusammenfassung TIkII fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20TIkII%20fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 FS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "TIK2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_TIK2.pdf"
+                ]
+            ],
+            "title": "Technische Informatik II Zusammenfassung",
+            "year": "12/13"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Technische%20Informatik%202%20Ver3.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Technische%20Informatik%202%20Ver3.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TikII_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung TIK2",
+            "year": "14 FS"
+        },
+        {
+            "author": "Thomas Felder",
+            "links": [
+                [
+                    "TIK2_ZF_TF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK2_ZUS_TF.odt"
+                ],
+                [
+                    "TIK2_ZF_TF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK2_ZUS_TF.pdf"
+                ]
+            ],
+            "title": "TIK 2 ZF",
+            "year": "15 FS"
+        },
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tik%20II%20%28R.%20Wattenhofer%29%20Stichwortverzeichnis%20-%20Stefan%20Rickli.pdf"
+                ],
+                [
+                    "XLSM (rename!)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tik%20II%20%28R.%20Wattenhofer%29%20Stichwortverzeichnis%20-%20Stefan%20Rickli.xlsx"
+                ]
+            ],
+            "title": "TiK II (R. Wattenhofer) - Stichwortverzeichnis",
+            "year": "16 FS"
+        },
+        {
+            "author": "Bigna H\u00e4rdi",
+            "links": [
+                [
+                    "TIK II ZS Latex File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK%20II%20ZS.zip"
+                ],
+                [
+                    "TIK II ZS PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK%20II%20ZS.pdf"
+                ]
+            ],
+            "title": "TIK II Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "Tik ZF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tik%20ZF_1.pdf"
+                ],
+                [
+                    "latex zip version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Tik%202%20Raphael%20Fischer.zip"
+                ]
+            ],
+            "title": "Summary TI 2",
+            "year": "16 FS"
+        },
+        {
+            "author": "Diverse (siehe Notes)",
+            "links": [
+                [
+                    "Index_TIK2_Studibrudis.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Index_TIK2_Studibrudis.pdf"
+                ],
+                [
+                    "Index TIK2_FS17.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Index%20TIK2_FS17.rar"
+                ],
+                [
+                    "Notes.txt",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Notes.txt"
+                ]
+            ],
+            "title": "Index/Glossar | R. Wattenhofer | FS17",
+            "year": "17 FS"
+        },
+        {
+            "author": "Manuel Madlener",
+            "links": [
+                [
+                    "Index PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK2%202017%20index.pdf"
+                ],
+                [
+                    "Index Excel",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK2%202017%20index.xlsx"
+                ]
+            ],
+            "title": "TIK 2 Index/Stichwortverzeichnis (FS17)",
+            "year": "17 FS"
+        },
+        {
+            "author": "C\u00e9dric Jeannerat",
+            "links": [
+                [
+                    "Zusammenfassung_TIK2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung_TIK2",
+            "year": "17FS"
+        },
+        {
+            "author": "Berghain",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK2_Zusammenfassung.pdf"
+                ],
+                [
+                    "source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tik2.rar"
+                ]
+            ],
+            "title": "Zusammenfassung Berghain",
+            "year": "18 FS"
+        },
+        {
+            "author": "Nicolas Jakob, Lukas Cavigelli",
+            "links": [
+                [
+                    "ZF-TIK2, Nicolas Jakob.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-TIK2%2C%20Nicolas%20Jakob.docx"
+                ]
+            ],
+            "title": "ZF- TIK2",
+            "year": "2013"
+        },
+        {
+            "author": "Gian Marti",
+            "links": [
+                [
+                    "Zsfg_TIK_II_GianMarti",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Eigene%20ZSFG.docx"
+                ],
+                [
+                    "Zsfg_TIK_II_GianMarti",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Eigene%20ZSFG.pdf"
+                ]
+            ],
+            "title": "Zsfg TIK II",
+            "year": "2015"
+        },
+        {
+            "author": "Killian keller",
+            "links": [
+                [
+                    "Ausf\u00fchrliche Zusammenfassung - Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik.zip"
+                ],
+                [
+                    "Ausf\u00fchrliche Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_6.pdf"
+                ],
+                [
+                    "Bitte Lesen.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Bemerkungen.txt"
+                ]
+            ],
+            "title": "Zusammenfassung Technische Informatik",
+            "year": "2016"
+        },
+        {
+            "author": "Adrian Peloso",
+            "links": [
+                [
+                    "Technische_Informatik_2 Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische_Informatik_2%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Technische Informatik 2 (inkl. neuer Stoff)",
+            "year": "2016"
+        },
+        {
+            "author": "Sascha Giger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TiKII_.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TiKII_.zip"
+                ]
+            ],
+            "title": "Zusammenfassung in deutsch (Prof. Wattenhofer)",
+            "year": "2017"
+        },
+        {
+            "author": "Nicolas Fr\u00fch, Robin Kramer",
+            "links": [
+                [
+                    "tik2_toc_nici.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tik2_toc_nici.pdf"
+                ]
+            ],
+            "title": "Begriffsindex Skript und PVK Slides",
+            "year": "F 16"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "99",
+        "name": "Technische Informatik II",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Silberschatz/Galvin/Gagne",
+            "links": [
+                [
+                    "OSC 8th Ed Solutions.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/OSC%208th%20Ed%20Solutions.zip"
+                ]
+            ],
+            "title": "TI II - \u00dcbungen vom Buch mit ML (OSC 8th Edition, Silberschatz, Galvin, Gagne)",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof Plattner et al.",
+            "links": [
+                [
+                    "TiK II FS12.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TiK%20II%20FS12.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "12 FS"
+        },
+        {
+            "author": "?",
+            "links": [
+                [
+                    "Zip-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%20II.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien mit Musterl\u00f6sung",
+            "year": "?"
+        }
+    ]
+}

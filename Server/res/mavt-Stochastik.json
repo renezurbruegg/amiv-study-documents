@@ -1,0 +1,243 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Tobias Stegemann",
+            "links": [
+                [
+                    "Stochastik_Pruefungssammlung_03_bis_14.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik_Pruefungssammlung_03_bis_14.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungssammlung Stochastik (Jahre 03-14)",
+            "year": "03-14"
+        },
+        {
+            "author": "Prof Embrechts",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tests_03-08.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen (Jahre 03-08)",
+            "year": "03/08"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof Embrechts",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/miniskript_MAVT.pdf"
+                ]
+            ],
+            "title": "Miniscript",
+            "year": "08"
+        },
+        {
+            "author": "Prof Embrechts",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/miniskript.pdf"
+                ]
+            ],
+            "title": "Miniskript",
+            "year": "11 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Theres Felix",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_theres_felix_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05"
+        },
+        {
+            "author": "Bastian Wohlfender",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF-bastianw-Stochastik.pdf"
+                ],
+                [
+                    "tex source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZSF-bastianw-Stochastik.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik%20v1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Stochastik",
+            "year": "11 FS"
+        },
+        {
+            "author": "C\u00e9dric de Crousaz",
+            "links": [
+                [
+                    "Stochastik.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik.zip"
+                ]
+            ],
+            "title": "ZF inkl. Tex",
+            "year": "12 HS"
+        },
+        {
+            "author": "Richard Knessl",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik%20RKnessl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Matthias Bloch",
+            "links": [
+                [
+                    "Stochastik_ZF_mbloch.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik_ZF_mbloch.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Formelsammlung Stochastik_eglilar_A3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20Stochastik_eglilar_A3.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Raphael Glaesener",
+            "links": [
+                [
+                    "Stochastik FS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik%20FS.pdf"
+                ]
+            ],
+            "title": "FS Stochastik",
+            "year": "2013"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "49",
+        "name": "Stochastik",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof Embrechts",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ueb0304stochastik.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "03 HS"
+        },
+        {
+            "author": "Prof Embrechts",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ueb0405stochastik.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "04 HS"
+        },
+        {
+            "author": "Prof Embrechts",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U_08_0.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof. Dr. Marloes Maathuis",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2010_Uebung.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. Embrechts",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik%20-%20Musterl%C3%B6sung%202011.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof. Maathuis",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik_12.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Maathuis",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Stochastik%20Serien%20HS14.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Mul\u00f6",
+            "year": "14 HS"
+        },
+        {
+            "author": "Maathuis",
+            "links": [
+                [
+                    "Stochastik Serien HS 2018",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien_12.zip"
+                ]
+            ],
+            "title": "Serien HS 2018",
+            "year": "2018"
+        }
+    ]
+}

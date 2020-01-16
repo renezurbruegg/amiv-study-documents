@@ -1,0 +1,521 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. K. Nipp",
+            "links": [
+                [
+                    "2007fr.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2007fr.pdf"
+                ],
+                [
+                    "2007he.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2007he.pdf"
+                ],
+                [
+                    "2008fr.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2008fr.pdf"
+                ],
+                [
+                    "2008he.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2008he.pdf"
+                ],
+                [
+                    "2009fr.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2009fr.pdf"
+                ],
+                [
+                    "2009he.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2009he.pdf"
+                ],
+                [
+                    "2006he",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pr-linalg-h06.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Mul\u00f6",
+            "year": "06-09"
+        },
+        {
+            "author": "Prof. Dr. H. Kn\u00f6rrer",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Alte%20Pr%C3%BCfungen%20LinAlg.zip"
+                ]
+            ],
+            "title": "Basispr\u00fcfungen",
+            "year": "08"
+        },
+        {
+            "author": "Prof. K. Nipp",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LineareAlgebra-beispielprufung.pdf"
+                ]
+            ],
+            "title": "Beispiel Vordiplompr\u00fcfung",
+            "year": "10"
+        },
+        {
+            "author": "Kaspar Nipp",
+            "links": [
+                [
+                    "2011_sommer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2011_sommer.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "11 S"
+        },
+        {
+            "author": "Kaspar Nipp",
+            "links": [
+                [
+                    "2012_winter.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2012_winter.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "12 F"
+        },
+        {
+            "author": "Dr. Vasile Gradinaru",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LA_Sommer15.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung Lineare Algebra",
+            "year": "15 S"
+        },
+        {
+            "author": "Dr. Vasile Gradinaru",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LA_Winter16.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "16 F"
+        },
+        {
+            "author": "Dr. Vasile Gradinaru",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LA_Sommer16.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "16 S"
+        },
+        {
+            "author": "Dr. Vasile Gradinaru",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LA_Winter17.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "17 F"
+        },
+        {
+            "author": "Dr. Vasile Gradinaru",
+            "links": [
+                [
+                    "LA_Sommer17.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LA_Sommer17.pdf"
+                ]
+            ],
+            "title": "Basispr\u00fcfung",
+            "year": "17 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Michael Baumgartner",
+            "links": [
+                [
+                    "PVK Skript",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlgPVK%20Skript.pdf"
+                ],
+                [
+                    "Zsfg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg%20Matrizeneigenschaften.pdf"
+                ],
+                [
+                    "MatLab",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Matlabbefehle.pdf"
+                ]
+            ],
+            "title": "PVK Unterlagen HS2018 Lineare Algebra",
+            "year": "18 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "Zsfg - Lineare Algebra.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg%20-%20Lineare%20Algebra.pdf"
+                ]
+            ],
+            "title": "Zsfg LinAlg",
+            "year": "09"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Lineare%20Algebra%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Lineare%20Algebra%20ITET.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Daniel Kressner",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Daniel_Kressner_mavt_LinAlg_Skript.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Florian Gubler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%20Zusammenfassung_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Linalg",
+            "year": "10 HS"
+        },
+        {
+            "author": "Silvio Bischof",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Lineare%20Algebra%20%28Silvio%20Bischof%29.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Lineare Algebra",
+            "year": "10 HS"
+        },
+        {
+            "author": "Alex Popert",
+            "links": [
+                [
+                    "LinAlg Zusfg-poperta2011.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/LinAlg%20Zusfg-poperta2011.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung LinAlg",
+            "year": "10 HS"
+        },
+        {
+            "author": "Fabian Schleiss",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg_summary_fs.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "LinAlg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/20120614_LinAlg_Zsmf.pdf"
+                ]
+            ],
+            "title": "Lineare Algebra Zusammenfassung",
+            "year": "11/12"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung LinAlg",
+            "year": "12 HS"
+        },
+        {
+            "author": "Hermann Blum",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20ALgebra.pdf"
+                ],
+                [
+                    "tex source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20ALgebra.tex"
+                ]
+            ],
+            "title": "Zusammenfassung Lineare Algebra",
+            "year": "12HS"
+        },
+        {
+            "author": "Stefan Rickli",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%2014FS%20%28K.%20Nipp%29%20Zfsg%20-%20Stefan%20Rickli.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%2014FS%20%28K.%20Nipp%29%20Zfsg%20-%20Stefan%20Rickli.pdf"
+                ],
+                [
+                    "MindMap 1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%20Mindmap%201%20-%20LGS%20Eigenschaften.pdf"
+                ],
+                [
+                    "MindMap 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%20Mindmap%202%20-%20Matrizen%20Dimensionen%20Rank.pdf"
+                ],
+                [
+                    "MindMap 3 (DRAFT!)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%20Mindmap%203%20-%20Eigenwerte%20und%20-Vektoren.pdf"
+                ]
+            ],
+            "title": "LinAlg (K. Nipp) (Update 2017-01-02)",
+            "year": "13 HS"
+        },
+        {
+            "author": "Manuel Eggimann",
+            "links": [
+                [
+                    "Formelsammlung Lineare Algebra PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20Lineare%20Algebra.pdf"
+                ],
+                [
+                    "Formelsammlung Lineare Algebra Word",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20Lineare%20Algebra.docx"
+                ]
+            ],
+            "title": "Formelsammlung Lineare Algebra",
+            "year": "13 HS"
+        },
+        {
+            "author": "David Hug",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare%20Algebra%20Formelsammlung%201.4%20%28Public%29.pdf"
+                ]
+            ],
+            "title": "Lineare Algebra Formelsammlung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Sandro Baumgartner",
+            "links": [
+                [
+                    "LinAlg-ZF_patched.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg-ZF_patched.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Lineare Algebra",
+            "year": "15 HS"
+        },
+        {
+            "author": "Gian Hug",
+            "links": [
+                [
+                    "Hugsche Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Hugsche%20Zusammenfassung_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung LinAlg Dr. Vasile C. Gradinaru",
+            "year": "17 HS"
+        },
+        {
+            "author": "Thomas Dubach",
+            "links": [
+                [
+                    "Zusammenfassung Lineare Algebra.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Lineare%20Algebra_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung LinAlg (handgeschrieben)",
+            "year": "17 HS"
+        },
+        {
+            "author": "Jonathan M\u00fcller",
+            "links": [
+                [
+                    "Linalg ZF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Linalg%20ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Lineare Algebra",
+            "year": "2012"
+        },
+        {
+            "author": "Christian Heiduschke",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg%20ZF.pdf"
+                ],
+                [
+                    "TEX-Source.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TEX-Source_1.zip"
+                ]
+            ],
+            "title": "Zusammenfassung LinAlg (Prof: Nipp)",
+            "year": "2013"
+        },
+        {
+            "author": "Martin K\u00e4lin",
+            "links": [
+                [
+                    "LinAlg.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg_1.zip"
+                ],
+                [
+                    "Lineare_Algebra_mkaelin.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lineare_Algebra_mkaelin.pdf"
+                ]
+            ],
+            "title": "Formelsammlung Lineare Algebra",
+            "year": "2013"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung_LineareAlgebra_Dominik_Werner.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_LineareAlgebra_Dominik_Werner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "2014"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "85",
+        "name": "Lineare Algebra",
+        "sem": [
+            "1",
+            "2"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. T. Rivi\u00e8re",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien_02HS.zip"
+                ],
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lo%CC%88sungen_02HS_0.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "02 HS"
+        },
+        {
+            "author": "Prof. T. Rivie\u0300re",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg%20Serien%20HS08%3A09.zip"
+                ],
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LinAlg_Lo%CC%88sungen_08HS.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "08 HS"
+        },
+        {
+            "author": "K. Nipp",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%20%26%20L%C3%B6sungen%201-5.zip"
+                ]
+            ],
+            "title": "Serien  & L\u00f6sungen 1-5",
+            "year": "10 HS"
+        },
+        {
+            "author": "K. Nipp",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%20%26%20L%C3%B6sungen%206-10.zip"
+                ]
+            ],
+            "title": "Serien  & L\u00f6sungen 6-10",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof K. Nipp",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%20%26%20L%C3%B6sungen%2011-13.zip"
+                ]
+            ],
+            "title": "Serien  & L\u00f6sungen 11-13",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. K. Nipp",
+            "links": [
+                [
+                    "Ubungen mit ML LinAlg HS11.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Ubungen%20mit%20ML%20LinAlg%20HS11.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen (Fehler beseitigt)",
+            "year": "11HS"
+        },
+        {
+            "author": "Prof. K. Nipp",
+            "links": [
+                [
+                    "Ubungen mit ML LinAlg HS11.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Ubungen%20mit%20ML%20LinAlg%20HS11.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen (Fehler beseitigt)",
+            "year": "11HS"
+        }
+    ]
+}

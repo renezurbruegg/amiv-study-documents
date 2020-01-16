@@ -1,0 +1,70 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Andr\u00e9 Hillers, Christoph Gammeter",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Elektrische_Antriebssysteme_I_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Elektrische Antriebssyteme I",
+            "year": "09"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF + ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_EAS1.zip"
+                ]
+            ],
+            "title": "Elektrische Antriebssysteme I ZF",
+            "year": "13 FS"
+        },
+        {
+            "author": "Matthias Wieland",
+            "links": [
+                [
+                    "ElAnSy1_Teil3_V2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ElAnSy1_Teil3_v2.pdf"
+                ]
+            ],
+            "title": "Elektrische Antriebssysteme 1, Teil 3",
+            "year": "18 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "130",
+        "name": "Elektrische Antriebssysteme I",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Diverse",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen_09_0.zip"
+                ]
+            ],
+            "title": "Elektrische Antriebsyteme 1 - \u00dcbungen mit L\u00f6sungen",
+            "year": "09"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EA%20I%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung und Tipps",
+            "year": "12FS"
+        }
+    ]
+}

@@ -1,0 +1,792 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Diplom",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VD2_H03.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/VD2_H03-Loesung.pdf"
+                ]
+            ],
+            "title": "Vordiplom mit Musterloesung",
+            "year": "03 WS"
+        },
+        {
+            "author": "Prof. Dr. Ch. Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PayerHS04-WS05_MAVTALL.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS04-WS05 - inkl. L\u00f6sung",
+            "year": "05 F"
+        },
+        {
+            "author": "Prof. Dr. Ch. Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PapesHS05-WS06_MAVTALL.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS05-WS06 - inkl. L\u00f6sung",
+            "year": "06 F"
+        },
+        {
+            "author": "Prof. Dr. Ch. Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MoellerHS06-WS07_MAVTALL.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS06-WS07 - inkl. L\u00f6sung",
+            "year": "07 F"
+        },
+        {
+            "author": "Prof. Dr. Ch. Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HeimschHS09-WS10_MAVTALL_1.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung HS09-WS10 - inkl. L\u00f6sung",
+            "year": "10 F"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Sven Zwicker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech3_Skript_WS0304.pdf"
+                ]
+            ],
+            "title": "Skript (inoffiziell)",
+            "year": "03/04"
+        },
+        {
+            "author": "Manuel Schoen, Nadja K\u00e4mpf, Yves Kompis",
+            "links": [
+                [
+                    "Script_slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Script_slides.zip"
+                ]
+            ],
+            "title": "Script and slides",
+            "year": "17 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Arbeitsunterlagen.pdf"
+                ]
+            ],
+            "title": "Arbeitsunterlagen",
+            "year": "09 HS"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Klausur1_0203.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Klausur1Loesung0203.PDF"
+                ]
+            ],
+            "title": "Klausur I mit Musterloesung",
+            "year": "02 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0405_K1_MAVT.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0405_Loesung_K1.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterloesung",
+            "year": "04 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0405_Klausur2.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterloesung",
+            "year": "04 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0607_K2_MAVT.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0607_Loesung_K2.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterloesung",
+            "year": "06 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0607_K1_MAVT.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0607_Loesung_K1.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterloesung",
+            "year": "06 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS07_K1_MAVT.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS07_Loesung_K1.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterloesung",
+            "year": "07 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS07_K2_MAVT.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS07_Loesung_K2.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterloesung",
+            "year": "07 WS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Klausur1_08.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Klausur1_08_muloe.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterloesung",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Klausur2_08.pdf"
+                ],
+                [
+                    "Loesung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Klausur2_08_muloe.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterloesung",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech3_Klausur.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech3_ML.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterl\u00f6sung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech3_Klausur_0.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech3_ML_0.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterl\u00f6sung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechanik_III_HS%202011_Klausur%20I_MAVT.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS2011_K1_Muloe.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterl\u00f6sung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechanik_III_HS%202011_Klausur%20II_MAVT.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS2011_K2_Muloe.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterl\u00f6sung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof. Dr. Ch. Glocker",
+            "links": [
+                [
+                    "Klausur",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS12_K1.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS12_K1_Muloe.pdf"
+                ]
+            ],
+            "title": "Klausur I mit Musterloesung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. Dr. Ch. Glocker",
+            "links": [
+                [
+                    "Klausur",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS12_K2.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS12_K2_Muloe.pdf"
+                ]
+            ],
+            "title": "Klausur II mit Musterloesung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Klausur I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MIII_HS13_K1_MAVT.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung I",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MIII_HS13_K1_MAVT_MuL%C3%B6.pdf"
+                ],
+                [
+                    "Klausur II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MIII_HS13_K2_MAVT_Klausur.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung II",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MIII_HS13_K1_MAVT_MuL%C3%B6_1.pdf"
+                ]
+            ],
+            "title": "Klausur mit Musterl\u00f6sung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exam",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2015_10_15_Midterm_I.pdf"
+                ],
+                [
+                    "Solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2015_10_15_Midterm_I_Solutions.pdf"
+                ]
+            ],
+            "title": "Midterm I mit Musterl\u00f6sung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exam",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2015_11_19_Midterm_II.pdf"
+                ],
+                [
+                    "Solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2015_11_19_Midterm_II_Solutions.pdf"
+                ]
+            ],
+            "title": "Midterm II mit Musterl\u00f6sung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exam",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2016_10_17_Midterm_I.pdf"
+                ],
+                [
+                    "Solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2016_10_17_Midterm_I_Solutions.pdf"
+                ]
+            ],
+            "title": "Midterm I mit Musterl\u00f6sung",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exam",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2016_11_21_Midterm_II_Solutions.pdf"
+                ],
+                [
+                    "Solutions",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2016_11_21_Midterm_IIa_Solutions.pdf"
+                ]
+            ],
+            "title": "Midterm II mit Musterl\u00f6sung",
+            "year": "16 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Claudio Walker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mech3_claudio.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04"
+        },
+        {
+            "author": "Sven Zwicker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mech3_zwickers.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04"
+        },
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/juchlern_mech3spick.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05"
+        },
+        {
+            "author": "Stefan Liechti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zf_liechti_1_8.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Timon Cernoch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZusammenfassungTimonCernochMech3.10.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZusammenfassungTimonCernochMech3.10.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10"
+        },
+        {
+            "author": "Philipe Fatio",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech_Fatio.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Sandro Uster",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/mechanik_III_usters.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Kilian Schindler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Mech3_KS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Giuseppe Capobianco",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechanikIII.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechanik%20III%20v1.pdf"
+                ],
+                [
+                    "Wegleitung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wegleitung_7.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Christoph Loy",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech%20III_Formelsammlung_Christoph_Loy_basierend_auf_Timon_Cernoch.pdf"
+                ],
+                [
+                    "Open Office",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mech%20III_Formelsammlung_Christoph_Loy_basierend_auf_Timon_Cernoch.odt"
+                ]
+            ],
+            "title": "Formelsammlung basiert auf der von Timon Cernoch (2010)",
+            "year": "11 HS"
+        },
+        {
+            "author": "Richard Knessl",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Mechanik%20III%20RKnessl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Martin Schweingruber",
+            "links": [
+                [
+                    "PDF File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechanikIII_amiv.pdf"
+                ],
+                [
+                    "LaTex Files",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechanikIII_Bilder_LaTex.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Ilir Mahmuti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechIII-ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Ignacio Lobato",
+            "links": [
+                [
+                    "MechIII_IgnacioLobato.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechIII_IgnacioLobato.pdf"
+                ]
+            ],
+            "title": "ZF M3 - \u00fcberarbeitung von Timon Cernoch",
+            "year": "12 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/summaryMechIII.pdf"
+                ]
+            ],
+            "title": "Summary (Engl.)",
+            "year": "12 HS"
+        },
+        {
+            "author": "Romina Brem",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_Mechanik3_2013.pdf"
+                ]
+            ],
+            "title": "ausf\u00fchrliche Zusammenfassung mit Beispielen",
+            "year": "13 HS"
+        },
+        {
+            "author": "Daniel Oberle",
+            "links": [
+                [
+                    "Zusammenfassung Mech III.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Mech%20III.docx"
+                ],
+                [
+                    "Zusammenfassung Mech III.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Mech%20III.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 Hs"
+        },
+        {
+            "author": "Samuel Zimmermann, Maurin Widmer",
+            "links": [
+                [
+                    "Formula Sheet Mech III_mit_disc.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formula%20Sheet%20Mech%20III_mit_disc.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Oliver Jaussi",
+            "links": [
+                [
+                    "MechIII_ZF_Oliver_Jaussi.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechIII_ZF_Oliver_Jaussi.pdf"
+                ],
+                [
+                    "MechIII_ZF_Oliver_Jaussi.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MechIII_ZF_Oliver_Jaussi.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Andrii Butko und Michael Dreyer",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20Mechanics%20III.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Mechanics III (Vorlesung Prof. Haller)",
+            "year": "14 HS"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "ODF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS11_MechanicsIII_Summary_FMarbach.odt"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS11_MechanicsIII_Summary_FMarbach.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "HS 11"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "21",
+        "name": "Mechanik III",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Dr. A Toselli / Felder",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/A01-04.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "01-04"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen06.PDF"
+                ]
+            ],
+            "title": "Aufgabensammlung",
+            "year": "06 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MuL%C3%B6.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungen \u00dcbungen '07 (In ein pdf zusammengefasst)",
+            "year": "07"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "Aufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen07.PDF"
+                ],
+                [
+                    "Loesungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Loesungen_07.zip"
+                ]
+            ],
+            "title": "Aufgabensammlung",
+            "year": "07 HS"
+        },
+        {
+            "author": "Prof Dr Glocker",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MusterLoesHS09Mech3.zip"
+                ]
+            ],
+            "title": "Musterloesung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof. Dr. Glocker",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AlleLoesungen.zip"
+                ]
+            ],
+            "title": "Musterl\u00f6sungen",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof. Dr. G. Haller",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamics.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "15 HS"
+        },
+        {
+            "author": "Prof G. Haller",
+            "links": [
+                [
+                    "Exercises with sol.",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises_3.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "16 HS"
+        },
+        {
+            "author": "Fr\u00e9d\u00e9ric Baumann Michael Wehrli",
+            "links": [
+                [
+                    "Dynamics Cliquer Questions_V2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Dynamics%20Cliquer%20Questions_V2.pdf"
+                ]
+            ],
+            "title": "Cliquer Questions",
+            "year": "16 HS"
+        }
+    ]
+}

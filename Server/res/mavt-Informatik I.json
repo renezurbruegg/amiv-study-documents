@@ -1,0 +1,625 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Dr. Volker Roth",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungstest07.pdf"
+                ],
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungstest%20loesung07.pdf"
+                ]
+            ],
+            "title": "\u00dcbungspr\u00fcfung mit Musterl\u00f6sung",
+            "year": "07 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/informatik_08musterloesung.pdf"
+                ],
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/informatik_08pruefung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pruefung_2009.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "09 FS"
+        },
+        {
+            "author": "Julian F\u00f6rster",
+            "links": [
+                [
+                    "Musterl\u00f6sung A1_A6 Informatik 1 Pr\u00fcfung 2009.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Musterl%C3%B6sung%20A1_A6%20Informatik%201%20Pr%C3%BCfung%202009.pdf"
+                ]
+            ],
+            "title": "Weitere L\u00f6sungen zur Pr\u00fcfung MAVT 2009",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pruefung_2010.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_MAVT_20120130.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "12 F"
+        },
+        {
+            "author": "Isaac Deutsch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesungen_v10.pdf"
+                ]
+            ],
+            "title": "Einige Lsg. zu MAVT 09, 10 und 12",
+            "year": "13"
+        },
+        {
+            "author": "Daniel Bogado Duffner",
+            "links": [
+                [
+                    "Pr\u00fcfung von 2015 (vom Institut)",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/info1_dmavt_aug_2015.pdf"
+                ],
+                [
+                    "Inoffizielle Musterl\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Inoffizielle%20MuL%C3%B6%20Pr%C3%BCfung%202015.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit inoffizieller Musterl\u00f6sung",
+            "year": "15 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Dr. Volker Roth",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/vorlesung07_0.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "07 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Vorlesung08.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/material.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "10 FS"
+        },
+        {
+            "author": "Isaac Deutsch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript_PVK_2013_v11.pdf"
+                ]
+            ],
+            "title": "Skript PVK Sommer 2013",
+            "year": "13 FS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Beispielprogramme07.zip"
+                ]
+            ],
+            "title": "Beispielprogramme",
+            "year": "2007"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik_Juchler.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04 S"
+        },
+        {
+            "author": "Michael Sch\u00fcrpf",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/infozsf.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05 FS"
+        },
+        {
+            "author": "Florian Hofmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/InfoZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "06 S"
+        },
+        {
+            "author": "Simon Eugster",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/info1_eugster.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "06 S"
+        },
+        {
+            "author": "Florian Hofmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/hofman_Aufgaben.pdf"
+                ]
+            ],
+            "title": "Progammsammlung",
+            "year": "06 S"
+        },
+        {
+            "author": "Andreas Koch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik%20I%20Andreas%20Koch.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "07 FS"
+        },
+        {
+            "author": "Jakob Buchheim",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/info_buchheim.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "07 FS"
+        },
+        {
+            "author": "Tim Kazik",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info%20Zf_Kazik.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "07 FS"
+        },
+        {
+            "author": "Christian Forster, Patrik Rohner",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/info1_cforster.zip"
+                ]
+            ],
+            "title": "Zusammenfassung und Beispielprogramme (\u00fcberarbeitet)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Philipe Fatio",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/weder_Informatik_I.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/weder_Informatik_I.tex"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Lukas Ruppen",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ruppen_ZF-Informatik_Basis.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Matthias Krebs",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Info_makrebs.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 FS"
+        },
+        {
+            "author": "Alessandro Simovic",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_sim.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung inkl. Beispiele & ASCII",
+            "year": "11 FS"
+        },
+        {
+            "author": "David Glenck",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cpp_zf_aktuell.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cpp-zf.odt"
+                ],
+                [
+                    "DOC",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cpp-zf.doc"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "David Glenck",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cpp_zf_aktuell.pdf"
+                ],
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cpp-zf.odt"
+                ],
+                [
+                    "DOC",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/cpp-zf.doc"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Andreas Ebn\u00f6ther",
+            "links": [
+                [
+                    "Formelsammlung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS%20Info1%20Andreas%20Ebn%C3%B6ther.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "12"
+        },
+        {
+            "author": "Thomas L\u00fcscher",
+            "links": [
+                [
+                    "informatik_luethoma.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/informatik_luethoma.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12"
+        },
+        {
+            "author": "Fabian Jenelten",
+            "links": [
+                [
+                    "Zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary.zip"
+                ]
+            ],
+            "title": "Summary",
+            "year": "12 FS"
+        },
+        {
+            "author": "Pascal Enderli",
+            "links": [
+                [
+                    "Info1 Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1%20Zusammanfassung.ZIP"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Salom\u00e9 Sch\u00e4rer",
+            "links": [
+                [
+                    "ZF-Info1.doc",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Info1.doc"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Daniel Oberle",
+            "links": [
+                [
+                    "Zusammenfassung Informatik 1.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik%201.docx"
+                ],
+                [
+                    "Zusammenfassung Informatik 1.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Informatik%201.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 FS"
+        },
+        {
+            "author": "Daniel Hentzen",
+            "links": [
+                [
+                    "PDF v2.1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Info1_v2.1.pdf"
+                ],
+                [
+                    "TEX v2.1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tex_v2.1.zip"
+                ],
+                [
+                    "README",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/README.txt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 FS"
+        },
+        {
+            "author": "Luca Dahle",
+            "links": [
+                [
+                    "Info1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Luca Dahle",
+            "links": [
+                [
+                    "Info1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Maximilian St\u00f6lzle",
+            "links": [
+                [
+                    "ZF_Info1_F15_Maximilian_Stoelzle.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Info1_F15_Maximilian_Stoelzle.pdf"
+                ],
+                [
+                    "ZF_Info1_F15_Maximilian_Stoelzle.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Info1_F15_Maximilian_Stoelzle.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Lukas Fischer",
+            "links": [
+                [
+                    "Informatik_ZF_Lukas_Fischer_2015.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik_ZF_Lukas_Fischer_2015.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung inkl. Beispielprogramme",
+            "year": "15 FS"
+        },
+        {
+            "author": "Colin Lienhard & Rik B\u00e4ttig",
+            "links": [
+                [
+                    "ZF Informatik I.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Informatik%20I.pdf"
+                ]
+            ],
+            "title": "ZF Info I",
+            "year": "17 FS"
+        },
+        {
+            "author": "Gian Hug",
+            "links": [
+                [
+                    "Info1-merged.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Info1-merged.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung des Inhaltes",
+            "year": "17 HS"
+        },
+        {
+            "author": "Philip Wolf",
+            "links": [
+                [
+                    "ZF Inf.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Inf.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Informatik",
+            "year": "18 FS"
+        },
+        {
+            "author": "Luzian Bieri",
+            "links": [
+                [
+                    "ZF_Info_2018",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_Info_2018.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Informatik 1 2018",
+            "year": "18 FS"
+        },
+        {
+            "author": "Lara Egli",
+            "links": [
+                [
+                    "Informatik_Zusfas und Bsp_eglilar.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Informatik_Zusfas%20und%20Bsp_eglilar.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "2012"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "16",
+        "name": "Informatik I",
+        "sem": []
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Dr. Volker Roth, Tilman Lange",
+            "links": [
+                [
+                    "\u00dcb_ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/aufgaben.zip"
+                ],
+                [
+                    "MuL\u00f6_ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/l%C3%B6sungen.zip"
+                ]
+            ],
+            "title": "\u00dcbungen+MuL\u00f6",
+            "year": "06"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "Erg\u00e4nzungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Ergeanzungen%20zur%20uebung07.zip"
+                ],
+                [
+                    "\u00dcbungen+Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/bungen%2BMuloe07.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "07 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen08_3.zip"
+                ]
+            ],
+            "title": "\u00dcbungen",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/info1-fs09.zip"
+                ]
+            ],
+            "title": "Alle \u00dcbungen, Musterl\u00f6sungen und Slides",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof P. Arbenz",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/serien.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "10 FS"
+        }
+    ]
+}

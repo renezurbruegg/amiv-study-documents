@@ -1,0 +1,11 @@
+{
+    "info": {
+        "dep": "itet",
+        "id": "neural-systems",
+        "name": "Neural Systems",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

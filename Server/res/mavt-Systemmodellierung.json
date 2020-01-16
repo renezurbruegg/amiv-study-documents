@@ -1,0 +1,202 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof Guzzella",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tests_04-08.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen",
+            "year": "04-08"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. Lino Guzzella",
+            "links": [
+                [
+                    "skript.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/skript_2.pdf"
+                ]
+            ],
+            "title": "Skript",
+            "year": "18 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Prof L. Guzzella",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Slides_08.zip"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "08 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Norman Juchler",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sysmod_Zf_Juchler.pdf"
+                ],
+                [
+                    "Beispiele",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sysmod_Zf_Juchler_Zusatz.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05 HS"
+        },
+        {
+            "author": "Marcel Schoch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sysmod_mschoch.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "08 HS"
+        },
+        {
+            "author": "Stefan Liechti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sysmod_zf_liechti.pdf"
+                ],
+                [
+                    "tex file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sysmod_zf_liechti.tex"
+                ],
+                [
+                    "png figures",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sysmod_fig.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Simon D\u00f6ssegger",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SysMod_ZF_Doessi.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Mauro Salazar",
+            "links": [
+                [
+                    "System Modeling.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/System%20Modeling.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Maximilian St\u00f6lzle",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/System_Modeling.pdf"
+                ],
+                [
+                    "LaTex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/System-Modeling.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Matthias Wieland; Mario Millh\u00e4usler",
+            "links": [
+                [
+                    "System_Modeling",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2018_09_02_System_Modeling.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Tamara Farinelli, Giona Fieni",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SysMod.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Tamara Farinelli, Giona Fieni",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SysMod.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "17 HS"
+        },
+        {
+            "author": "Elia Poli",
+            "links": [
+                [
+                    "System_Modeling_17.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/System_Modeling_17.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "2017"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "48",
+        "name": "Systemmodellierung",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof L. Guzzella",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U_08_1.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof L. Guzzella",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebung.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "11 HS"
+        }
+    ]
+}

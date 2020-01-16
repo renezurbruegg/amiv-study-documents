@@ -1,0 +1,54 @@
+{
+    "Zusammenfassungen": [
+        {
+            "author": "Philippe Alff",
+            "links": [
+                [
+                    "power semiconductors summary source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Power_Semiconductors_alffp_source.zip"
+                ],
+                [
+                    "power semiconductors summary PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Power_Semiconductors_alffp.pdf"
+                ]
+            ],
+            "title": "Power Semiconductors summary",
+            "year": "17/18"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "Summary + source files",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_power_semic.zip"
+                ]
+            ],
+            "title": "Summary Power Semiconductors with source file",
+            "year": "17FS"
+        },
+        {
+            "author": "Silvan Bucheli",
+            "links": [
+                [
+                    "PowerSemiconductors_ZF_SB_270818.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PowerSemiconductors_ZF_SB_270818.pdf"
+                ],
+                [
+                    "PowerSemiconductors_Zusammenfassung_FS18_SB.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PowerSemiconductors_Zusammenfassung_FS18_SB.docx"
+                ]
+            ],
+            "title": "Power Semiconductors ZF FS18",
+            "year": "2018"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "230",
+        "name": "Power Semiconductors",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

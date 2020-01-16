@@ -1,0 +1,98 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Beispielpr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/beispielpruefung.pdf"
+                ]
+            ],
+            "title": "Beispielpr\u00fcfung - Communication Electronics",
+            "year": "11HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Communication%20Electronics%20summary%20lukasc.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung (handgeschrieben)",
+            "year": "12 FS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Summary CommElec fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%20CommElec%20fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 FS"
+        },
+        {
+            "author": "Stefan Lippuner",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20CE.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20CE.zip"
+                ]
+            ],
+            "title": "Summary CE",
+            "year": "15 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "106",
+        "name": "Communication Electronics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Benjamin Sporrer",
+            "links": [
+                [
+                    "Serien mit ML",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Serien%20mit%20ML%20HS11%20ComElec.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sung - Communication Electronics",
+            "year": "11HS"
+        },
+        {
+            "author": "Benjamin Sporrer",
+            "links": [
+                [
+                    "zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/CommElecEx.zip"
+                ]
+            ],
+            "title": "Exercises with Solutions; sample exam",
+            "year": "12 FS"
+        },
+        {
+            "author": "Lianbo Wu, Benjamin Sporrer, Xu Han",
+            "links": [
+                [
+                    "Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises_1.zip"
+                ]
+            ],
+            "title": "Exercises with solutions",
+            "year": "15 FS"
+        }
+    ]
+}

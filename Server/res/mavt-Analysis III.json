@@ -1,0 +1,919 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/he01_3h.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "01 S"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fr02_2h.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "02 F"
+        },
+        {
+            "author": "Prof G Felder",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_H02.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_H02.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "02 S"
+        },
+        {
+            "author": "Prof G Felder",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_F03.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_F03.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "03 F"
+        },
+        {
+            "author": "Prof G Felder",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_H03.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_H03.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "03 S"
+        },
+        {
+            "author": "Prof G Felder",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_F04.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_F04.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "04 F"
+        },
+        {
+            "author": "Dr Andrea Toselli",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_H04.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_H04.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "04 S"
+        },
+        {
+            "author": "Dr Andrea Toselli",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_loesungI_F05.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "05 F"
+        },
+        {
+            "author": "Dr Andrea Toselli",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_H05.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "05 S"
+        },
+        {
+            "author": "Prof A Prohl",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_F06.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_F06.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "06 F"
+        },
+        {
+            "author": "Prof A Prohl",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur_H06.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesung_H06.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "06 S"
+        },
+        {
+            "author": "Dr L Sz\u00e9kelyhidi",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausur07.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/klausurloesung07.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "07 F"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KlausurFr08.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LoesungFr08.pdf"
+                ],
+                [
+                    "Errata",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/errata.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "08 F"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KlausurHe08.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LoesungHe08.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6",
+            "year": "08 S"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KlausurWi08.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LoesungWi08.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "09 F"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KlausurHe09.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LoesungHe09.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "09 S"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KlausurFr10.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LoesungFr10.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "10 F"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/KlausurSo10.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LoesungSo10.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "10 S"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam%20Fr11.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ExamA3_W10_ML.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "11 F"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exam%20So11.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ExamA3_So11_ML.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "11 S"
+        },
+        {
+            "author": "Prof D. Stoffer",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIII_HS_11.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIII_HS_11-MULO.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "12 F"
+        },
+        {
+            "author": "Prof. Dr. A. Iozzi",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3MAVT_HS12_examw13.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3MAVT_HS12_examw13solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "13 W"
+        },
+        {
+            "author": "Prof. Dr. A. Iozzi",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3MAVT_HS13_examw14.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3MAVT_HS13_examw14solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "14 W"
+        },
+        {
+            "author": "Prof. Dr. A. Iozzi",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/examWI15.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solWI15.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sungen",
+            "year": "15 W"
+        },
+        {
+            "author": "Prof. Dr. A. Iozzi",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/examW16.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/solW16.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "16 W"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof G Felder",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DGLFelder.pdf"
+                ]
+            ],
+            "title": "Inoffizielles Skript",
+            "year": "02 WS"
+        },
+        {
+            "author": "Thomas Mantel",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis_iii.pdf"
+                ]
+            ],
+            "title": "Mitschrift",
+            "year": "08 HS"
+        },
+        {
+            "author": "Prof. A. Iozzi",
+            "links": [
+                [
+                    "Skript_Iozzi_HS14.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript_Iozzi_HS14.pdf"
+                ]
+            ],
+            "title": "Skript zur Vorlesung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Gioele Zardini",
+            "links": [
+                [
+                    "Skript Analysis III - Gioele Zardini - V1.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript%20Analysis%20III%20-%20Gioele%20Zardini%20-%20V1.pdf"
+                ],
+                [
+                    "Skript Analysis III - Gioele Zardini - V2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript%20Analysis%20III%20-%20Gioele%20Zardini%20-%20V2.pdf"
+                ]
+            ],
+            "title": "Skript Analysis III - Gioele Zardini - V1",
+            "year": "2017"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Steivan Clagl\u00fcna",
+            "links": [
+                [
+                    "PDE",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PDE.zip"
+                ]
+            ],
+            "title": "Kochrezepte f\u00fcr PDE",
+            "year": "16 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Philipp R\u00fcst, Fabian Seitz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ana3_philipp_fabian.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04 WS"
+        },
+        {
+            "author": "Sven Zwicker",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ana3_zwickers.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04 WS"
+        },
+        {
+            "author": "Marco Jakob",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III_Marcoj.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "05 WS"
+        },
+        {
+            "author": "Florian Hofmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ana3_flhofman.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "07 HS"
+        },
+        {
+            "author": "Patrik Rohner",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3_zfsg_v1.pdf"
+                ],
+                [
+                    "Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3_zfsg_v1.rar"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "08 HS"
+        },
+        {
+            "author": "Stefan Liechti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis_gesamt_liechti.pdf"
+                ],
+                [
+                    "tex file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/formelsammlung_analysis_gesamt.tex"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Kilian Schindler",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIII_ZF_KS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 HS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20v2.pdf"
+                ],
+                [
+                    "Wegleitung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wegleitung_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AS11_AnalysisIII_Summary_FMarbach.odt"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AS11_AnalysisIII_Summary_FMarbach.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "11 HS"
+        },
+        {
+            "author": "Fabian Jenelten",
+            "links": [
+                [
+                    "PDF.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PDF_2.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Ignacio Lobato",
+            "links": [
+                [
+                    "Analysis_Ignacio Lobato.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_Ignacio%20Lobato.pdf"
+                ]
+            ],
+            "title": "ZF An.3, Weiterverarbeitung von ZF Liechtis",
+            "year": "12 HS"
+        },
+        {
+            "author": "Tschopp, Wehrli",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ANASUM3_mavt.pdf"
+                ],
+                [
+                    "Anhang",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ANASUM3%2B%2B.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Johann Diep",
+            "links": [
+                [
+                    "Zusammenfassung Analysis 3",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%203%20Zusammenfassung.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3",
+            "year": "13 HS"
+        },
+        {
+            "author": "Ian St\u00e4hli",
+            "links": [
+                [
+                    "Analysis III Formelsammlung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20Formelsammlung.pdf"
+                ]
+            ],
+            "title": "Formelsammlung Analysis III",
+            "year": "13 HS"
+        },
+        {
+            "author": "Ueli Wechsler",
+            "links": [
+                [
+                    "Analysis3",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III_Formelsammlung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Michael Liem",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%20III%20Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Analysis III Zusammenfassung (Anhang von Fabian Jenelten)",
+            "year": "13 HS"
+        },
+        {
+            "author": "Martin Reick",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIII_Zusammenfassung_MReick.pdf"
+                ]
+            ],
+            "title": "Handgeschriebene Zusammenfassung",
+            "year": "14 FS"
+        },
+        {
+            "author": "Daniel Oberle",
+            "links": [
+                [
+                    "Zusammenfassung Analysis III.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III.docx"
+                ],
+                [
+                    "Zusammenfassung Analysis III.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Emanuel Joos, Simon Muntwiler, Jerome Sieber",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysisIII_JS_AMIV-Version.pdf"
+                ]
+            ],
+            "title": "Summary",
+            "year": "14 HS"
+        },
+        {
+            "author": "Emanuel Joos, Simon Muntwiler, Jerome Sieber",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysisIII_JS.pdf"
+                ],
+                [
+                    "TEX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysisIII_JS.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Roman Ehrler",
+            "links": [
+                [
+                    "Formelsammlung_AnalysisIII_HS15.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_AnalysisIII_HS15.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "15 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "analysis -zaemefassig.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis%20-zaemefassig.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Benno K\u00e4slin",
+            "links": [
+                [
+                    "Zusammenfassung Analysis III.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Analysis%20III_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis III",
+            "year": "15 HS"
+        },
+        {
+            "author": "Marco Stephan",
+            "links": [
+                [
+                    "AnalysisIII.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIII.pdf"
+                ]
+            ],
+            "title": "Analysis III ZF",
+            "year": "15 HS"
+        },
+        {
+            "author": "Luciano Bettinaglio",
+            "links": [
+                [
+                    "Zusammenfassung Analysis III",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnIII.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "GianAndrea M\u00fcller",
+            "links": [
+                [
+                    "Analysiszusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysiszusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Bj\u00f6rn Joos / Philipp Andermatt",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_3_0.pdf"
+                ],
+                [
+                    "source tex code",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis%25203.zip"
+                ]
+            ],
+            "title": "Analysis 3 Zusammenfassung inkl. source code",
+            "year": "15 HS"
+        },
+        {
+            "author": "Mario Millh\u00e4usler",
+            "links": [
+                [
+                    "Analysis_III_milmario.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III_milmario.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "16 HS"
+        },
+        {
+            "author": "Tobias L\u00f6w/Severin Meier",
+            "links": [
+                [
+                    "Analysis 3 Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis3_ZF.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis 3",
+            "year": "16 HS"
+        },
+        {
+            "author": "Tamara Farinelli, Giona Fieni",
+            "links": [
+                [
+                    "Tabella integrali.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tabella%20integrali_0.pdf"
+                ]
+            ],
+            "title": "Integraltabelle",
+            "year": "16HS"
+        },
+        {
+            "author": "Philip Wolf",
+            "links": [
+                [
+                    "ZF Analysis 3.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Analysis%203.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Analysis",
+            "year": "18 HS"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "20",
+        "name": "Analysis III",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Dr. A Toselli",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ueb0405analysis3.pdf"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "04 HS"
+        },
+        {
+            "author": "Dr. L. Szekelyhidi, J. Swoboda",
+            "links": [
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MuL%C3%B6%20Serien%2006_07.zip"
+                ],
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien%2006_07.zip"
+                ]
+            ],
+            "title": "Serien mit MuL\u00f6",
+            "year": "06 WS"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3_uebungen_Muloe.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "07 HS"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/dirichlet.pdf"
+                ]
+            ],
+            "title": "Dirichlet-Gleichungen",
+            "year": "07 HS"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/09.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof Jeltsch",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HS2010.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "10 HS"
+        },
+        {
+            "author": "Prof. Dr. A. Iozzi",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/analysis3mavtfs14serien.zip"
+                ]
+            ],
+            "title": "\u00dcbungsserien mit Musterl\u00f6sung vom HS13",
+            "year": "13 HS"
+        },
+        {
+            "author": "Prof. Dr. A. Iozzi",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Analysis_III_1.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6",
+            "year": "15 HS"
+        },
+        {
+            "author": "Prof. F. Da Lio",
+            "links": [
+                [
+                    "AnalysisIII_HS17_Exercises.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/AnalysisIII_HS17_Exercises.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit MuL\u00f6 HS17",
+            "year": "17 HS"
+        }
+    ]
+}

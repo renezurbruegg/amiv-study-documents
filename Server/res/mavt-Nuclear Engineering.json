@@ -1,0 +1,11 @@
+{
+    "info": {
+        "dep": "mavt",
+        "id": "69",
+        "name": "Nuclear Engineering",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": true
+}

@@ -1,0 +1,48 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2007_WS_Exam_Questions_1.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung - Biosensors and Bioelectronics",
+            "year": "07F"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Sensoren2_Zusammenfassung_20_1.pdf"
+                ]
+            ],
+            "title": "Formelsammlung zur Vorlesung - Biosensors and Bioelectronics",
+            "year": "07 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2007_exercises_1.pdf"
+                ]
+            ],
+            "title": "\u00dcbungsaufgaben f\u00fcr die Pr\u00fcfung - Biosensors and Bioelectronics",
+            "year": "07 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "121",
+        "name": "Biosensors & Bioelectronics",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

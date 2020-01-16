@@ -1,0 +1,48 @@
+{
+    "Sonstiges": [
+        {
+            "author": "Mattia Halter",
+            "links": [
+                [
+                    "Microsystems Technology Flash Cards",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Microsystems%20Technology.zip"
+                ]
+            ],
+            "title": "Microsystems Technology - Karteikarten/Flashcards",
+            "year": "15 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "David Gschwend",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_MST_davidgs.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung MST",
+            "year": "12 HS"
+        },
+        {
+            "author": "G. Tresoldi",
+            "links": [
+                [
+                    "MR_CheatSheet.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/MR_CheatSheet.pdf"
+                ]
+            ],
+            "title": "MircoRobotics Zusammenfassung",
+            "year": "15 HS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "112",
+        "name": "Microsystems Technology",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

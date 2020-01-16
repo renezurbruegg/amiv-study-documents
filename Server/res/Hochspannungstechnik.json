@@ -1,0 +1,49 @@
+{
+    "Sonstiges": [
+        {
+            "author": "Elias L\u00f6tscher & Silvan Bucheli",
+            "links": [
+                [
+                    "Lab2 Bericht final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lab2%20Bericht%20final.pdf"
+                ],
+                [
+                    "Lab3 Bericht final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lab3%20Bericht%20final.pdf"
+                ],
+                [
+                    "Lab4 Bericht final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lab4%20Bericht%20final.pdf"
+                ],
+                [
+                    "Lab5 Bericht final.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lab5%20Bericht%20final.pdf"
+                ]
+            ],
+            "title": "Praktikumsberichte",
+            "year": "2018"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Silvan Bucheli",
+            "links": [
+                [
+                    "HSI_ZF_SB_010818.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSI_ZF_SB_010818.pdf"
+                ]
+            ],
+            "title": "HS1 ZF FS18",
+            "year": "2018"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "128",
+        "name": "Hochspannungstechnik",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false
+}

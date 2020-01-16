@@ -1,0 +1,431 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Angelika Steger, Emo Welzl",
+            "links": [
+                [
+                    "PDF_File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SessionsprA%CC%83%C2%BCfung_Diskrete_Mathematik_HS06.pdf"
+                ]
+            ],
+            "title": "Sessionspr\u00fcfung",
+            "year": "07 F"
+        },
+        {
+            "author": "Angelika Steger, Emo Welzl",
+            "links": [
+                [
+                    "PDF_File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SessionsprA%CC%83%C2%BCfung_Diskrete_Mathematik_HS07.pdf"
+                ]
+            ],
+            "title": "Sessionspr\u00fcfung",
+            "year": "08 F"
+        },
+        {
+            "author": "Prof. Dr. Angelika Steger, Prof. Dr. Emo Welzl",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SessionsprA%CC%83%C2%BCfung_Diskrete_Mathematik_HS08.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SessionsprA%CC%83%C2%BCfung_Diskrete_Mathematik_HS08_MuLA%CC%83%C2%B6.pdf"
+                ]
+            ],
+            "title": "Sessionspr\u00fcfung mit Musterl\u00f6sung",
+            "year": "09 F"
+        },
+        {
+            "author": "Prof. Dr. Angelika Steger, Prof. Dr. Emo Welzl",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SessionsprA%CC%83%C2%BCfung_Diskrete_Mathematik_HS08_RepTest.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SessionsprA%CC%83%C2%BCfung_Diskrete_Mathematik_HS08_RepTest_MuLA%CC%83%C2%B6.pdf"
+                ]
+            ],
+            "title": "Nachholklausur mit Musterl\u00f6sung",
+            "year": "09 S"
+        },
+        {
+            "author": "Welzl",
+            "links": [
+                [
+                    "2010_winter.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2010_winter_0.pdf"
+                ],
+                [
+                    "2010_winter_loesung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2010_winter_loesung_0.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "10 F"
+        },
+        {
+            "author": "Welzl",
+            "links": [
+                [
+                    "2010_sommer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2010_sommer_1.pdf"
+                ],
+                [
+                    "2010_sommer_loesung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/2010_sommer_loesung_1.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "10 S"
+        },
+        {
+            "author": "Zenklusen",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final-S17.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final-S17_solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 Zenklusen So2017",
+            "year": "16 HS"
+        },
+        {
+            "author": "Zenklusen",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final-S18.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final-S18_solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "18 S"
+        },
+        {
+            "author": "Zenklusen",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final-W18.pdf"
+                ],
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final-W18_solution.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "18 W"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Angelika Steger, Emo Welzl",
+            "links": [
+                [
+                    "Scan-PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Diskrete%20Mathematik%20%28f%C3%BCr%20D-ITET%29%2C%20Herbstsemester%202012%2C%20Angelika%20Steger%2C%20Emo%20Welzl.pdf"
+                ]
+            ],
+            "title": "Skript DiskMat HS2012 (Scan)",
+            "year": "12 HS"
+        },
+        {
+            "author": "Coralie Busse-Grawitz",
+            "links": [
+                [
+                    "PVK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/PVK_FS18_DiskMath.zip"
+                ]
+            ],
+            "title": "PVK Unterlagen DiskMath",
+            "year": "18 FS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Philippe Wenk",
+            "links": [
+                [
+                    "Anmerkungen zu Sebastians WS0607.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Anmerkungen%20zu%20Sebastians%20WS0607.pdf"
+                ]
+            ],
+            "title": "Anmerkungen zum L\u00f6sungsvorschlag von Sebastian",
+            "year": "07 F"
+        },
+        {
+            "author": "Sebastian Fl\u00fcckiger",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/loesungsvorschlag_dm_ws_0607.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungsvorschlag Pr\u00fcfung vom WS 06/07",
+            "year": "07 F"
+        },
+        {
+            "author": "Philippe Wenk",
+            "links": [
+                [
+                    "L\u00f6sungsvorschlag DM WS 07.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/L%C3%B6sungsvorschlag%20DM%20WS%2007.pdf"
+                ]
+            ],
+            "title": "L\u00f6sungvorschlag zur Pr\u00fcfung WS 07",
+            "year": "07 HS"
+        },
+        {
+            "author": "Tobias Pr\u00f6ger",
+            "links": [
+                [
+                    "PVK Folien Teile 1 und 2",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DM_PVK_tproeger.zip"
+                ]
+            ],
+            "title": "PVK Folien WS2012",
+            "year": "11 HS"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Prof. A. Steger, Prof. E. Welzl",
+            "links": [
+                [
+                    "Klausur",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sample_klausur.pdf"
+                ],
+                [
+                    "ML",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sample_los_klausur.pdf"
+                ]
+            ],
+            "title": "Probeklausuer mit ML - Diskrete Mathematik",
+            "year": "12 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Diskrete%20Mathematik%20ITET%20Lukas%20Cavigelli.docx"
+                ],
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Diskrete%20Mathematik%20ITET%20Lukas%20Cavigelli.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "10 HS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg%20-%20Diskrete%20Mathematik.pdf"
+                ]
+            ],
+            "title": "Zsfg Disk Math",
+            "year": "10 HS"
+        },
+        {
+            "author": "Jesko Mueller",
+            "links": [
+                [
+                    "DM Zusammenfassung - Jesko Mueller.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DM%20Zusammenfassung%20-%20Jesko%20Mueller.pdf"
+                ]
+            ],
+            "title": "Zsfg Diskrete Math.",
+            "year": "11 HS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Zusammenfassung DiskMath fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20DiskMath%20fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "ABT",
+            "links": [
+                [
+                    "Diskmath.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Diskmath.pdf"
+                ],
+                [
+                    "diskmath latex source.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/diskmath%20latex%20source.zip"
+                ]
+            ],
+            "title": "Zusfg DiskMath",
+            "year": "11 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "DiskMath",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsmf_DiskMath.pdf"
+                ]
+            ],
+            "title": "Diskrete Mathematik Zusammenfassung",
+            "year": "12/13"
+        },
+        {
+            "author": "Ja\u00ebl Keller & Thomas Birchler",
+            "links": [
+                [
+                    "DiskMath.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/DiskMath.pdf"
+                ]
+            ],
+            "title": "ZF Diskrete Mathematik",
+            "year": "15 HS"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "ZF Diskmath Raphael Fischer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Diskmath%20Raphael%20Fischer.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Diskmath",
+            "year": "15 HS"
+        },
+        {
+            "author": "Liberto Beltran",
+            "links": [
+                [
+                    "ZusammenfassungDiskreteMathematik.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZusammenfassungDiskreteMathematik.pdf"
+                ],
+                [
+                    "ZusammenfassungDiskreteMathematik.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZusammenfassungDiskreteMathematik.zip"
+                ]
+            ],
+            "title": "Zusammenfassung (Prof. R. Zenklusen)",
+            "year": "17 HS"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_DiskMath_dowerner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "2014"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "90",
+        "name": "Diskrete Mathematik",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Dr. Angelika Steger, Prof. Dr. Emo Welzl",
+            "links": [
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien_07HS.zip"
+                ],
+                [
+                    "L\u00f6sungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lo%CC%88sungen_07HS.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "07 HS"
+        },
+        {
+            "author": "Prof. Dr. Emo Welzl, Dr. Uli Wagner",
+            "links": [
+                [
+                    "Serien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Serien_09HS.zip"
+                ],
+                [
+                    "L\u00f6sungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lo%CC%88sungen_09HS.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "09 HS"
+        },
+        {
+            "author": "Prof Angelika Steger",
+            "links": [
+                [
+                    "HS11DiskMath.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/HS11DiskMath.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof Angelika Steger",
+            "links": [
+                [
+                    "HS11DiskMath.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/HS11DiskMath.zip"
+                ]
+            ],
+            "title": "Serien und L\u00f6sungen",
+            "year": "11 HS"
+        },
+        {
+            "author": "Prof A. Steger, Prof E. Welzl",
+            "links": [
+                [
+                    "Uebungen mit ML - DiskMat HS12.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungen%20mit%20ML%20-%20DiskMat%20HS12.pdf"
+                ]
+            ],
+            "title": "Uebungen mit ML - Diskrete Mathematik",
+            "year": "12 HS"
+        },
+        {
+            "author": "Prof. A. Steger",
+            "links": [
+                [
+                    "Aufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/serie07.pdf"
+                ],
+                [
+                    "L\u00f6sungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/los07.pdf"
+                ]
+            ],
+            "title": "Aufgaben zur Pr\u00fcfungsvorbereitung",
+            "year": "15 HS"
+        }
+    ]
+}

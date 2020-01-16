@@ -1,0 +1,208 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof T. Rutherford",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/final_sol.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Musterl\u00f6sung",
+            "year": "11 W"
+        },
+        {
+            "author": "Prof T. Rutherford",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/exam_lectures.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung",
+            "year": "12 F"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Lecture Slides.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lecture%20Slides.zip"
+                ]
+            ],
+            "title": "Lecture Slides",
+            "year": "12 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Index",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Accounting%20-%20Index.pdf"
+                ]
+            ],
+            "title": "Accounting for Managers - Index",
+            "year": "kA"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Kochbuch",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Accounting%20Summary%20WS%2006-07.zip"
+                ]
+            ],
+            "title": "Accounting for Managers - ZF",
+            "year": "06 WS"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/12HS_ManagEconomics_Summary.pdf"
+                ]
+            ],
+            "title": "Summary",
+            "year": "12 HS"
+        },
+        {
+            "author": "Sascha Mark",
+            "links": [
+                [
+                    "ManagerialEconomicsSummary.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ManagerialEconomicsSummary.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Yves Aschwanden",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Managerial%20Economics.pdf"
+                ]
+            ],
+            "title": "ZF Managerial Economics",
+            "year": "16 HS"
+        },
+        {
+            "author": "Prof T. Rutherford",
+            "links": [
+                [
+                    "Managerial Economics.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Managerial%20Economics.pdf"
+                ]
+            ],
+            "title": "Managerial Economics Zusammenassung",
+            "year": "2012"
+        },
+        {
+            "author": "Raphael Glaesener",
+            "links": [
+                [
+                    "Zusammenfassung Managerial.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Managerial.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Managerial",
+            "year": "2013"
+        },
+        {
+            "author": "Raphael Glaesener",
+            "links": [
+                [
+                    "Zusammenfassung Managerial.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Managerial_1.pdf"
+                ]
+            ],
+            "title": "ZF Managerial Economics",
+            "year": "2013"
+        },
+        {
+            "author": "Christoph Ryan",
+            "links": [
+                [
+                    "zfs_manec_ryanc_v1_0.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/zfs_manec_ryanc_v1_0.pdf"
+                ]
+            ],
+            "title": "ZFS Managerial Economics",
+            "year": "HS 12"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Eigene%20Accounting.zip"
+                ]
+            ],
+            "title": "Accounting for Managers - ZF",
+            "year": "kA"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "51",
+        "name": "Managerial Economics",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof T. Rutherford",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/manag-econom-ex-hs10.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit L\u00f6sungen",
+            "year": "10 HS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Exercises and Mockexam.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Exercises%20and%20Mockexam.zip"
+                ]
+            ],
+            "title": "Serien und Loesung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Buch",
+            "links": [
+                [
+                    "Managerial Economics Uebungen L\u00f6sungen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Managerial%20Economics%20Uebungen%20L%C3%B6sungen.zip"
+                ]
+            ],
+            "title": "Managerial Economics \u00dcbungen",
+            "year": "2012"
+        },
+        {
+            "author": "Robin Lanz",
+            "links": [
+                [
+                    "\u00dcbungszettel 1 und 2 Musterl\u00f6sung HS15",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ML%20Zettel.pdf"
+                ]
+            ],
+            "title": "HS 2015 \u00dcbungszettel 1 und 2 L\u00f6sungen",
+            "year": "2015"
+        }
+    ]
+}

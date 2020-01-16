@@ -1,0 +1,431 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Alte%20Pr%C3%BCfungen.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen",
+            "year": "01 FS"
+        },
+        {
+            "author": "Lothar Thiele",
+            "links": [
+                [
+                    "Diverse Aufgaben.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Diverse%20Aufgaben.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungsaufgaben",
+            "year": "01-12"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Beispiel%20Aufgaben%20FS09%20TIk%20I.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit ML",
+            "year": "09HS"
+        },
+        {
+            "author": "Prof. L. Thiele",
+            "links": [
+                [
+                    "Pr\u00fcfungsaufgabe 4 2016",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/S16.4.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungsaufgabe 2016 Virtueller Speicher mit MuL\u00f6",
+            "year": "16 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Prof. L. Thiele",
+            "links": [
+                [
+                    "Vorlesungsfolien.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Vorlesungsfolien.pdf"
+                ],
+                [
+                    "assemblylanguageprogdoc.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/assemblylanguageprogdoc.pdf"
+                ],
+                [
+                    "HP_AppA.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HP_AppA.pdf"
+                ]
+            ],
+            "title": "Vorlesungsfolien",
+            "year": "12 HS"
+        },
+        {
+            "author": "Alexander Dietm\u00fcller",
+            "links": [
+                [
+                    "Aufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/aufgaben.pdf"
+                ],
+                [
+                    "L\u00f6sungen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/l%C3%B6sungen_1.pdf"
+                ],
+                [
+                    ".tex Dateien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tik_pvk.zip"
+                ],
+                [
+                    "Skript",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/script_1.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungsvorbereitungskurs",
+            "year": "17 HS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "Lukas M\u00fcller",
+            "links": [
+                [
+                    "Folien",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pvk_presentation.pdf"
+                ],
+                [
+                    "L\u00f6sungen der Aufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pvk_sol.pdf"
+                ]
+            ],
+            "title": "PVK Folien mit Aufgaben",
+            "year": "14 HS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische_Informatik_1.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "04 HS"
+        },
+        {
+            "author": "Pascal Hager",
+            "links": [
+                [
+                    "Langfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20-%20Technische%20Informatik%20I.pdf"
+                ],
+                [
+                    "Kurzfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Short%20-%20Technische%20Informatik%20I.pdf"
+                ]
+            ],
+            "title": "Zsfg TIK I",
+            "year": "10 HS"
+        },
+        {
+            "author": "Lukas Cavigelli",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Technische%20Informatik%20I%20ITET%20Lukas%20Cavigelli.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20Technische%20Informatik%20I%20ITET%20Lukas%20Cavigelli.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "Zusammenfassung TIkI fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung%20TIkI%20fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 HS"
+        },
+        {
+            "author": "ABT",
+            "links": [
+                [
+                    "TiK Zusfg",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%20Zsfg.pdf"
+                ],
+                [
+                    "TiK Latex source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%20Zsfg.zip"
+                ]
+            ],
+            "title": "Zusfg TiK 1+2",
+            "year": "11 HS"
+        },
+        {
+            "author": "Raphael Keusch",
+            "links": [
+                [
+                    "TIK_I_keuschr.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK_I_keuschr.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung TIK I",
+            "year": "12 HS"
+        },
+        {
+            "author": "Fabian Schleiss",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK1_summary_fs.pdf"
+                ],
+                [
+                    "MIPS-Instruktionen",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK1_summary_fs_MIPS-Instruktionen.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 HS"
+        },
+        {
+            "author": "Andr\u00e9 Fernandes",
+            "links": [
+                [
+                    "TechInf1",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechInf1.pdf"
+                ]
+            ],
+            "title": "Technische Informatik I Zusammenfassung",
+            "year": "12/13"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "TikI_Zusammenfassung.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TikI_Zusammenfassung.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Tik1",
+            "year": "13 HS"
+        },
+        {
+            "author": "Christian Heiduschke",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIk%201%20ZF.pdf"
+                ],
+                [
+                    "TEX-Source.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIk%201%20ZF.zip"
+                ]
+            ],
+            "title": "Zusammenfassung TIk 1 (Prof Thiele)",
+            "year": "14 HS"
+        },
+        {
+            "author": "Lukas M\u00fcller",
+            "links": [
+                [
+                    "Zusammenfassung PVK",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ti1_pvk.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung PVK",
+            "year": "14 HS"
+        },
+        {
+            "author": "Raphael Fischer",
+            "links": [
+                [
+                    "latex zip version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20TiK%201%20Raphael%20Fischer.zip"
+                ],
+                [
+                    "pdf version",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Tik%20ZF.pdf"
+                ]
+            ],
+            "title": "ZF Tik 1",
+            "year": "15 HS"
+        },
+        {
+            "author": "Bigna H\u00e4rdi",
+            "links": [
+                [
+                    "TIK I ZS.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TiK%20ZS%20BH.pdf"
+                ],
+                [
+                    "TIK I ZS Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK%20ZS.zip"
+                ]
+            ],
+            "title": "TIK I Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Manuel Fritsche",
+            "links": [
+                [
+                    "pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/pdf_2.pdf"
+                ],
+                [
+                    "docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/docx_2.docx"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 HS"
+        },
+        {
+            "author": "Nicolas Fr\u00fch",
+            "links": [
+                [
+                    "tik.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/tik.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung TIK1",
+            "year": "16 F"
+        },
+        {
+            "author": "Sandro Lutz",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TechInfo1%20ZF.pdf"
+                ],
+                [
+                    "LaTeX-Source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Technische%20Informatik%201.zip"
+                ]
+            ],
+            "title": "Zusammenfassung Technische Informatik 1 (Thiele)",
+            "year": "16 HS"
+        },
+        {
+            "author": "Timo Streule",
+            "links": [
+                [
+                    "TIK_I_tstreule.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK_I.pdf"
+                ],
+                [
+                    "TIK_I_LaTeX.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIK_I.zip"
+                ]
+            ],
+            "title": "TIK I Zsfg (Thiele)",
+            "year": "17 HS"
+        },
+        {
+            "author": "Lukas B\u00fchrer",
+            "links": [
+                [
+                    "ZF_TIK1_Lukas_B\u00fchrer.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_TIK1_Lukas_B%C3%BChrer.docx"
+                ],
+                [
+                    "ZF_TIK1_Lukas_B\u00fchrer.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_TIK1_Lukas_B%C3%BChrer.pdf"
+                ],
+                [
+                    "ZF_TIK1_Lukas_B\u00fchrer_gek\u00fcrzt.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_TIK1_Lukas_B%C3%BChrer_gek%C3%BCrzt.docx"
+                ],
+                [
+                    "ZF_TIK1_Lukas_B\u00fchrer_gek\u00fcrzt.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF_TIK1_Lukas_B%C3%BChrer_gek%C3%BCrzt.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung TIK 1",
+            "year": "17 HS"
+        },
+        {
+            "author": "Silvano Cortesi, Felix Crazzolara, Nikolaus Vertov",
+            "links": [
+                [
+                    "Formelsammlung_TikI_Silvano_Cortesi.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_TikI_Silvano_Cortesi.pdf"
+                ],
+                [
+                    "Latex Files.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex%20Files.zip"
+                ]
+            ],
+            "title": "Zusammenfassung/Formelsammlung Tik I",
+            "year": "17 HS"
+        },
+        {
+            "author": "Gian Marti",
+            "links": [
+                [
+                    "EigeneZSFG.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EigeneZSFG.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung TIK I",
+            "year": "2014"
+        },
+        {
+            "author": "Dominik Werner",
+            "links": [
+                [
+                    "Formelsammlung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_TIK_I_dowerner.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "2014"
+        },
+        {
+            "author": "Adrian Peloso",
+            "links": [
+                [
+                    "TIk1_Zusammenfassung Adrian_Peloso.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TIk1_Zusammenfassung%20Adrian_Peloso.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung (inkl. neuer Stoff)",
+            "year": "2016"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "94",
+        "name": "Technische Informatik I",
+        "sem": [
+            "3"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. Thiele",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/bungen.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit L\u00f6sungen und Filearchives",
+            "year": "09 HS"
+        }
+    ]
+}

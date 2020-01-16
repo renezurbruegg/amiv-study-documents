@@ -1,0 +1,870 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS04_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS04_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "04 S"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0405_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/WS0405_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "05 F"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS05_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS05_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "05 S"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2_Herbst05.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo_Herbst05_Muloe.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LAV)",
+            "year": "05 S"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fr06_LTNT_Aufg_0.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fr06_LTNT_Lsg_0.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "06 F"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2_Herbst_06.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2_Herbst_06_Muloe.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LAV)",
+            "year": "06 S"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/He06_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/He06_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "06 S"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fr07_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fr07_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit MuL\u00f6 (LTNT)",
+            "year": "07 F"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/He07_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/He07_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "07 S"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fr08_LTNT_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Fr08_LTNT_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit MuL\u00f6 (LTNT)",
+            "year": "08 F"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LAV_FS_2008.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LAV)",
+            "year": "08 S"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LAV_FS_2009_Aufgaben.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LAV_FS_2009_Muloe.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LAV)",
+            "year": "09 S"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Prufung_Januar_2011.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Prufung_Januar_2011_Losung.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LAV)",
+            "year": "11 F"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/BSc_ThDII_Wi11_AufgOnline.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/BSc_ThDII_Wi11_Lsg.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LTNT)",
+            "year": "11 F"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Thermo II - Sommer 2011.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo%20II%20-%20Sommer%202011.pdf"
+                ]
+            ],
+            "title": "Sessionspr\u00fcfung",
+            "year": "11 S"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/August_2011_Loesung_20120709.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Mul\u00f6 (LAV)",
+            "year": "11 S"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Mul\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/August_2011_Loesung_20120709.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit Mul\u00f6 (LAV)",
+            "year": "11 S"
+        },
+        {
+            "author": "Prof K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ThermoII_Exam_FS16.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ThermoII_Soln_FS16.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung mit MuL\u00f6 (LAV)",
+            "year": "16 S"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfungen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/alte%20Pr%C3%BCfungen%20LAV%20und%20LTNT.zip"
+                ]
+            ],
+            "title": "alte Pr\u00fcfungen LAV und LTNT inkl. L\u00f6sungen bis 2017",
+            "year": "17 S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Marco Stephan",
+            "links": [
+                [
+                    "Thermo_II_Theorie.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo_II_Theorie.zip"
+                ]
+            ],
+            "title": "Theorie LAV / LTNT",
+            "year": "17FS"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/skript.zip"
+                ]
+            ],
+            "title": "Skrip (LTNT)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SkriptLAV.pdf"
+                ]
+            ],
+            "title": "Skript (LAV)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LAV-Skript.pdf"
+                ]
+            ],
+            "title": "Skript (LAV)",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. Pulikakos",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Skript%202011%20LTNT.zip"
+                ]
+            ],
+            "title": "Skript (LTNT)",
+            "year": "11 FS"
+        },
+        {
+            "author": "Lukas Fischer",
+            "links": [
+                [
+                    "Thermo II - Handouts (fischerl 2018).zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo%20II%20-%20Handouts%20%28fischerl%202018%29.zip"
+                ]
+            ],
+            "title": "Theorieb\u00e4tter / Handouts",
+            "year": "18 FS"
+        }
+    ],
+    "Testatklausuren": [
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2-SS06-Aufg.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2-SS06-Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "06 SS"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2-SS07-Aufg.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2-SS07-Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "07 SS"
+        },
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_FS08_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_FS08_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK_FS08.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK_FS08_solution.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS09_Aufg.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS09_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LAV_FS2009_Testatklausur.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/LAV_FS2009_Testatklausur_Muloe.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS09_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS09_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "09 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS10_Aufg.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS10_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK_April_2010.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK_April_2010_SP.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS10_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS10_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "10 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS11_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS11_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS11_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/TK2_ThDII_FS11_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK_April_2011.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK_April_2011_Losung.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "11 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Testatklausur_2012_LAV.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Testatklausur_2012_LAV_loesung.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "12 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Testatklausur_2012_LAV.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Testatklausur_2012_LAV_loesung.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "12 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS12_Aufg.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS12_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "12 FS"
+        },
+        {
+            "author": "Prof. D. Poulikakos",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS14_Aufg.pdf"
+                ],
+                [
+                    "MuL\u00f6",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_ThDII_FS14_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LTNT)",
+            "year": "13 FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "Pr\u00fcfung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_FS15_Aufg.pdf"
+                ],
+                [
+                    "L\u00f6sung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/TK2_FS15_Lsg.pdf"
+                ]
+            ],
+            "title": "Testatklausur mit MuL\u00f6 (LAV)",
+            "year": "15 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Johannes W\u00fcthrich",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung (LTNT)",
+            "year": "07 SS"
+        },
+        {
+            "author": "LTNT",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FormelsammlungLTNT08.pdf"
+                ]
+            ],
+            "title": "Formelsammlung (LTNT)",
+            "year": "08 FS"
+        },
+        {
+            "author": "LAV",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung_LAV.pdf"
+                ]
+            ],
+            "title": "Formelsammlung (LAV)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Stefan Liechti",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/thermo_ii_zf_liechti.pdf"
+                ],
+                [
+                    "tex file",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/thermo_ii_zf_liechti.tex"
+                ],
+                [
+                    "png figure",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/fuelcell_kennlinie.png"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "09 FS"
+        },
+        {
+            "author": "P\u00e9ter Fankhauser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermodynamik_II_LAV_fank.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung LAV",
+            "year": "09 FS"
+        },
+        {
+            "author": "Patrik Rohner",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/thermodynamik12_zsf_v1.3komprimiert.pdf"
+                ],
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/thermodynamik12_zsf_v1.3.docx"
+                ]
+            ],
+            "title": "Zusammenfassung (Thermo I & II)",
+            "year": "09 FS"
+        },
+        {
+            "author": "Dino H\u00fcllmann",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Thermodynamik%20II.pdf"
+                ],
+                [
+                    "Quell-ODT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF%20Thermodynamik%20II.odt"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Lukas Mosimann",
+            "links": [
+                [
+                    "ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermodynamik%20II%20LAV%20und%20LTNT%20v1.pdf"
+                ],
+                [
+                    "Wegleitung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Wegleitung_8.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Fabian Marbach",
+            "links": [
+                [
+                    "DOCX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS12_ThermodynamicsII_Summary.docx"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/SS12_ThermodynamicsII_Summary.pdf"
+                ]
+            ],
+            "title": "Formelsammlung",
+            "year": "12 FS"
+        },
+        {
+            "author": "Lukas Moy",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/thermoII_lmoy.pdf"
+                ],
+                [
+                    "TEX source",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/thermoII_lmoy.tex"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "12 FS"
+        },
+        {
+            "author": "Ignacio M. Lobato",
+            "links": [
+                [
+                    "Thermo2_ILH.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2_ILH.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13FS"
+        },
+        {
+            "author": "Marlin Strub",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2_ZF_MarlinStrub.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 FS"
+        },
+        {
+            "author": "Tobias L\u00f6w/Severin Meier",
+            "links": [
+                [
+                    "Thermo 2 ZF FS16",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermodynamik_II_ZF.zip"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "16 FS"
+        },
+        {
+            "author": "Marco Stephan",
+            "links": [
+                [
+                    "ZFThermoII.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZFThermoII.pdf"
+                ]
+            ],
+            "title": "Thermo II ZF",
+            "year": "2016"
+        },
+        {
+            "author": "Daniel Steinmann",
+            "links": [
+                [
+                    "Thermo2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo2_0.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Thermo II",
+            "year": "2017"
+        },
+        {
+            "author": "Tiziano Di Pietro",
+            "links": [
+                [
+                    "Graphen Termo",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo_Graphen.pdf"
+                ]
+            ],
+            "title": "Graphen Thermo",
+            "year": "HS 16"
+        }
+    ],
+    "info": {
+        "dep": "mavt",
+        "id": "32",
+        "name": "Thermodynamik II",
+        "sem": [
+            "4"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Dr. J. Gass/Prof. D. Poulikakos",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/uebungen08_1.zip"
+                ]
+            ],
+            "title": "\u00dcbungen (LTNT)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Uebungen08_0.zip"
+                ]
+            ],
+            "title": "\u00dcbungen (LAV)",
+            "year": "08 FS"
+        },
+        {
+            "author": "Prof. Dr. K. Boulouchos / Prof. Dr. D. Poulikakos",
+            "links": [
+                [
+                    "Thermo II 2012.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Thermo%20II%202012_0.zip"
+                ]
+            ],
+            "title": "\u00dcbung 2012",
+            "year": "12 FS"
+        },
+        {
+            "author": "Prof. Karlin & Co",
+            "links": [
+                [
+                    "U\u0308bungen.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/U%CC%88bungen_3.zip"
+                ]
+            ],
+            "title": "LAV & LTNT \u00dcbungen",
+            "year": "18 FS"
+        }
+    ]
+}

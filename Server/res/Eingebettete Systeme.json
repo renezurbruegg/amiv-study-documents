@@ -1,0 +1,244 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "Prof. Thiele (ernesi)",
+            "links": [
+                [
+                    "herbst2005_blank2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/herbst2005_blank2.pdf"
+                ]
+            ],
+            "title": "05 HS blank",
+            "year": "05 HS"
+        },
+        {
+            "author": "Prof. Thiele (ernesi)",
+            "links": [
+                [
+                    "sommer2010_en_blank2.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/sommer2010_en_blank2.pdf"
+                ]
+            ],
+            "title": "Pr\u00fcfung S10 blank (E)",
+            "year": "10S"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Folien",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/all_slides_2012.pdf"
+                ]
+            ],
+            "title": "Vorlesungsfolien - Eingebettete Systeme",
+            "year": "12FS"
+        },
+        {
+            "author": "Prof. L. Thiele",
+            "links": [
+                [
+                    "Lecture.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Lecture_1.zip"
+                ]
+            ],
+            "title": "Lecture Slides",
+            "year": "15FS"
+        }
+    ],
+    "Sonstiges": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "Aufgaben",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Musterpr%C3%BCfungsaufgaben.pdf"
+                ],
+                [
+                    "ML",
+                    "https://legacy.amiv.ethz.ch/system/files/protokolle/Musterpr%C3%BCfungsaufgaben%20ML.pdf"
+                ]
+            ],
+            "title": "Beispielpr\u00fcfungmit ML - Eingebettete Systeme",
+            "year": "12FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "FS2014_ES_minitest_1_tasks.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2014_ES_minitest_1_tasks.pdf"
+                ],
+                [
+                    "FS2014_ES_minitest_1_solution.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2014_ES_minitest_1_solution.pdf"
+                ],
+                [
+                    "FS2014_ES_minitest_2_tasks.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2014_ES_minitest_2_tasks.pdf"
+                ],
+                [
+                    "FS2014_ES_minitest_2_solution.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2014_ES_minitest_2_solution.pdf"
+                ],
+                [
+                    "FS2014_ES_minitest_3_tasks.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2014_ES_minitest_3_tasks.pdf"
+                ],
+                [
+                    "FS2014_ES_minitest_3_solution.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2014_ES_minitest_3_solution.pdf"
+                ]
+            ],
+            "title": "ES Mini Tests (incl. \"solutionless\" version)",
+            "year": "14FS"
+        },
+        {
+            "author": "",
+            "links": [
+                [
+                    "FS2015 Mini Tests.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/FS2015%20Mini%20Tests.zip"
+                ]
+            ],
+            "title": "ES Mini Tests",
+            "year": "15 FS"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Chris Walser",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EmbeddedSystems.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung Embedded Systems 06",
+            "year": "06 FS"
+        },
+        {
+            "author": "Abiraam Varathan",
+            "links": [
+                [
+                    "Abiram ZSG.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Abiram%20ZSG.pdf"
+                ]
+            ],
+            "title": "ES Zusammenfassung",
+            "year": "11 FS"
+        },
+        {
+            "author": "Fabian Schuiki",
+            "links": [
+                [
+                    "PDF+LaTeX",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ES%20Summary%20fschuiki.zip"
+                ]
+            ],
+            "title": "Summary (with LaTeX source)",
+            "year": "14 FS"
+        },
+        {
+            "author": "Andreas Biri",
+            "links": [
+                [
+                    "Zusammenfassung",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/EmbeddedSystems_Summary.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Norwin Schnyder",
+            "links": [
+                [
+                    "Zusammenfassung_ES.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zusammenfassung_ES.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "15 FS"
+        },
+        {
+            "author": "Gian Marti",
+            "links": [
+                [
+                    "ES_Summary_FS16",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ES_Summary.zip"
+                ]
+            ],
+            "title": "Summary",
+            "year": "16 FS"
+        },
+        {
+            "author": "Raphael Fischer (based on Gian Martis Version)",
+            "links": [
+                [
+                    "Summary + source files",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary_embeded_systems.zip"
+                ]
+            ],
+            "title": "Summary with source code Embedded Systems",
+            "year": "17FS"
+        },
+        {
+            "author": "Gua Hao Khov",
+            "links": [
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zsfg_ES_Thiele_Khov.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex%20Request_4.txt"
+                ]
+            ],
+            "title": "Zfsg (Thiele)",
+            "year": "18 FS"
+        },
+        {
+            "author": "Simon Erne",
+            "links": [
+                [
+                    "ZF-Embedded-Simon Erne-09_08_18.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Embedded-Simon%20Erne-09_08_18.pdf"
+                ],
+                [
+                    "ZF-Embedded-Simon Erne.docx",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ZF-Embedded-Simon%20Erne.docx"
+                ],
+                [
+                    "Medien.rar",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Medien_0.rar"
+                ]
+            ],
+            "title": "ZF | Embedded System | Lothar Thiele",
+            "year": "18 FS"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "124",
+        "name": "Eingebettete Systeme",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof L. Thiele",
+            "links": [
+                [
+                    "ZIP",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/ES%20Serien%20FS12.zip"
+                ]
+            ],
+            "title": "\u00dcbungen und Labor\u00fcbungen mit Musterl\u00f6sung",
+            "year": "12FS"
+        }
+    ]
+}

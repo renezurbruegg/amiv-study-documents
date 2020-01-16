@@ -1,0 +1,119 @@
+{
+    "Pr\u00fcfungen": [
+        {
+            "author": "",
+            "links": [
+                [
+                    "HSSP-Exams.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSSP-Exams.zip"
+                ]
+            ],
+            "title": "Pr\u00fcfungen mit Musterl\u00f6sungen",
+            "year": "13 HS"
+        }
+    ],
+    "Skripts und \u00e4hnliches": [
+        {
+            "author": "Werner B\u00e4chtold",
+            "links": [
+                [
+                    "Leitungen und Filter SKRIPT",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/L%2BF_Skript_10.pdf"
+                ]
+            ],
+            "title": "Leitungen und Filter SKRIPT",
+            "year": "10"
+        }
+    ],
+    "Zusammenfassungen": [
+        {
+            "author": "Florian Glaser",
+            "links": [
+                [
+                    "HSSP-Summary-HS13-fgl.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSSP-Summary-HS13-fgl.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "13 HS"
+        },
+        {
+            "author": "Stefan Lippuner",
+            "links": [
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20HSS.zip"
+                ],
+                [
+                    "PDF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Formelsammlung%20HSS.pdf"
+                ]
+            ],
+            "title": "Zusammenfassung",
+            "year": "14 HS"
+        },
+        {
+            "author": "Lukas Bieri",
+            "links": [
+                [
+                    "PDF ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSSP%20ZF%20Lukas%202016_1.pdf"
+                ],
+                [
+                    "LATEX ZF",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSSP%20ZF%20Lukas%202016_1.zip"
+                ]
+            ],
+            "title": "ZF VL Colombo Bolognesi",
+            "year": "16 HS"
+        },
+        {
+            "author": "Gua Hao Khov",
+            "links": [
+                [
+                    "PDF-File",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Zfsg_HSSP_Colombo_Khov.pdf"
+                ],
+                [
+                    "Latex",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Latex%20Request_3.txt"
+                ]
+            ],
+            "title": "Zfsg (Colombo)",
+            "year": "18 HS"
+        },
+        {
+            "author": "Assistants",
+            "links": [
+                [
+                    "Summary 1 - 5low.pdf",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/Summary%201%20-%205low.pdf"
+                ]
+            ],
+            "title": "Very Unofficial Summary",
+            "year": "2016"
+        }
+    ],
+    "info": {
+        "dep": "itet",
+        "id": "173",
+        "name": "High-Speed Signal Propagation",
+        "sem": [
+            "5+"
+        ]
+    },
+    "master": false,
+    "\u00dcbungsserien und \u00e4hnliches": [
+        {
+            "author": "Prof. C. Bolognesi",
+            "links": [
+                [
+                    "HSSP-Exercises-HS13.zip",
+                    "https://legacy.amiv.ethz.ch/system/files/studiumsunterlagen/HSSP-Exercises-HS13.zip"
+                ]
+            ],
+            "title": "\u00dcbungen mit Musterl\u00f6sungen",
+            "year": "13 HS"
+        }
+    ]
+}
