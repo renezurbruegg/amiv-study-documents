@@ -11,8 +11,6 @@ from pylogging import HandlerType, setup_logger
 import json
 from pymongo import MongoClient
 
-from Server import mat_loader
-
 logger = logging.getLogger(__name__)
 setup_logger(log_directory='./logs', file_handler_type=HandlerType.ROTATING_FILE_HANDLER, allow_console_logging=True,
              console_log_level=logging.DEBUG, max_file_size_bytes=1000000)

@@ -46,7 +46,7 @@ def main():
 
     logger.info("starting server")
     try:
-        app.run(debug = True, host = app.config["IP"], port = app.config["PORT"])
+        app.run(debug = True, host = app.config["IP"], port = app.config["PORT"],ssl_context='adhoc')
         logger.info("Server started. IP: " + str(app.config["IP"]) + " Port: " + str(app.config["PORT"]))
     except Exception as exc:
         logger.error(exc)

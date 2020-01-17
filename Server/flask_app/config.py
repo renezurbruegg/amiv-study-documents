@@ -17,7 +17,7 @@ class BaseConfig(object):
     """Base class for default set of configs."""
 
     POLLING_TIME_DELAY = 0.1
-    PORT = 8080
+    PORT = 8081
     IP = '0.0.0.0'
     PIN_CODE = "1234"
     DEBUG = False

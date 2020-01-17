@@ -594,3 +594,71 @@
 2020-01-16 18:11:09 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:11:09] "GET /mat/forName/Netzwerke%20und%20Schaltungen%20I HTTP/1.1" 200 -
 2020-01-16 18:11:41 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:11:41] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -
 2020-01-16 18:18:06 [INFO    ] [werkzeug._log:122                   ] 127.0.0.1 - - [16/Jan/2020 18:18:06] "GET /mat/forName/Image%20Analysis%20and%20Computer%20Vision HTTP/1.1" 200 -
+2020-01-17 08:14:37 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:14:37 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:14:37 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:14:37 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2020-01-17 08:14:37 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-17 08:14:38 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:14:38 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:14:38 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:14:38 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-17 08:14:38 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 265-730-160
+2020-01-17 08:14:44 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:14:44] "GET / HTTP/1.1" 404 -
+2020-01-17 08:14:45 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:14:45] "GET /favicon.ico HTTP/1.1" 404 -
+2020-01-17 08:15:13 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:15:13] "GET /mat/itet/3/NUST%20I HTTP/1.1" 200 -
+2020-01-17 08:15:16 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:15:16] "GET /mat/itet/3/NUS HTTP/1.1" 200 -
+2020-01-17 08:15:20 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:15:20] "GET /mat/itet/3/Netzw HTTP/1.1" 200 -
+2020-01-17 08:15:23 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:15:23] "GET /mat/itet/3/image HTTP/1.1" 200 -
+2020-01-17 08:15:40 [INFO    ] [flask_app.server.main:50            ] Server started. IP: 0.0.0.0 Port: 8081
+2020-01-17 08:21:39 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:21:39 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:21:39 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:21:39 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2020-01-17 08:21:39 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-17 08:21:39 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:21:39 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:21:39 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:21:39 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-17 08:21:39 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 265-730-160
+2020-01-17 08:21:41 [INFO    ] [flask_app.server.main:50            ] Server started. IP: 0.0.0.0 Port: 8081
+2020-01-17 08:22:28 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:22:28 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:22:28 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:22:28 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2020-01-17 08:22:28 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-17 08:22:28 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:22:28 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:22:28 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:22:28 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-17 08:22:28 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 265-730-160
+2020-01-17 08:22:29 [INFO    ] [flask_app.server.main:50            ] Server started. IP: 0.0.0.0 Port: 8081
+2020-01-17 08:23:08 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:23:08 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:23:08 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:23:08 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2020-01-17 08:23:08 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-17 08:23:08 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:23:08 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:23:08 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:23:09 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-17 08:23:09 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 265-730-160
+2020-01-17 08:23:09 [INFO    ] [flask_app.server.main:50            ] Server started. IP: 0.0.0.0 Port: 8081
+2020-01-17 08:25:24 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:25:24 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:25:24 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:25:24 [INFO    ] [werkzeug._log:122                   ]  * Running on http://0.0.0.0:8081/ (Press CTRL+C to quit)
+2020-01-17 08:25:24 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-17 08:25:24 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:25:24 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:25:24 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:25:24 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-17 08:25:24 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 265-730-160
+2020-01-17 08:25:34 [INFO    ] [werkzeug._log:122                   ] 10.5.32.130 - - [17/Jan/2020 08:25:34] "GET /mat/itet/3/image HTTP/1.1" 200 -
+2020-01-17 08:32:39 [INFO    ] [werkzeug._log:122                   ]  * Detected change in '/root/amiv-study-documents/Server/flask_app/server.py', reloading
+2020-01-17 08:32:39 [INFO    ] [werkzeug._log:122                   ]  * Restarting with stat
+2020-01-17 08:32:40 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:32:40 [WARNING ] [flask_cors.core.serialize_option:362] Unknown option passed to Flask-CORS: headers
+2020-01-17 08:32:40 [INFO    ] [flask_app.server.main:47            ] starting server
+2020-01-17 08:32:40 [WARNING ] [werkzeug._log:122                   ]  * Debugger is active!
+2020-01-17 08:32:40 [INFO    ] [werkzeug._log:122                   ]  * Debugger PIN: 265-730-160
